@@ -1,0 +1,14 @@
+{
+    "ns1_sinkhole_ch.json": [
+        {
+            "url": "https://pulsedive.com/api/search.php?type[]=all&risk[]=all&retired=false&property[0][key]=property&property[0][type]=dns&property[0][value]=ns1.sinkhole.ch&lastseen=all&search=indicators&pretty=true",
+            "values": {
+                "Domain": {
+                    "parseStart": "\"indicator\":",
+                    "parseEnd": ",",
+                    "storeAs": "string"
+                }
+            }
+        }
+    ]
+}
