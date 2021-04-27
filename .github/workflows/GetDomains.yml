@@ -34,11 +34,3 @@ jobs:
           sourceFile: ./fetch-api-data-action/ns1_sinkhole_ch.json
           targetPath: ./JsonToDomains
           targetFile: ns1_sinkhole_ch.json
-          
-      - name: Push changes to GitHub
-        run: |
-          git config user.name Data_Updater
-          git config user.email github-actions@github.com
-          git add .
-          git commit -m "Isolate fields with the domain"
-          git push
