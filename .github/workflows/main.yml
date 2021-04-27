@@ -24,12 +24,14 @@ jobs:
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
-
-      - name: Grab API, parse, and change files to new data
-        uses: ThatTimothy/api-grabber@v1.0.0
+      
+      - name: Fetch API Data
+        uses: JamesIves/fetch-api-data-action@1.0.19
         with:
-          options: "options.json"
-              
+          ENDPOINT: https://pulsedive.com/api/search.php?type[]=all&risk[]=all&retired=false&property[0][key]=property&property[0][type]=dns&property[0][value]=ns1.sinkhole.ch&lastseen=all&search=indicators&pretty=true
+          CONFIGURATION: '{ "method": "GET"}'
+          SAVE_NAME: ns1_sinkhole_ch
+          
       - name: Push changes to GitHub  
         run: |
           git config user.name Data_Updater
