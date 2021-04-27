@@ -27,7 +27,7 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: Json Fields
-        uses: AlexRogalskiy/github-action-json-fields@v2.0.1
+        uses: AlexRogalskiy/github-action-json-fields@master
         with:
           mode: 'unique'
           jsonPath: '$.results.[*].indicator'
