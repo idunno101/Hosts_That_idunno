@@ -27,8 +27,7 @@ jobs:
       - name: Parse
         uses: actions/checkout@v2
       - run: |
-          ls -a
-          jq '.indicator' ./fetch-api-data-action/ns1_sinkhole_ch.json > ns1_sinkhole_ch.txt
+          jq '..|.indicator?' ./fetch-api-data-action/ns1_sinkhole_ch.json > ns1_sinkhole_ch.txt
     
       - name: Upload result
         uses: actions/upload-artifact@v2
