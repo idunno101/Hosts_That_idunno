@@ -30,7 +30,7 @@ jobs:
         uses: AlexRogalskiy/github-action-json-fields@master
         with:
           mode: 'unique'
-          jsonPath: '$.results.[*].indicator'
+          jsonPath: '$. .indicator'
           sourceFile: ./fetch-api-data-action/ns1_sinkhole_ch.json
           targetPath: ./JsonToDomains
           targetFile: ns1_sinkhole_ch.json
