@@ -27,19 +27,12 @@ jobs:
       - name: Parse
         uses: actions/checkout@v2
       - run: |
-          jq '..|.indicator?' ./fetch-api-data-action/ns1_sinkhole_ch.json > ns1_sinkhole_ch.txt
+          jq '..|.indicator?' ./fetch-api-data-action/ns1_sinkhole_ch.json > ./Domains/ns1_sinkhole_ch.txt
     
-      - name: Upload result
-        uses: actions/upload-artifact@v2
-        with:
-          name: NS1_sinkhole
-          path: ns1_sinkhole_ch.txt
-
-#      - name: Json Fields
-#        uses: AlexRogalskiy/github-action-json-fields@master
-#        with:
-#          mode: 'unique'
-#          jsonPath: '$. .indicator'
-#          sourceFile: ./fetch-api-data-action/ns1_sinkhole_ch.json
-#          targetPath: ./JsonToDomains
-#          targetFile: ns1_sinkhole_ch.json
+      - name: Push updated domains
+        run: |
+          git config user.name Data_Updater
+          git config user.email github-actions@github.com
+          git add .
+          git commit -m "Update domains related to ns1.sinkhole.ch"
+          git push- name: Push changes to GitHub
