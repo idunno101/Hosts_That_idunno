@@ -23,16 +23,27 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - uses: actions/checkout@v2
       # Runs a single command using the runners shell
       - name: Parse
-        uses: actions/checkout@v2
-      - run: |
-          jq '..|.indicator?' ./fetch-api-data-action/ns1_sinkhole_ch.json > ./Domains/ns1_sinkhole_ch.txt
-    
+        run: |
+          jq --raw-output '..|.indicator?' ./fetch-api-data-action/ns1_sinkhole_ch.json > ./parsed-ns1_sinkhole_ch.txt
+      
+      - name: Set up Python 3.x
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+      
+      - name: Generate hosts file
+        env:
+          OUTPUT_FILE: 'ns1_sinkhole_ch.txt'
+          SUPPLIED_FILE: 'parsed-ns1_sinkhole_ch.txt'
+        run: python make_hosts.py
+      
       - name: Push updated domains
         run: |
           git config user.name Data_Updater
           git config user.email github-actions@github.com
-          git add .
+          git add ./Domains
           git commit -m "Update domains related to ns1.sinkhole.ch"
           git push
