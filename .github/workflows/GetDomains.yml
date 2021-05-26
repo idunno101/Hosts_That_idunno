@@ -22,9 +22,8 @@ jobs:
       - name: Fetch API Data
         uses: JamesIves/fetch-api-data-action@1.0.19
         with:
-          ENDPOINT: https://pulsedive.com/api/search.php?type[]=all&risk[]=all&retired=false&property[0][key]=property&property[0][type]=dns
-          #&property[0][value]=ns1.sinkhole.ch&lastseen=all&search=indicators&pretty=true
-          CONFIGURATION: '{ "method": "GET", "property[0][value]": "ns1.sinkhole.ch", "lastseen": "all", "search": "indicator", "pretty": "true", "key": "${{ secrets.PULSEDIVE_API }}" }'
+          ENDPOINT: https://pulsedive.com/api/search.php?type[]=all&risk[]=all&retired=false&property[0][key]=property&property[0][type]=dns&property[0][value]=ns1.sinkhole.ch&lastseen=all&search=indicators&pretty=true&key=${{ secrets.PULSEDIVE_API }}
+          CONFIGURATION: '{ "method": "GET" }'
           SAVE_NAME: ns1_sinkhole_ch
 
       - name: Parse
