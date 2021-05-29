@@ -1,0 +1,51 @@
+name: For sinkhole.sidnlabs.nl
+
+# Controls when the action will run. 
+on:
+  schedule:
+    - cron: '44 4 * * *'
+  
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+jobs:
+
+  Get_domains_and_generate_hosts_file:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - uses: actions/checkout@v2
+  
+      - name: Fetch API Data
+        uses: JamesIves/fetch-api-data-action@1.0.19
+        with:
+          ENDPOINT: https://pulsedive.com/api/search.php?type%5B%5D=all&risk%5B%5D=all&retired=false&property%5B0%5D%5Bkey%5D=property&property%5B0%5D%5Btype%5D=dns&property%5B0%5D%5Bvalue%5D=See%20http%3A%2F%2Fsinkhole.sidnlabs.nl%20for%20information&limit=hundred&lastseen=all&search=indicators&pretty=true&key=${{ secrets.PULSEDIVE_API }}
+          CONFIGURATION: '{ "method": "GET" }'
+          SAVE_NAME: sinkhole_sidnlabs_nl
+
+      - name: Parse
+        run: |
+          jq --raw-output '..|.indicator?' ./fetch-api-data-action/sinkhole_sidnlabs_nl.json > ./parsed-sinkhole_sidnlabs_nl.txt
+      
+      - name: Set up Python 3.x
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+      
+      - name: Generate hosts file
+        env:
+          OUTPUT_FILE: 'sinkhole_sidnlabs_nl.txt'
+          SUPPLIED_FILE: 'parsed-sinkhole_sidnlabs_nl.txt'
+        run: python make_hosts.py
+      
+      - name: Push updated domains
+        run: |
+          git config user.name Data_Updater
+          git config user.email github-actions@github.com
+          git add ./fetch-api-data-action/
+          git add ./Domains/
+          git commit -m "Update domains related to sinkhole.sidnlabs.nl"
+          git push
