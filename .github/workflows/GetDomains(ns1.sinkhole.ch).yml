@@ -40,14 +40,15 @@ jobs:
         env:
           OUTPUT_FILE: 'ns1_sinkhole_ch.txt'
           SUPPLIED_FILE: 'parsed-ns1_sinkhole_ch.txt'
-        run: python make_hosts.py
-      
+        run: |
+          python make_hosts.py
+          ls -a
+          
       - name: Push updated domains
         run: |
-          rm parsed-ns1_sinkhole_ch.txt
           git config user.name Data_Updater
           git config user.email github-actions@github.com
-          git add fetch-api-data-action/
-          git add Domains/
+          git add fetch-api-data-action/ns1_sinkhole_ch.json
+          git add Domains/ns1_sinkhole_ch.txt
           git commit -m "Update domains related to ns1.sinkhole.ch"
           git push
