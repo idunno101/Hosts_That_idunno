@@ -17,7 +17,8 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-      - uses: actions/checkout@v2
+      - name: Check out repository 
+        uses: actions/checkout@v2
   
       - name: Fetch API Data
         uses: JamesIves/fetch-api-data-action@1.0.19
@@ -39,13 +40,14 @@ jobs:
         env:
           OUTPUT_FILE: '85-17-31-122_shadowserver.txt'
           SUPPLIED_FILE: 'parsed-85-17-31-122_shadowserver.txt'
-        run: python make_hosts.py
+        run: |
+          python make_hosts.py
       
       - name: Push updated domains
         run: |
           git config user.name Data_Updater
           git config user.email github-actions@github.com
-          git add fetch-api-data-action/
-          git add Domains/
+          git add -u fetch-api-data-action/
+          git add -u Domains/
           git commit -m "Update domains related to 85.17.31.122 (shadowserver)"
           git push
