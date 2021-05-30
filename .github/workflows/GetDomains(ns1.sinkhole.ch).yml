@@ -18,7 +18,10 @@ jobs:
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - name: Check out repository
-        uses: actions/checkout@v2
+       # uses: actions/checkout@v2
+        run: |
+          git branch update-ns1.sinkhole.ch
+          git checkout update-ns1.sinkhole.ch
   
       - name: Fetch API Data
         uses: JamesIves/fetch-api-data-action@1.0.19
