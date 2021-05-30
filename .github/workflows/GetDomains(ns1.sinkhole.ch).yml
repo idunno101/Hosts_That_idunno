@@ -18,11 +18,8 @@ jobs:
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - name: Check out repository
-       # uses: actions/checkout@v2
-        run: |
-          git branch update-ns1.sinkhole.ch
-          git checkout update-ns1.sinkhole.ch
-  
+        uses: actions/checkout@v2
+       
       - name: Fetch API Data
         uses: JamesIves/fetch-api-data-action@1.0.19
         with:
@@ -49,8 +46,7 @@ jobs:
         run: |
           git config user.name Data_Updater
           git config user.email github-actions@github.com
-          git add fetch-api-data-action/
-          git add Domains/
-          git status
+          git add fetch-api-data-action/\*
+          git add Domains/\*
           git commit -m "Update domains related to ns1.sinkhole.ch"
           git push
