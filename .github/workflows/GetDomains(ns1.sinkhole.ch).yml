@@ -19,13 +19,7 @@ jobs:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - name: Check out repository
         uses: actions/checkout@v2
-      
-      - name: Remove past domains
-        run: |
-          rm ./fetch-api-data-action/ns1_sinkhole_ch.json
-          rm ./Domains/ns1_sinkhole_ch.txt
-          ls -a ./Domains
-      
+
       - name: Fetch API Data
         uses: JamesIves/fetch-api-data-action@1.0.19
         with:
@@ -48,7 +42,6 @@ jobs:
           SUPPLIED_FILE: 'parsed-ns1_sinkhole_ch.txt'
         run: |
           python make_hosts.py
-          ls -a ./Domains
           
       - name: Push updated domains
         run: |
