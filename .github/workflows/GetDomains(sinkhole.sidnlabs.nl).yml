@@ -17,6 +17,7 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - name: Check out repository
       - uses: actions/checkout@v2
   
       - name: Fetch API Data
@@ -39,13 +40,14 @@ jobs:
         env:
           OUTPUT_FILE: 'sinkhole_sidnlabs_nl.txt'
           SUPPLIED_FILE: 'parsed-sinkhole_sidnlabs_nl.txt'
-        run: python make_hosts.py
+        run: |
+          python make_hosts.py
       
       - name: Push updated domains
         run: |
           git config user.name Data_Updater
           git config user.email github-actions@github.com
-          git add fetch-api-data-action/
-          git add Domains/
+          git add -u fetch-api-data-action/
+          git add -u Domains/
           git commit -m "Update domains related to sinkhole.sidnlabs.nl"
           git push
