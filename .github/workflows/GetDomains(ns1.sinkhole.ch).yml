@@ -16,10 +16,6 @@ jobs:
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-      - name: Check out repository
-        uses: actions/checkout@v2
-       
       - name: Fetch API Data
         uses: JamesIves/fetch-api-data-action@1.0.19
         with:
@@ -36,6 +32,10 @@ jobs:
         with:
           python-version: '3.x'
       
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - name: Check out repository
+        uses: actions/checkout@v2
+      
       - name: Generate hosts file
         env:
           OUTPUT_FILE: 'ns1_sinkhole_ch.txt'
@@ -46,7 +46,7 @@ jobs:
         run: |
           git config user.name Data_Updater
           git config user.email github-actions@github.com
-          git add -A fetch-api-data-action/
-          git add -A Domains/
+          git add fetch-api-data-action/
+          git add Domains/
           git commit -m "Update domains related to ns1.sinkhole.ch"
           git push
