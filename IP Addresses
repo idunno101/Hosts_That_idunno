@@ -1,15 +1,24 @@
 # Hosts_That_idunno
 # Updated on: 29-May-2021
 
-
 ##### Abuse.ch (https://abuse.ch/blog/sinkholes-and-internet-hygiene/)
 192.42.116.41
 # Source: https://www.virustotal.com/gui/ip-address/192.42.116.41/relations
 
-
 ##### Kryptos Logic Sinkhole
 35.229.93.46
 # Source: https://www.virustotal.com/gui/ip-address/35.229.93.46/detection
-
 35.231.151.7
 # Source: https://www.virustotal.com/gui/ip-address/35.231.151.7/detection
+
+##### Shadowserver (https://www.darknet.org.uk/2006/06/shadowserver-battles-the-botnets/)
+85.17.31.122
+# Source: https://www.virustotal.com/gui/domain/77ed2.makemegood24.com/details
+
+##### SIDN Labs (http://sinkhole.sidnlabs.nl/)
+176.58.104.168
+# Source: https://www.virustotal.com/gui/domain/www.isxqtvjhuwmvzpprkfqwrlvuxmcmrb.nl/details
+
+##### Torpig sinkhole
+87.106.18.122
+# Source: https://www.virustotal.com/gui/ip-address/87.106.18.122/relations
