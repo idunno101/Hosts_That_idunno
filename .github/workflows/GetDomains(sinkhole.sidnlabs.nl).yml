@@ -23,7 +23,7 @@ jobs:
       - name: Fetch API Data
         uses: JamesIves/fetch-api-data-action@1.0.19
         with:
-          ENDPOINT: https://pulsedive.com/api/search.php?type%5B%5D=all&risk%5B%5D=all&retired=false&property%5B0%5D%5Bkey%5D=property&property%5B0%5D%5Btype%5D=dns&property%5B0%5D%5Bvalue%5D=See%20http%3A%2F%2Fsinkhole.sidnlabs.nl%20for%20information&limit=hundred&lastseen=all&search=indicators&pretty=true&key=${{ secrets.PULSEDIVE_API }}
+          ENDPOINT: https://pulsedive.com/api/search.php?type[]=all&risk[]=all&retired=false&property[0][key]=property&property[0][type]=dns&property[0][value]=sinkhole.sidnlabs.nl&lastseen=all&search=indicators&pretty=true&key=${{ secrets.PULSEDIVE_API }}
           CONFIGURATION: '{ "method": "GET" }'
           SAVE_NAME: sinkhole_sidnlabs_nl
 
