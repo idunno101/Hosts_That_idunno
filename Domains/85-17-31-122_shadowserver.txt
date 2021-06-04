@@ -145,3 +145,16 @@
 0.0.0.0  78981.bmakemegood24.com
 0.0.0.0  bmakemegood24.com
 0.0.0.0  usai.theyardservice.com
+0.0.0.0  77ed2.makemegood24.com
+0.0.0.0  6d8fd.bmakemegood24.com
+0.0.0.0  cygnusadmedia.fs.ak-is.net
+0.0.0.0  6f937.bmakemegood24.com
+0.0.0.0  ads9.xml.ak-is.net
+0.0.0.0  traffic-sale.xml.ak-is.net
+0.0.0.0  danarimedia.cpm.ak-is.net
+0.0.0.0  6f5cc.bmakemegood24.com
+0.0.0.0  77146.bcash-ddt.net
+0.0.0.0  141f128f.bxxxl-cash.net
+0.0.0.0  bxxxl-cash.net
+0.0.0.0  12d5c9e.bmoney-frn.net
+0.0.0.0  bmoney-frn.net
