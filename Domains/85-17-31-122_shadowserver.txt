@@ -201,3 +201,7 @@
 0.0.0.0  bddr-cash.net
 0.0.0.0  theopenads.ui.ak-is.net
 0.0.0.0  6a1d0.bmakemegood24.com
+0.0.0.0  16c6f97.cash-ddt.net
+0.0.0.0  1947a.bmakemegood24.com
+0.0.0.0  srv.theyardservice.com
+0.0.0.0  451cfd36.money-frn.net
