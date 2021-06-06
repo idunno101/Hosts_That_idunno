@@ -33,3 +33,4 @@
 0.0.0.0  mtawbe.u7zywp.com
 0.0.0.0  xijfqs.u7zywp.com
 0.0.0.0  wnjfdi.u7zywp.com
+0.0.0.0  jxjke.rocks
