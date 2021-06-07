@@ -205,3 +205,10 @@
 0.0.0.0  1947a.bmakemegood24.com
 0.0.0.0  srv.theyardservice.com
 0.0.0.0  451cfd36.money-frn.net
+0.0.0.0  44b5e515.makemegood24.com
+0.0.0.0  3bda6f55.cash-ddt.net
+0.0.0.0  2a21cd67.money-frn.net
+0.0.0.0  2e54f25.cash-ddt.net
+0.0.0.0  1b7a689.bxxxl-cash.net
+0.0.0.0  pop3.lcomputers.com
+0.0.0.0  mx10.lcomputers.com
