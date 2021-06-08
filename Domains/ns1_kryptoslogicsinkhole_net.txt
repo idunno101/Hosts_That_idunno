@@ -35,3 +35,10 @@
 0.0.0.0  wnjfdi.u7zywp.com
 0.0.0.0  jxjke.rocks
 0.0.0.0  xpqcbv.u7zywp.com
+0.0.0.0  www.twititier.com
+0.0.0.0  twititier.com
+0.0.0.0  www.hyoeyeep.ws
+0.0.0.0  hyoeyeep.ws
+0.0.0.0  www.designthefuture.ru
+0.0.0.0  designthefuture.ru
+0.0.0.0  egtqfr.u7zywp.com
