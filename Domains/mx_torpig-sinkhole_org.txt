@@ -121,3 +121,12 @@
 0.0.0.0  sniper.retrmailse.com
 0.0.0.0  retrmailse.com
 0.0.0.0  mx4.comcasj.com
+0.0.0.0  www.blueprint-dsg.com
+0.0.0.0  smtp.comune.toptechny.com
+0.0.0.0  comune.toptechny.com
+0.0.0.0  esmtp.wesmailer.com
+0.0.0.0  vmail.toptechny.com
+0.0.0.0  ftp.247financedeal.com
+0.0.0.0  247financedeal.com
+0.0.0.0  esmtp.rettmail.com
+0.0.0.0  imailhost.wesmailer.com
