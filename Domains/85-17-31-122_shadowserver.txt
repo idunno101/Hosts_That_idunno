@@ -263,3 +263,7 @@
 0.0.0.0  filter.mediawayss.com
 0.0.0.0  xml.mediawayss.com
 0.0.0.0  www.static.theyardservice.com
+0.0.0.0  7b2a94.bcash-ddt.net
+0.0.0.0  exchange.theyardservice.com
+0.0.0.0  ftp.www.webcodez.com
+0.0.0.0  login.picellaltd.com
