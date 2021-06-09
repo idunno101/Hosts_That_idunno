@@ -130,3 +130,6 @@
 0.0.0.0  247financedeal.com
 0.0.0.0  esmtp.rettmail.com
 0.0.0.0  imailhost.wesmailer.com
+0.0.0.0  mails.toptechny.com
+0.0.0.0  webmail.flyer-beier.de
+0.0.0.0  pop.247financedeal.com
