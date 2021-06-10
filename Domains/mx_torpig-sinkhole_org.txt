@@ -133,3 +133,6 @@
 0.0.0.0  mails.toptechny.com
 0.0.0.0  webmail.flyer-beier.de
 0.0.0.0  pop.247financedeal.com
+0.0.0.0  mbox.afremails.com
+0.0.0.0  mail4.anxmalls.com
+0.0.0.0  gate.anxmalls.com
