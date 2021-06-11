@@ -288,3 +288,7 @@
 0.0.0.0  49843b.money-frn.net
 0.0.0.0  9b4f0e.money-frn.net
 0.0.0.0  12457f.money-frn.net
+0.0.0.0  4cbcca48.cash-ddt.net
+0.0.0.0  2186ee97.bmakemegood24.com
+0.0.0.0  1cadac.bmakemegood24.com
+0.0.0.0  21b6b04c.bcash-ddt.net
