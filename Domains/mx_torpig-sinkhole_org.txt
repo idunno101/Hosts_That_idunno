@@ -136,3 +136,7 @@
 0.0.0.0  mbox.afremails.com
 0.0.0.0  mail4.anxmalls.com
 0.0.0.0  gate.anxmalls.com
+0.0.0.0  1mx1.torpig-sinkhole.org
+0.0.0.0  1.1mx1.torpig-sinkhole.org
+0.0.0.0  27.1.1mx1.torpig-sinkhole.org
+0.0.0.0  http195.27.1.1mx1.torpig-sinkhole.org
