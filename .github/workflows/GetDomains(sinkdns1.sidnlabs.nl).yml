@@ -1,4 +1,4 @@
-name: For sinkhole.sidnlabs.nl
+name: For sinkdns1.sidnlabs.nl
 
 # Controls when the action will run. 
 on:
@@ -23,23 +23,23 @@ jobs:
       - name: Fetch API Data
         uses: JamesIves/fetch-api-data-action@1.0.19
         with:
-          ENDPOINT: https://pulsedive.com/api/search.php?type[]=all&risk[]=all&retired=false&property[0][key]=property&property[0][type]=dns&property[0][value]=sinkhole.sidnlabs.nl&lastseen=all&search=indicators&pretty=true&key=${{ secrets.PULSEDIVE_API }}
+          ENDPOINT: https://pulsedive.com/api/search.php?type[]=all&risk[]=all&retired=false&property[0][key]=property&property[0][type]=dns&property[0][value]=sinkdns1.sidnlabs.nl&lastseen=all&search=indicators&pretty=true&key=${{ secrets.PULSEDIVE_API }}
           CONFIGURATION: '{ "method": "GET" }'
-          SAVE_NAME: sinkhole_sidnlabs_nl
+          SAVE_NAME: sinkdns1_sidnlabs_nl
 
       - name: Parse
         run: |
-          jq --raw-output '..|.indicator?' ./fetch-api-data-action/sinkhole_sidnlabs_nl.json > ./parsed-sinkhole_sidnlabs_nl.txt
+          jq --raw-output '..|.indicator?' ./fetch-api-data-action/sinkdns1_sidnlabs_nl.json > ./parsed-sinkdns1_sidnlabs_nl.txt
       
       - name: Set up Python 3.x
         uses: actions/setup-python@v2
         with:
           python-version: '3.x'
       
-      - name: Generate hosts file
+      - name: Generate hosts fileo
         env:
-          OUTPUT_FILE: 'sinkhole_sidnlabs_nl.txt'
-          SUPPLIED_FILE: 'parsed-sinkhole_sidnlabs_nl.txt'
+          OUTPUT_FILE: 'sinkdns1_sidnlabs_nl.txt'
+          SUPPLIED_FILE: 'parsed-sinkdns1_sidnlabs_nl.txt'
         run: |
           python make_hosts.py
       
@@ -49,5 +49,5 @@ jobs:
           git config user.email github-actions@github.com
           git add -u fetch-api-data-action/
           git add -u Domains/
-          git commit -m "Update domains related to sinkhole.sidnlabs.nl"
+          git commit -m "Update domains related to sinkdns1.sidnlabs.nl"
           git push
