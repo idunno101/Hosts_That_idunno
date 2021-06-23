@@ -62,3 +62,6 @@
 0.0.0.0  caqmus.u7zywp.com
 0.0.0.0  ybaod.u7zywp.com
 0.0.0.0  tvso.u7zywp.com
+0.0.0.0  vvspre.u7zywp.com
+0.0.0.0  jqpwwx.u7zywp.com
+0.0.0.0  gsmkrj.u7zywp.com
