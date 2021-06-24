@@ -15,9 +15,6 @@
 0.0.0.0  www.myxmr.pw
 0.0.0.0  xmr.myxmr.pw
 0.0.0.0  brascase-br.com
-0.0.0.0  fqnvts.online
-0.0.0.0  bhcdgfuivlgjobyl.me
-0.0.0.0  yyyddxfpwo.me
 0.0.0.0  ltwqkhrnnnf.me
 0.0.0.0  icouldmakeyoubelieve.top
 0.0.0.0  makeyoubelieve.top
