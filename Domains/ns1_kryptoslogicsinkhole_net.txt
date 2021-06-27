@@ -68,3 +68,5 @@
 0.0.0.0  owhinr.u7zywp.com
 0.0.0.0  mvgrp.u7zywp.com
 0.0.0.0  iqxf.u7zywp.com
+0.0.0.0  rpmhit.u7zywp.com
+0.0.0.0  whbcd.u7zywp.com
