@@ -72,3 +72,9 @@
 0.0.0.0  whbcd.u7zywp.com
 0.0.0.0  cjhg.u7zywp.com
 0.0.0.0  juaed.u7zywp.com
+0.0.0.0  mpeuju.u7zywp.com
+0.0.0.0  66gbp.rocks
+0.0.0.0  tfbgj.u7zywp.com
+0.0.0.0  snqdto.u7zywp.com
+0.0.0.0  ihdlcc.u7zywp.com
+0.0.0.0  hhed.u7zywp.com
