@@ -146,3 +146,5 @@
 0.0.0.0  109.163.176ns2.torpig-sinkhole.org
 0.0.0.0  213.109.163.176ns2.torpig-sinkhole.org
 0.0.0.0  fjuj84hgoa84gn.xyz
+0.0.0.0  gjghvga7ffgb.xyz
+0.0.0.0  djghvga7ffgb.xyz
