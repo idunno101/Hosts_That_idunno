@@ -81,3 +81,9 @@
 0.0.0.0  ebokbs.u7zywp.com
 0.0.0.0  wiws.u7zywp.com
 0.0.0.0  lakb.u7zywp.com
+0.0.0.0  mwjis.u7zywp.com
+0.0.0.0  mnmpht.u7zywp.com
+0.0.0.0  jbcls.u7zywp.com
+0.0.0.0  tslkf.u7zywp.com
+0.0.0.0  nfsrs.u7zywp.com
+0.0.0.0  makclp.u7zywp.com
