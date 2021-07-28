@@ -23,13 +23,14 @@ jobs:
       - name: Fetch API Data
         uses: JamesIves/fetch-api-data-action@1.0.19
         with:
-          ENDPOINT: https://pulsedive.com/api/search.php?type[]=all&risk[]=all&retired=false&property[0][key]=property&property[0][type]=dns&property[0][value]=85.17.31.122&lastseen=all&search=indicators&pretty=true&key=${{ secrets.PULSEDIVE_API }}
+          ENDPOINT: https://pulsedive.com/api/search.php?type[]=all&risk[]=all&retired=false&property[0][key]=property&property[0][type]=dns&property[0][value]=85.17.31.122&lastseen=all&search=indicators&pretty=true&export=1&key=${{ secrets.PULSEDIVE_API }}
           CONFIGURATION: '{ "method": "GET" }'
           SAVE_NAME: 85-17-31-122_shadowserver
 
       - name: Parse
         run: |
-          jq --raw-output '..|.indicator?' ./fetch-api-data-action/85-17-31-122_shadowserver.json > ./parsed-85-17-31-122_shadowserver.txt
+          cut -d , -f 1 ./fetch-api-data-action/85-17-31-122_shadowserver.csv > ./parsed-85-17-31-122_shadowserver.txt
+   #jq --raw-output '..|.indicator?' ./fetch-api-data-action/85-17-31-122_shadowserver.json > ./parsed-85-17-31-122_shadowserver.txt
       
       - name: Set up Python 3.x
         uses: actions/setup-python@v2
