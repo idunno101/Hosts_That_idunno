@@ -22,7 +22,7 @@ jobs:
   
       - name: Fetch API Data
         run: |
-           wget --output-document=85-17-31-122_shadowserver.csv "https://pulsedive.com/api/search.php?type[]=all&risk[]=all&retired=false&property[0][key]=property&property[0][type]=dns&property[0][value]=85.17.31.122&lastseen=all&search=indicators&pretty=true&export=1&key=${{ secrets.PULSEDIVE_API }}
+           wget --output-document=./fetch-api-data-action/85-17-31-122_shadowserver.csv "https://pulsedive.com/api/search.php?type[]=all&risk[]=all&retired=false&property[0][key]=property&property[0][type]=dns&property[0][value]=85.17.31.122&lastseen=all&search=indicators&pretty=true&export=1&key=${{ secrets.PULSEDIVE_API }}
         #uses: JamesIves/fetch-api-data-action@1.0.19
         #with:
         #  ENDPOINT: https://pulsedive.com/api/search.php?type[]=all&risk[]=all&retired=false&property[0][key]=property&property[0][type]=dns&property[0][value]=85.17.31.122&lastseen=all&search=indicators&pretty=true&export=1&key=${{ secrets.PULSEDIVE_API }}
