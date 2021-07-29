@@ -21,16 +21,13 @@ jobs:
         uses: actions/checkout@v2
   
       - name: Fetch API Data
-        uses: JamesIves/fetch-api-data-action@1.0.19
-        with:
-          ENDPOINT: https://pulsedive.com/api/search.php?type[]=all&risk[]=all&retired=false&property[0][key]=property&property[0][type]=dns&property[0][value]=mx.torpig-sinkhole.org&lastseen=all&search=indicators&pretty=true&key=${{ secrets.PULSEDIVE_API }}
-          CONFIGURATION: '{ "method": "GET" }'
-          SAVE_NAME: mx_torpig-sinkhole_org
+        run: |
+          wget --output-document=./fetch-api-data-action/mx_torpig-sinkhole_org.csv "https://pulsedive.com/api/search.php?type[]=all&risk[]=all&retired=false&property[0][key]=property&property[0][type]=dns&property[0][value]=mx.torpig-sinkhole.org&lastseen=all&search=indicators&pretty=true&export=1&key=${{ secrets.PULSEDIVE_API }}"
 
       - name: Parse
         run: |
-          jq --raw-output '..|.indicator?' ./fetch-api-data-action/mx_torpig-sinkhole_org.json > ./parsed-mx_torpig-sinkhole_org.txt
-      
+          cut -d , -f 1 ./fetch-api-data-action/mx_torpig-sinkhole_org.csv > ./parsed-mx_torpig-sinkhole_org.txt
+
       - name: Set up Python 3.x
         uses: actions/setup-python@v2
         with:
