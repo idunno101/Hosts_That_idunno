@@ -1,12 +1,6 @@
 0.0.0.0  indicator
-0.0.0.0  deftsecurity.com
-0.0.0.0  panhardware.com
-0.0.0.0  databasegalore.com
-0.0.0.0  highdatabase.com
 0.0.0.0  freescanonline.com
 0.0.0.0  websitetheme.com
-0.0.0.0  zupertech.com
-0.0.0.0  thedoccloud.com
 0.0.0.0  incomeupdate.com
 0.0.0.0  lcomputers.com
 0.0.0.0  webcodez.com

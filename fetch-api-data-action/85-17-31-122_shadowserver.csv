@@ -1,19 +1,13 @@
 indicator,type,risk,stamp_updated,stamp_seen,city,country,countrycode,org,reference
-deftsecurity.com,domain,critical,"2021-04-24 19:51:25","2021-04-24 19:51:25",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=19390799
-panhardware.com,domain,critical,"2021-04-24 19:51:27","2021-04-24 19:51:27",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=19390802
-databasegalore.com,domain,critical,"2021-04-24 19:51:25","2021-04-24 19:51:25",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=19390804
-highdatabase.com,domain,critical,"2021-04-24 19:51:23","2021-04-24 19:51:23",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=19390930
 freescanonline.com,domain,critical,"2021-06-07 21:17:04","2021-06-07 21:17:04",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=19390934
 websitetheme.com,domain,critical,"2021-07-26 23:14:08","2021-07-26 23:14:08",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=19390936
-zupertech.com,domain,critical,"2021-04-24 19:51:24","2021-04-24 19:51:24",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=19391171
-thedoccloud.com,domain,critical,"2021-04-24 19:51:26","2021-04-24 19:51:26",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=19391179
 incomeupdate.com,domain,critical,"2021-05-28 04:10:57","2021-05-28 04:10:57",Jacksonville,"United States of America",US,,https://pulsedive.com/indicator/?iid=19408491
 lcomputers.com,domain,low,"2021-06-16 21:08:40","2021-06-16 21:08:40",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=19443249
 webcodez.com,domain,low,"2021-06-08 22:05:12","2021-06-08 22:05:12",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=19443253
-topservicebin.com,domain,medium,"2021-07-26 21:49:50","2021-07-19 08:46:22",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=21123479
-boostetits.com,domain,medium,"2021-07-26 21:49:10","2021-07-19 08:44:11",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=21315049
-jobsmarc.com,domain,medium,"2021-07-26 21:49:30","2021-07-19 08:45:16",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=21315067
-firstaholic.com,domain,medium,"2021-07-26 21:49:21","2021-07-19 08:44:50",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=21468647
+topservicebin.com,domain,medium,"2021-07-29 00:36:58","2021-07-19 08:46:22",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=21123479
+boostetits.com,domain,medium,"2021-07-29 00:36:16","2021-07-19 08:44:11",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=21315049
+jobsmarc.com,domain,medium,"2021-07-29 00:36:40","2021-07-19 08:45:16",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=21315067
+firstaholic.com,domain,medium,"2021-07-29 00:36:31","2021-07-19 08:44:50",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=21468647
 kubecloud.com,domain,low,"2021-06-07 21:19:19","2021-06-07 21:19:19",,,,,https://pulsedive.com/indicator/?iid=23957502
 virtualwebdata.com,domain,low,"2021-06-07 21:25:18","2021-06-07 21:25:18",,,,,https://pulsedive.com/indicator/?iid=23957503
 solartrackingsystem.net,domain,low,"2021-06-07 21:23:23","2021-06-07 21:23:24",,,,,https://pulsedive.com/indicator/?iid=23957511
