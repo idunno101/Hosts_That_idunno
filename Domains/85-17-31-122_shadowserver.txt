@@ -642,3 +642,10 @@
 0.0.0.0  db907b1d.cash-ddt.net
 0.0.0.0  wyptj.hkukud123ncs.info
 0.0.0.0  resa.hkukud123ncs.info
+0.0.0.0  mfcl.h7smcnrwlsdn34fgv.info
+0.0.0.0  iisa.hkukud123ncs.info
+0.0.0.0  5a023cce.makemegood24.com
+0.0.0.0  edeff5d0.money-frn.net
+0.0.0.0  ea28ae27.cash-ddt.net
+0.0.0.0  e6bfd201.money-frn.net
+0.0.0.0  jepg.h7smcnrwlsdn34fgv.info
