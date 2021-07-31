@@ -93,3 +93,6 @@
 0.0.0.0  thbnt.u7zywp.com
 0.0.0.0  nfcqpm.u7zywp.com
 0.0.0.0  lboiu.u7zywp.com
+0.0.0.0  abbrc.rocks
+0.0.0.0  ggtb.u7zywp.com
+0.0.0.0  piivp.u7zywp.com
