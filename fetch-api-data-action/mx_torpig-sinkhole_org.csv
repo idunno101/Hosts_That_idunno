@@ -2,7 +2,7 @@ indicator,type,risk,stamp_updated,stamp_seen,city,country,countrycode,org,refere
 ns1.torpig-sinkhole.org,domain,none,"2021-07-31 20:28:14","2021-07-31 20:28:14",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=157724
 torpig-sinkhole.org,domain,unknown,"2021-07-31 17:36:50","2021-07-31 17:36:50",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=157725
 ns2.torpig-sinkhole.org,domain,none,"2021-07-31 20:28:47","2021-07-31 20:28:47",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=157726
-afgfevmeplavvi.com,domain,medium,"2021-08-09 16:45:07","2021-08-09 16:07:00",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=2834148
+afgfevmeplavvi.com,domain,medium,"2021-08-11 02:23:03","2021-08-11 02:07:00",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=2834148
 mx1.torpig-sinkhole.org,domain,unknown,"2021-07-31 20:28:16","2021-07-31 20:28:16",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=6941121
 mx.torpig-sinkhole.org,domain,unknown,"2021-07-31 20:28:51","2021-07-31 20:28:51",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=6941123
 mx2.torpig-sinkhole.org,domain,unknown,"2021-07-31 20:28:17","2021-07-31 20:28:17",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=6941124
@@ -157,4 +157,4 @@ gjghvga7ffgb.xyz,domain,low,"2021-07-04 07:31:20","2021-07-04 07:31:20",,,,,http
 djghvga7ffgb.xyz,domain,low,"2021-07-04 07:31:48","2021-07-04 07:31:48",,,,,https://pulsedive.com/indicator/?iid=26455060
 smtp01.l.shoeonlineblog.com,domain,unknown,"2021-07-31 20:29:01","2021-07-31 20:29:01",Zurich,Switzerland,CH,,https://pulsedive.com/indicator/?iid=26612926
 nmel.cloudcontentsmak.com,domain,unknown,"2021-07-27 16:51:44","2021-07-27 16:51:44",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=27123918
-imap.shoeonlineblog.com,domain,unknown,"2021-07-31 17:36:52","2021-07-31 17:36:52",Zurich,Netherlands,NL,,https://pulsedive.com/indicator/?iid=27230387
+imap.shoeonlineblog.com,domain,unknown,"2021-07-31 17:36:52","2021-07-31 17:36:52",Zurich,Switzerland,CH,,https://pulsedive.com/indicator/?iid=27230387
