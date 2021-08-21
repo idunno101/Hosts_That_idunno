@@ -157,3 +157,6 @@
 0.0.0.0  smtp01.l.shoeonlineblog.com
 0.0.0.0  nmel.cloudcontentsmak.com
 0.0.0.0  imap.shoeonlineblog.com
+0.0.0.0  mobile.shoeonlineblog.com
+0.0.0.0  txmx2.torpig-sinkhole.org
+0.0.0.0  min-97.anxmalls.com
