@@ -704,3 +704,5 @@
 0.0.0.0  16afdf.money-frn.net
 0.0.0.0  118725.makemegood24.com
 0.0.0.0  jybv.hkukud123ncs.info
+0.0.0.0  pap.hkukud123ncs.info
+0.0.0.0  gnh.h7smcnrwlsdn34fgv.info
