@@ -15,7 +15,6 @@
 0.0.0.0  www.myxmr.pw
 0.0.0.0  xmr.myxmr.pw
 0.0.0.0  brascase-br.com
-0.0.0.0  ns1.87uhdsuhfiusj.info
 0.0.0.0  vvdccftbbquwbjwtbsvdrqxp.me
 0.0.0.0  pubhfmoiduywgrl.me
 0.0.0.0  bpbngxmbgfpra.me
