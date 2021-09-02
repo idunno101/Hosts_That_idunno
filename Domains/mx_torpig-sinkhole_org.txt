@@ -16,7 +16,6 @@
 0.0.0.0  scriptsmysql.com
 0.0.0.0  emailmynn.com
 0.0.0.0  believesex.com
-0.0.0.0  mail4.rettmail.com
 0.0.0.0  www.yuidskadjna.com
 0.0.0.0  www.pwkqhdgytsshkoibaake.com
 0.0.0.0  hostmaster.depid.org
