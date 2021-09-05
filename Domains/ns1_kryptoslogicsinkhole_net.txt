@@ -2,10 +2,6 @@
 0.0.0.0  xpqwsaahaqtetqf.cn
 0.0.0.0  tsvydyoaajjyfav.com
 0.0.0.0  kgffsoyvqqwlvad.com
-0.0.0.0  mofkt.u7zywp.com
-0.0.0.0  mtawbe.u7zywp.com
-0.0.0.0  xijfqs.u7zywp.com
-0.0.0.0  wnjfdi.u7zywp.com
 0.0.0.0  jxjke.rocks
 0.0.0.0  xpqcbv.u7zywp.com
 0.0.0.0  www.twititier.com
