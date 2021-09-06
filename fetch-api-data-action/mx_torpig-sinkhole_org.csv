@@ -2,7 +2,7 @@ indicator,type,risk,stamp_updated,stamp_seen,city,country,countrycode,org,refere
 ns1.torpig-sinkhole.org,domain,none,"2021-08-26 07:39:45","2021-08-26 07:39:45",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=157724
 torpig-sinkhole.org,domain,unknown,"2021-08-22 02:27:57","2021-08-22 02:27:57",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=157725
 ns2.torpig-sinkhole.org,domain,none,"2021-08-26 07:39:46","2021-08-26 07:39:45",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=157726
-afgfevmeplavvi.com,domain,medium,"2021-08-18 08:32:56","2021-08-18 08:07:00",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=2834148
+afgfevmeplavvi.com,domain,low,"2021-09-06 03:03:03","2021-09-06 03:03:03","San Mateo","United States of America",US,,https://pulsedive.com/indicator/?iid=2834148
 momalls.com,domain,unknown,"2021-08-26 07:39:45","2021-08-26 07:39:45",Zurich,Switzerland,CH,,https://pulsedive.com/indicator/?iid=5597086
 mx1.torpig-sinkhole.org,domain,unknown,"2021-08-26 07:39:45","2021-08-26 07:39:45",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=6941121
 mx.torpig-sinkhole.org,domain,unknown,"2021-08-26 07:39:45","2021-08-26 07:39:45",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=6941123
