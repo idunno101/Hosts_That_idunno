@@ -1,3 +1,5 @@
+0.0.0.0  ns2.sinkhole.ch
+0.0.0.0  ns1.sinkhole.ch
 0.0.0.0  64.myxmr.pw
 0.0.0.0  down.my0709.xyz
 0.0.0.0  ftp.oo000oo.me
@@ -16,3 +18,13 @@
 0.0.0.0  xmr.myxmr.pw
 0.0.0.0  brascase-br.com
 0.0.0.0  uyjgnxgfts.me
+0.0.0.0  cytheriata4.xyz
+0.0.0.0  gilmandros11.site
+0.0.0.0  ustiassosale3.xyz
+0.0.0.0  fazanaharahe1.xyz
+0.0.0.0  blodinetisha15.site
+0.0.0.0  willietjeana13.site
+0.0.0.0  ggiergionard5.xyz
+0.0.0.0  xandelissane2.xyz
+0.0.0.0  ximusokall14.site
+0.0.0.0  cusanthana12.site
