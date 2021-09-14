@@ -1,7 +1,10 @@
+0.0.0.0  differentia.ru
 0.0.0.0  u7zywp.com
 0.0.0.0  xpqwsaahaqtetqf.cn
 0.0.0.0  tsvydyoaajjyfav.com
 0.0.0.0  kgffsoyvqqwlvad.com
+0.0.0.0  jejfeowmtwrkhaa.com
+0.0.0.0  designthefuture.ru
 0.0.0.0  phvf.u7zywp.com
 0.0.0.0  ccgy.u7zywp.com
 0.0.0.0  rgbgcl.u7zywp.com
@@ -60,3 +63,10 @@
 0.0.0.0  hc6jg.rocks
 0.0.0.0  www.tsvydyoaajjyfav.com
 0.0.0.0  www.kgffsoyvqqwlvad.com
+0.0.0.0  erp.kgffsoyvqqwlvad.com
+0.0.0.0  gge8d.rocks
+0.0.0.0  wwww.differentia.ru
+0.0.0.0  docs.jejfeowmtwrkhaa.com
+0.0.0.0  xsso.designthefuture.ru
+0.0.0.0  autoconfig.wcqbjsjvkjxyula.us
+0.0.0.0  wcqbjsjvkjxyula.us
