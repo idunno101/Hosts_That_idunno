@@ -7,6 +7,7 @@
 0.0.0.0  mx.torpig-sinkhole.org
 0.0.0.0  mx2.torpig-sinkhole.org
 0.0.0.0  shoeonlineblog.com
+0.0.0.0  rettmail.com
 0.0.0.0  emailmynn.com
 0.0.0.0  believesex.com
 0.0.0.0  cloudcontentsmak.com
@@ -31,3 +32,13 @@
 0.0.0.0  smtpmail.retrmailse.com
 0.0.0.0  mobile.sunsetbayland.com
 0.0.0.0  smtpseguro.emailmynn.com
+0.0.0.0  securemail.shoeonlineblog.com
+0.0.0.0  smtp-auth.rettmail.com
+0.0.0.0  imap.n.shoeonlineblog.com
+0.0.0.0  n.shoeonlineblog.com
+0.0.0.0  wmlinstcp.ddbbvt.eu
+0.0.0.0  ddbbvt.eu
+0.0.0.0  www.wmlinstcp.ddbbvt.eu
+0.0.0.0  exchange.believesex.com
+0.0.0.0  test.momalls.com
+0.0.0.0  tw.sunsetbayland.com
