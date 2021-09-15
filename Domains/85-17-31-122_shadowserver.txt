@@ -18,12 +18,6 @@
 0.0.0.0  bmoney-frn.net
 0.0.0.0  h7smcnrwlsdn34fgv.info
 0.0.0.0  bddr-cash.net
-0.0.0.0  3dbffb.money-frn.net
-0.0.0.0  60f2070.makemegood24.com
-0.0.0.0  fa953d1.cash-ddt.net
-0.0.0.0  wvvu.h7smcnrwlsdn34fgv.info
-0.0.0.0  qygn.hkukud123ncs.info
-0.0.0.0  osyja.lukki6nd2kdnc.info
 0.0.0.0  4befa0a3.cash-ddt.net
 0.0.0.0  e25bebf.cash-ddt.net
 0.0.0.0  5440ef3c.money-frn.net
