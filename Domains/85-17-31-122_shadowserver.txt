@@ -1,5 +1,4 @@
 0.0.0.0  websitetheme.com
-0.0.0.0  lcomputers.com
 0.0.0.0  topservicebin.com
 0.0.0.0  boostetits.com
 0.0.0.0  jobsmarc.com
@@ -10,7 +9,6 @@
 0.0.0.0  hkukud123ncs.info
 0.0.0.0  bcash-ddt.net
 0.0.0.0  lukki6nd2kdnc.info
-0.0.0.0  drgvybbhqqhaegg.com
 0.0.0.0  theyardservice.com
 0.0.0.0  bmakemegood24.com
 0.0.0.0  6f937.bmakemegood24.com
@@ -18,22 +16,6 @@
 0.0.0.0  bmoney-frn.net
 0.0.0.0  h7smcnrwlsdn34fgv.info
 0.0.0.0  bddr-cash.net
-0.0.0.0  4befa0a3.cash-ddt.net
-0.0.0.0  e25bebf.cash-ddt.net
-0.0.0.0  5440ef3c.money-frn.net
-0.0.0.0  956e5e2.makemegood24.com
-0.0.0.0  ca8f780.cash-ddt.net
-0.0.0.0  ce35d83.cash-ddt.net
-0.0.0.0  5189ceb3.money-frn.net
-0.0.0.0  202c8a13.money-frn.net
-0.0.0.0  85e0414.cash-ddt.net
-0.0.0.0  55f955a.money-frn.net
-0.0.0.0  3aca6e2.money-frn.net
-0.0.0.0  34fcfac.cash-ddt.net
-0.0.0.0  3da7f26.cash-ddt.net
-0.0.0.0  19aaa9e7.money-frn.net
-0.0.0.0  9eeb49.cash-ddt.net
-0.0.0.0  root.lcomputers.com
 0.0.0.0  7269cb.bmakemegood24.com
 0.0.0.0  d090f1.bmakemegood24.com
 0.0.0.0  4aef00c1.cash-ddt.net
