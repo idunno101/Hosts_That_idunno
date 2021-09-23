@@ -1,5 +1,6 @@
 0.0.0.0  differentia.ru
 0.0.0.0  u7zywp.com
+0.0.0.0  xdqzpbcgrvkj.ru
 0.0.0.0  tsvydyoaajjyfav.com
 0.0.0.0  kgffsoyvqqwlvad.com
 0.0.0.0  jejfeowmtwrkhaa.com
@@ -54,3 +55,7 @@
 0.0.0.0  xsso.designthefuture.ru
 0.0.0.0  autoconfig.wcqbjsjvkjxyula.us
 0.0.0.0  wcqbjsjvkjxyula.us
+0.0.0.0  tneeo.rocks
+0.0.0.0  xsso.thewold.xdqzpbcgrvkj.ru
+0.0.0.0  thewold.xdqzpbcgrvkj.ru
+0.0.0.0  www.thewold.xdqzpbcgrvkj.ru
