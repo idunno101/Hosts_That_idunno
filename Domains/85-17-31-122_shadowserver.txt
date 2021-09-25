@@ -19,14 +19,9 @@
 0.0.0.0  bmoney-frn.net
 0.0.0.0  h7smcnrwlsdn34fgv.info
 0.0.0.0  bddr-cash.net
+0.0.0.0  srfnetwork.org
 0.0.0.0  unmovedcruet.pw
-0.0.0.0  faf60c57.makemegood24.com
-0.0.0.0  208b40e7.money-frn.net
-0.0.0.0  bfa9ff8.money-frn.net
-0.0.0.0  a4f77.makemegood24.com
 0.0.0.0  overlayliking.pw
-0.0.0.0  www.overlayliking.pw
-0.0.0.0  ataplane.theyardservice.com
 0.0.0.0  264349.btrn-cash.net
 0.0.0.0  btrn-cash.net
 0.0.0.0  24bdf5c.cash-ddt.net
@@ -384,3 +379,9 @@
 0.0.0.0  ww1.unmovedcruet.pw
 0.0.0.0  warebride.pw
 0.0.0.0  jcx.hkukud123ncs.info
+0.0.0.0  ns2.srfnetwork.org
+0.0.0.0  ns1.srfnetwork.org
+0.0.0.0  mail.srfnetwork.org
+0.0.0.0  bid2.rxrtb.bid
+0.0.0.0  rxrtb.bid
+0.0.0.0  cpm.advandmedia.com
