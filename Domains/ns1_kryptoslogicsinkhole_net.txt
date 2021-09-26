@@ -53,3 +53,4 @@
 0.0.0.0  xsso.thewold.xdqzpbcgrvkj.ru
 0.0.0.0  thewold.xdqzpbcgrvkj.ru
 0.0.0.0  www.thewold.xdqzpbcgrvkj.ru
+0.0.0.0  75eat.rocks
