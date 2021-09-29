@@ -17,6 +17,7 @@
 0.0.0.0  w64.myxmr.pw
 0.0.0.0  www.myxmr.pw
 0.0.0.0  xmr.myxmr.pw
+0.0.0.0  winqits.com
 0.0.0.0  brascase-br.com
 0.0.0.0  cytheriata4.xyz
 0.0.0.0  gilmandros11.site
