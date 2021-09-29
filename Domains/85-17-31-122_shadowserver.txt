@@ -21,6 +21,7 @@
 0.0.0.0  bddr-cash.net
 0.0.0.0  srfnetwork.org
 0.0.0.0  alkian.pw
+0.0.0.0  cobblingnurtures.pw
 0.0.0.0  unmovedcruet.pw
 0.0.0.0  overlayliking.pw
 0.0.0.0  btrn-cash.net
@@ -381,3 +382,6 @@
 0.0.0.0  whm.worldhomeoutlet.com
 0.0.0.0  www.ggjdty.info
 0.0.0.0  ggjdty.info
+0.0.0.0  ww.cobblingnurtures.pw
+0.0.0.0  www.newsgroupupdate.com
+0.0.0.0  newsgroupupdate.com
