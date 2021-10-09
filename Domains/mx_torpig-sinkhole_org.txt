@@ -35,3 +35,5 @@
 0.0.0.0  test.momalls.com
 0.0.0.0  tw.sunsetbayland.com
 0.0.0.0  chrislin470.momalls.com
+0.0.0.0  mail4.p.shoeonlineblog.com
+0.0.0.0  p.shoeonlineblog.com

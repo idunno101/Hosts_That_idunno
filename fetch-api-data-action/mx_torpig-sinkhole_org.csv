@@ -1,13 +1,13 @@
 indicator,type,risk,stamp_updated,stamp_seen,city,country,countrycode,org,reference
-ns1.torpig-sinkhole.org,domain,none,"2021-10-05 01:16:31","2021-10-05 01:16:31",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=157724
-torpig-sinkhole.org,domain,unknown,"2021-10-05 01:16:30","2021-10-05 01:16:30",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=157725
-ns2.torpig-sinkhole.org,domain,none,"2021-10-05 01:16:40","2021-10-05 01:16:40",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=157726
-afgfevmeplavvi.com,domain,low,"2021-10-06 06:37:56","2021-10-06 06:37:56","San Mateo","United States of America",US,,https://pulsedive.com/indicator/?iid=2834148
+ns1.torpig-sinkhole.org,domain,none,"2021-10-08 22:49:52","2021-10-08 22:49:52",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=157724
+torpig-sinkhole.org,domain,unknown,"2021-10-08 22:49:45","2021-10-08 22:49:45",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=157725
+ns2.torpig-sinkhole.org,domain,none,"2021-10-08 22:49:48","2021-10-08 22:49:48",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=157726
+afgfevmeplavvi.com,domain,low,"2021-10-09 03:23:16","2021-10-09 03:23:16","San Mateo","United States of America",US,,https://pulsedive.com/indicator/?iid=2834148
 momalls.com,domain,unknown,"2021-10-05 01:16:43","2021-10-05 01:16:43",Zurich,Netherlands,NL,,https://pulsedive.com/indicator/?iid=5597086
-mx1.torpig-sinkhole.org,domain,unknown,"2021-10-05 01:16:38","2021-10-05 01:16:38",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=6941121
-mx.torpig-sinkhole.org,domain,unknown,"2021-10-05 01:16:32","2021-10-05 01:16:32",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=6941123
-mx2.torpig-sinkhole.org,domain,unknown,"2021-10-05 01:16:35","2021-10-05 01:16:35",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=6941124
-shoeonlineblog.com,domain,unknown,"2021-09-14 03:41:22","2021-09-14 03:41:22",Amsterdam,Switzerland,CH,,https://pulsedive.com/indicator/?iid=11529510
+mx1.torpig-sinkhole.org,domain,unknown,"2021-10-08 22:49:50","2021-10-08 22:49:50",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=6941121
+mx.torpig-sinkhole.org,domain,unknown,"2021-10-08 22:49:49","2021-10-08 22:49:49",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=6941123
+mx2.torpig-sinkhole.org,domain,unknown,"2021-10-08 22:49:51","2021-10-08 22:49:51",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=6941124
+shoeonlineblog.com,domain,unknown,"2021-10-08 22:49:53","2021-10-08 22:49:53",Amsterdam,Switzerland,CH,,https://pulsedive.com/indicator/?iid=11529510
 rettmail.com,domain,unknown,"2021-09-14 03:40:37","2021-09-14 03:40:37","REDACTED FOR PRIVACY","United States of America",US,,https://pulsedive.com/indicator/?iid=25232762
 emailmynn.com,domain,unknown,"2021-08-22 02:27:59","2021-08-22 02:27:59","REDACTED FOR PRIVACY","United States of America",US,,https://pulsedive.com/indicator/?iid=25232773
 believesex.com,domain,unknown,"2021-09-14 03:44:18","2021-09-14 03:44:17",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=25232784
@@ -36,3 +36,5 @@ exchange.believesex.com,domain,unknown,"2021-09-14 03:44:20","2021-09-14 03:44:2
 test.momalls.com,domain,unknown,"2021-09-14 03:44:51","2021-09-14 03:44:50",Zurich,Switzerland,CH,,https://pulsedive.com/indicator/?iid=28041711
 tw.sunsetbayland.com,domain,unknown,"2021-09-14 03:45:36","2021-09-14 03:45:36",Amsterdam,Switzerland,CH,,https://pulsedive.com/indicator/?iid=28041712
 chrislin470.momalls.com,domain,unknown,"2021-10-05 01:16:48","2021-10-05 01:16:48",Zurich,Netherlands,NL,,https://pulsedive.com/indicator/?iid=28461160
+mail4.p.shoeonlineblog.com,domain,unknown,"2021-10-08 22:49:57","2021-10-08 22:49:56",Amsterdam,Switzerland,CH,,https://pulsedive.com/indicator/?iid=28598355
+p.shoeonlineblog.com,domain,unknown,"2021-10-08 22:49:55","2021-10-08 22:49:55",Amsterdam,Switzerland,CH,,https://pulsedive.com/indicator/?iid=28598356
