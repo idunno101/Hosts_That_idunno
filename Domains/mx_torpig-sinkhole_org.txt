@@ -8,11 +8,13 @@
 0.0.0.0  mx2.torpig-sinkhole.org
 0.0.0.0  shoeonlineblog.com
 0.0.0.0  rettmail.com
+0.0.0.0  comcasj.com
 0.0.0.0  emailmynn.com
 0.0.0.0  believesex.com
 0.0.0.0  cloudcontentsmak.com
 0.0.0.0  l.shoeonlineblog.com
 0.0.0.0  anxmalls.com
+0.0.0.0  bustinghuge.com
 0.0.0.0  sunsetbayland.com
 0.0.0.0  retrmailse.com
 0.0.0.0  smtp01.l.shoeonlineblog.com
@@ -37,3 +39,13 @@
 0.0.0.0  chrislin470.momalls.com
 0.0.0.0  mail4.p.shoeonlineblog.com
 0.0.0.0  p.shoeonlineblog.com
+0.0.0.0  preolls.shoeonlineblog.com
+0.0.0.0  com.comcasj.com
+0.0.0.0  relay2.believesex.com
+0.0.0.0  www.ro.soapstudios.org
+0.0.0.0  mbox.bustinghuge.com
+0.0.0.0  mxs.bustinghuge.com
+0.0.0.0  soapstudios.org
+0.0.0.0  ro.soapstudios.org
+0.0.0.0  ms.t.shoeonlineblog.com
+0.0.0.0  t.shoeonlineblog.com
