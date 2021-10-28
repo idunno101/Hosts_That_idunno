@@ -19,6 +19,9 @@
 0.0.0.0  xmr.myxmr.pw
 0.0.0.0  winqits.com
 0.0.0.0  brascase-br.com
+0.0.0.0  escalivrouter.net
+0.0.0.0  nick22doom4.net
+0.0.0.0  palisotoliso.net
 0.0.0.0  cytheriata4.xyz
 0.0.0.0  gilmandros11.site
 0.0.0.0  ustiassosale3.xyz

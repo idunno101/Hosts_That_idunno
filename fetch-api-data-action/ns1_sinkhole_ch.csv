@@ -1,7 +1,7 @@
 indicator,type,risk,stamp_updated,stamp_seen,city,country,countrycode,org,reference
-ns2.sinkhole.ch,domain,high,"2021-10-06 02:18:00","2021-10-06 02:18:00",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=22167
-sinkhole.ch,domain,critical,"2021-10-06 02:17:46","2021-10-06 02:17:46",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=22169
-ns1.sinkhole.ch,domain,critical,"2021-10-06 02:17:50","2021-10-06 02:17:50",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=22175
+ns2.sinkhole.ch,domain,high,"2021-10-27 05:28:09","2021-10-27 05:28:09",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=22167
+sinkhole.ch,domain,critical,"2021-10-27 05:27:51","2021-10-27 05:27:51",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=22169
+ns1.sinkhole.ch,domain,critical,"2021-10-27 05:28:11","2021-10-27 05:28:11",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=22175
 64.myxmr.pw,domain,critical,"2021-09-16 17:14:07","2021-07-29 19:10:57",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=1767316
 down.my0709.xyz,domain,high,"2021-09-16 20:30:38","2021-07-29 21:46:48",,Switzerland,CH,,https://pulsedive.com/indicator/?iid=1769095
 ftp.oo000oo.me,domain,low,"2021-09-16 21:16:31","2021-07-29 22:47:14",,Switzerland,CH,,https://pulsedive.com/indicator/?iid=1770002
@@ -20,6 +20,9 @@ www.myxmr.pw,domain,medium,"2021-09-17 02:36:46","2021-07-30 04:40:17",[privacy]
 xmr.myxmr.pw,domain,critical,"2021-09-17 02:57:57","2021-07-30 13:46:47",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=6680606
 winqits.com,domain,none,"2021-09-28 19:01:50","2021-09-28 19:01:50",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=11355657
 brascase-br.com,domain,none,"2021-09-29 23:54:37","2021-09-29 23:54:37",Central-Mid-Levels,"Hong Kong",HK,,https://pulsedive.com/indicator/?iid=14720702
+escalivrouter.net,domain,critical,"2021-10-27 05:28:22","2021-10-27 05:28:18",{domainData.adminContact.address.city},{domainData.technicalContact.address.country},,,https://pulsedive.com/indicator/?iid=26610616
+nick22doom4.net,domain,high,"2021-10-27 05:27:50","2021-10-27 05:27:49",,,,,https://pulsedive.com/indicator/?iid=26610617
+palisotoliso.net,domain,high,"2021-10-27 05:27:26","2021-10-27 05:27:23",,,,,https://pulsedive.com/indicator/?iid=26610627
 cytheriata4.xyz,domain,critical,"2021-09-08 10:19:02","2021-09-08 10:19:02",,,,,https://pulsedive.com/indicator/?iid=27871073
 gilmandros11.site,domain,critical,"2021-09-08 10:19:03","2021-09-08 10:19:03",,Switzerland,CH,,https://pulsedive.com/indicator/?iid=27871074
 ustiassosale3.xyz,domain,critical,"2021-09-08 10:19:50","2021-09-08 10:19:50",,,,,https://pulsedive.com/indicator/?iid=27871119
