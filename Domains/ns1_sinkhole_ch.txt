@@ -12,7 +12,6 @@
 0.0.0.0  www.oo000oo.me
 0.0.0.0  www.wmi.my0709.xyz
 0.0.0.0  myxmr.pw
-0.0.0.0  hostmaster.myxmr.pw
 0.0.0.0  txmra.myxmr.pw
 0.0.0.0  w64.myxmr.pw
 0.0.0.0  www.myxmr.pw
