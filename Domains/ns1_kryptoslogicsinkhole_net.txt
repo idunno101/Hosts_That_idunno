@@ -5,9 +5,6 @@
 0.0.0.0  kgffsoyvqqwlvad.com
 0.0.0.0  jejfeowmtwrkhaa.com
 0.0.0.0  designthefuture.ru
-0.0.0.0  abbrc.rocks
-0.0.0.0  ggtb.u7zywp.com
-0.0.0.0  piivp.u7zywp.com
 0.0.0.0  gfvi.u7zywp.com
 0.0.0.0  irwgs.rocks
 0.0.0.0  www.ayitihnddgxdvms.com
