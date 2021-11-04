@@ -11,12 +11,10 @@
 0.0.0.0  comcasj.com
 0.0.0.0  emailmynn.com
 0.0.0.0  believesex.com
-0.0.0.0  l.shoeonlineblog.com
 0.0.0.0  anxmalls.com
 0.0.0.0  bustinghuge.com
 0.0.0.0  sunsetbayland.com
 0.0.0.0  retrmailse.com
-0.0.0.0  smtp01.l.shoeonlineblog.com
 0.0.0.0  mobile.shoeonlineblog.com
 0.0.0.0  txmx2.torpig-sinkhole.org
 0.0.0.0  min-97.anxmalls.com
