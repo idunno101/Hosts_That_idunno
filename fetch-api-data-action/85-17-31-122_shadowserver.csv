@@ -1,11 +1,11 @@
 indicator,type,risk,stamp_updated,stamp_seen,city,country,countrycode,org,reference
 freeguard.biz,domain,medium,"2021-10-05 01:12:24","2021-10-05 01:12:24","REDACTED FOR PRIVACY","United States of America",US,,https://pulsedive.com/indicator/?iid=122544
 websitetheme.com,domain,critical,"2021-09-17 14:07:45","2021-09-17 14:07:45",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=19390936
-topservicebin.com,domain,medium,"2021-11-07 08:44:59","2021-10-18 23:54:56",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=21123479
-boostetits.com,domain,critical,"2021-11-07 08:44:22","2021-10-18 15:36:32",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=21315049
-jobsmarc.com,domain,medium,"2021-11-07 08:44:39","2021-10-18 13:12:40",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=21315067
+topservicebin.com,domain,medium,"2021-11-08 08:50:50","2021-10-18 23:54:56",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=21123479
+boostetits.com,domain,critical,"2021-11-08 08:49:52","2021-10-18 15:36:32",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=21315049
+jobsmarc.com,domain,medium,"2021-11-08 08:50:16","2021-10-18 13:12:40",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=21315067
 ns2.jobsmarc.com,domain,low,"2021-09-22 05:25:09","2021-09-22 05:25:09",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=21315083
-firstaholic.com,domain,medium,"2021-11-07 08:44:33","2021-10-18 15:19:21",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=21468647
+firstaholic.com,domain,medium,"2021-11-08 08:50:07","2021-10-18 15:19:21",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=21468647
 p.estonine.com,domain,low,"2021-09-22 09:34:16","2021-09-22 09:34:16",,,,,https://pulsedive.com/indicator/?iid=22599804
 estonine.com,domain,low,"2021-09-22 09:34:16","2021-09-22 09:34:16",,,,,https://pulsedive.com/indicator/?iid=22599806
 money-frn.net,domain,medium,"2021-08-22 02:23:27","2021-08-22 02:23:27","REDACTED FOR PRIVACY","United States of America",US,,https://pulsedive.com/indicator/?iid=25195715
