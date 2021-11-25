@@ -8,6 +8,8 @@
 0.0.0.0  mx2.torpig-sinkhole.org
 0.0.0.0  ali-express1.at
 0.0.0.0  shoeonlineblog.com
+0.0.0.0  lepini.at
+0.0.0.0  api3.lepini.at
 0.0.0.0  rettmail.com
 0.0.0.0  comcasj.com
 0.0.0.0  believesex.com
