@@ -1,16 +1,20 @@
 indicator,type,risk,stamp_updated,stamp_seen,city,country,countrycode,org,reference
-ns1.torpig-sinkhole.org,domain,none,"2021-11-24 19:06:00","2021-11-24 19:06:00",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=157724
+ns1.torpig-sinkhole.org,domain,none,"2021-11-26 14:13:19","2021-11-26 14:13:19",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=157724
 torpig-sinkhole.org,domain,unknown,"2021-10-27 05:32:22","2021-10-27 05:32:22",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=157725
-ns2.torpig-sinkhole.org,domain,none,"2021-11-24 19:06:00","2021-11-24 19:06:00",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=157726
+ns2.torpig-sinkhole.org,domain,none,"2021-11-26 14:13:09","2021-11-26 14:13:09",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=157726
 afgfevmeplavvi.com,domain,low,"2021-10-29 12:26:39","2021-10-29 12:26:39","San Mateo","United States of America",US,,https://pulsedive.com/indicator/?iid=2834148
 momalls.com,domain,unknown,"2021-10-05 01:16:43","2021-10-05 01:16:43",Zurich,Netherlands,NL,,https://pulsedive.com/indicator/?iid=5597086
-mx1.torpig-sinkhole.org,domain,unknown,"2021-11-24 19:06:07","2021-11-24 19:06:07",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=6941121
-mx.torpig-sinkhole.org,domain,unknown,"2021-11-24 19:05:59","2021-11-24 19:05:59",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=6941123
-mx2.torpig-sinkhole.org,domain,unknown,"2021-11-24 19:06:00","2021-11-24 19:06:00",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=6941124
+mx1.torpig-sinkhole.org,domain,unknown,"2021-11-26 14:13:16","2021-11-26 14:13:16",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=6941121
+mx.torpig-sinkhole.org,domain,unknown,"2021-11-26 14:13:09","2021-11-26 14:13:09",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=6941123
+mx2.torpig-sinkhole.org,domain,unknown,"2021-11-26 14:13:09","2021-11-26 14:13:09",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=6941124
 ali-express1.at,domain,none,"2021-11-23 18:19:51","2021-11-23 18:19:51",Salzburg,Austria,,,https://pulsedive.com/indicator/?iid=10779904
 shoeonlineblog.com,domain,unknown,"2021-10-27 05:32:40","2021-10-27 05:32:40",Amsterdam,Switzerland,CH,,https://pulsedive.com/indicator/?iid=11529510
 lepini.at,domain,none,"2021-11-24 19:06:16","2021-11-24 19:06:16",Salzburg,Austria,,,https://pulsedive.com/indicator/?iid=18662448
 api3.lepini.at,domain,none,"2021-11-24 19:06:23","2021-11-24 19:06:23",Salzburg,Austria,,,https://pulsedive.com/indicator/?iid=18662450
+gaploop.at,domain,low,"2021-11-26 13:59:22","2021-11-26 13:59:22",Salzburg,Austria,,,https://pulsedive.com/indicator/?iid=18686690
+cd2.gaploop.at,domain,low,"2021-11-26 13:59:29","2021-11-26 13:59:28",Salzburg,Austria,,,https://pulsedive.com/indicator/?iid=18686697
+arsis.at,domain,none,"2021-11-26 14:13:23","2021-11-26 14:13:23",Salzburg,Austria,,,https://pulsedive.com/indicator/?iid=18686923
+cdn.arsis.at,domain,low,"2021-11-26 14:13:30","2021-11-26 14:13:30",Salzburg,Austria,,,https://pulsedive.com/indicator/?iid=18686926
 rettmail.com,domain,unknown,"2021-09-14 03:40:37","2021-09-14 03:40:37","REDACTED FOR PRIVACY","United States of America",US,,https://pulsedive.com/indicator/?iid=25232762
 comcasj.com,domain,unknown,"2021-10-27 05:30:45","2021-10-27 05:30:45",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=25232766
 believesex.com,domain,unknown,"2021-10-27 05:31:51","2021-10-27 05:31:51",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=25232784

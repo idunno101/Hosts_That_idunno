@@ -10,6 +10,10 @@
 0.0.0.0  shoeonlineblog.com
 0.0.0.0  lepini.at
 0.0.0.0  api3.lepini.at
+0.0.0.0  gaploop.at
+0.0.0.0  cd2.gaploop.at
+0.0.0.0  arsis.at
+0.0.0.0  cdn.arsis.at
 0.0.0.0  rettmail.com
 0.0.0.0  comcasj.com
 0.0.0.0  believesex.com
