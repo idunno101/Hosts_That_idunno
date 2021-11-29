@@ -8,6 +8,7 @@
 0.0.0.0  firstaholic.com
 0.0.0.0  p.estonine.com
 0.0.0.0  estonine.com
+0.0.0.0  cash-ddt.net
 0.0.0.0  hkukud123ncs.info
 0.0.0.0  theyardservice.com
 0.0.0.0  worldhomeoutlet.com
@@ -15,6 +16,8 @@
 0.0.0.0  alkian.pw
 0.0.0.0  cobblingnurtures.pw
 0.0.0.0  unmovedcruet.pw
+0.0.0.0  schiltzree.pw
+0.0.0.0  btrn-cash.net
 0.0.0.0  ukldbwqwwwljvhn.com
 0.0.0.0  ww1.unmovedcruet.pw
 0.0.0.0  warebride.pw
@@ -79,3 +82,6 @@
 0.0.0.0  www.irxtxrhfkqwjerb.com
 0.0.0.0  adlbbfhcxtptrsy.ru
 0.0.0.0  irxtxrhfkqwjerb.com
+0.0.0.0  ww3.schiltzree.pw
+0.0.0.0  38705cf1.cash-ddt.net
+0.0.0.0  51d017.btrn-cash.net

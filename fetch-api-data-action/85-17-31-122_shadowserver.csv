@@ -2,13 +2,14 @@ indicator,type,risk,stamp_updated,stamp_seen,city,country,countrycode,org,refere
 freeguard.biz,domain,medium,"2021-10-05 01:12:24","2021-10-05 01:12:24","REDACTED FOR PRIVACY","United States of America",US,,https://pulsedive.com/indicator/?iid=122544
 deftsecurity.com,domain,critical,"2021-11-10 02:54:57","2021-11-10 02:54:57",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=19390799
 websitetheme.com,domain,critical,"2021-11-25 23:10:31","2021-11-25 23:10:31",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=19390936
-topservicebin.com,domain,medium,"2021-11-27 13:54:52","2021-11-16 09:37:14",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=21123479
-boostetits.com,domain,high,"2021-11-27 20:52:34","2021-10-18 15:36:32",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=21315049
-jobsmarc.com,domain,medium,"2021-11-27 13:54:00","2021-10-18 13:12:40",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=21315067
+topservicebin.com,domain,medium,"2021-11-28 14:18:22","2021-11-16 09:37:14",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=21123479
+boostetits.com,domain,high,"2021-11-28 14:17:52","2021-10-18 15:36:32",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=21315049
+jobsmarc.com,domain,medium,"2021-11-28 14:18:07","2021-10-18 13:12:40",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=21315067
 ns2.jobsmarc.com,domain,low,"2021-09-22 05:25:09","2021-09-22 05:25:09",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=21315083
-firstaholic.com,domain,medium,"2021-11-27 13:53:53","2021-11-16 05:25:46",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=21468647
+firstaholic.com,domain,medium,"2021-11-28 14:18:03","2021-11-16 05:25:46",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=21468647
 p.estonine.com,domain,low,"2021-09-22 09:34:16","2021-09-22 09:34:16",,,,,https://pulsedive.com/indicator/?iid=22599804
 estonine.com,domain,low,"2021-09-22 09:34:16","2021-09-22 09:34:16",,,,,https://pulsedive.com/indicator/?iid=22599806
+cash-ddt.net,domain,medium,"2021-11-28 23:26:35","2021-11-28 23:26:35","REDACTED FOR PRIVACY","United States of America",US,,https://pulsedive.com/indicator/?iid=25195725
 hkukud123ncs.info,domain,low,"2021-11-25 23:12:23","2021-11-25 23:12:23",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=25195743
 theyardservice.com,domain,low,"2021-11-25 23:14:43","2021-11-25 23:14:43",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=25232498
 worldhomeoutlet.com,domain,low,"2021-11-25 23:14:43","2021-11-25 23:14:43",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=25232504
@@ -16,6 +17,8 @@ srfnetwork.org,domain,low,"2021-09-25 01:16:35","2021-09-25 01:16:35",,,,,https:
 alkian.pw,domain,medium,"2021-09-27 21:37:50","2021-09-27 21:37:50",,,,,https://pulsedive.com/indicator/?iid=25938704
 cobblingnurtures.pw,domain,medium,"2021-09-29 00:17:42","2021-09-29 00:17:42",,,,,https://pulsedive.com/indicator/?iid=25938732
 unmovedcruet.pw,domain,medium,"2021-09-22 05:26:03","2021-09-22 05:26:03",,,,,https://pulsedive.com/indicator/?iid=25938734
+schiltzree.pw,domain,medium,"2021-11-28 23:26:27","2021-11-28 23:26:27",,,,,https://pulsedive.com/indicator/?iid=25938745
+btrn-cash.net,domain,medium,"2021-11-28 23:27:04","2021-11-28 23:27:04","REDACTED FOR PRIVACY","United States of America",US,,https://pulsedive.com/indicator/?iid=26161670
 ukldbwqwwwljvhn.com,domain,low,"2021-09-04 09:47:11","2021-09-04 09:47:10",,,,,https://pulsedive.com/indicator/?iid=27844975
 ww1.unmovedcruet.pw,domain,medium,"2021-09-22 05:26:03","2021-09-22 05:26:03",,,,,https://pulsedive.com/indicator/?iid=28114398
 warebride.pw,domain,medium,"2021-09-22 05:26:54","2021-09-22 05:26:54",,,,,https://pulsedive.com/indicator/?iid=28114399
@@ -80,3 +83,6 @@ javerltmnejxmad.ru,domain,medium,"2021-11-25 23:21:55","2021-11-25 23:21:55",,,,
 www.irxtxrhfkqwjerb.com,domain,low,"2021-11-25 23:22:16","2021-11-25 23:22:16",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=29861894
 adlbbfhcxtptrsy.ru,domain,medium,"2021-11-25 23:21:52","2021-11-25 23:21:52",,,,,https://pulsedive.com/indicator/?iid=29861896
 irxtxrhfkqwjerb.com,domain,low,"2021-11-25 23:22:29","2021-11-25 23:22:28",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=29861897
+ww3.schiltzree.pw,domain,medium,"2021-11-28 23:26:28","2021-11-28 23:26:28",,,,,https://pulsedive.com/indicator/?iid=29929073
+38705cf1.cash-ddt.net,domain,low,"2021-11-28 23:26:37","2021-11-28 23:26:36","REDACTED FOR PRIVACY","United States of America",US,,https://pulsedive.com/indicator/?iid=29929074
+51d017.btrn-cash.net,domain,low,"2021-11-28 23:27:12","2021-11-28 23:27:12","REDACTED FOR PRIVACY","United States of America",US,,https://pulsedive.com/indicator/?iid=29929075
