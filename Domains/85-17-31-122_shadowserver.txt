@@ -85,3 +85,4 @@
 0.0.0.0  ww3.schiltzree.pw
 0.0.0.0  38705cf1.cash-ddt.net
 0.0.0.0  51d017.btrn-cash.net
+0.0.0.0  brjptdtxjqldaiw.ru
