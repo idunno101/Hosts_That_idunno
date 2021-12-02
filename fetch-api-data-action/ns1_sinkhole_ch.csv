@@ -10,6 +10,7 @@ txmra.myxmr.pw,domain,critical,"2021-11-03 22:45:01","2021-11-03 22:45:01",[priv
 w64.myxmr.pw,domain,critical,"2021-11-03 22:45:03","2021-11-03 22:45:03",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=6680016
 www.myxmr.pw,domain,medium,"2021-11-03 22:44:14","2021-11-03 22:44:14",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=6680425
 xmr.myxmr.pw,domain,critical,"2021-11-03 22:45:04","2021-11-03 22:45:04",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=6680606
+cpf-th.com,domain,critical,"2021-12-01 23:11:49","2021-12-01 23:11:49","Los Angeles","United States of America",US,,https://pulsedive.com/indicator/?iid=10152752
 winqits.com,domain,none,"2021-09-28 19:01:50","2021-09-28 19:01:50",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=11355657
 brascase-br.com,domain,none,"2021-11-25 21:46:41","2021-11-25 21:46:41",Central-Mid-Levels,"Hong Kong",HK,,https://pulsedive.com/indicator/?iid=14720702
 escalivrouter.net,domain,high,"2021-11-29 04:48:08","2021-10-27 05:28:18",{domainData.adminContact.address.city},{domainData.technicalContact.address.country},,,https://pulsedive.com/indicator/?iid=26610616
