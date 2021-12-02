@@ -1,5 +1,6 @@
 0.0.0.0  freeguard.biz
 0.0.0.0  deftsecurity.com
+0.0.0.0  highdatabase.com
 0.0.0.0  websitetheme.com
 0.0.0.0  topservicebin.com
 0.0.0.0  boostetits.com
@@ -86,3 +87,7 @@
 0.0.0.0  38705cf1.cash-ddt.net
 0.0.0.0  51d017.btrn-cash.net
 0.0.0.0  brjptdtxjqldaiw.ru
+0.0.0.0  mx.highdatabase.com
+0.0.0.0  www.highdatabase.com
+0.0.0.0  www.redhatupdater.com
+0.0.0.0  redhatupdater.com
