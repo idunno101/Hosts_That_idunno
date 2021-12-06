@@ -4,6 +4,9 @@
 0.0.0.0  websitetheme.com
 0.0.0.0  topservicebin.com
 0.0.0.0  boostetits.com
+0.0.0.0  mail.boostetits.com
+0.0.0.0  ns1.boostetits.com
+0.0.0.0  ns2.boostetits.com
 0.0.0.0  jobsmarc.com
 0.0.0.0  ns2.jobsmarc.com
 0.0.0.0  firstaholic.com
@@ -91,3 +94,4 @@
 0.0.0.0  www.highdatabase.com
 0.0.0.0  www.redhatupdater.com
 0.0.0.0  redhatupdater.com
+0.0.0.0  ww.schiltzree.pw
