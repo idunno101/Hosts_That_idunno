@@ -22,7 +22,6 @@
 0.0.0.0  unmovedcruet.pw
 0.0.0.0  schiltzree.pw
 0.0.0.0  btrn-cash.net
-0.0.0.0  ukldbwqwwwljvhn.com
 0.0.0.0  ww1.unmovedcruet.pw
 0.0.0.0  warebride.pw
 0.0.0.0  jcx.hkukud123ncs.info
@@ -95,3 +94,6 @@
 0.0.0.0  www.redhatupdater.com
 0.0.0.0  redhatupdater.com
 0.0.0.0  ww.schiltzree.pw
+0.0.0.0  www.rtsakwc.ua-shop.biz
+0.0.0.0  ua-shop.biz
+0.0.0.0  rtsakwc.ua-shop.biz
