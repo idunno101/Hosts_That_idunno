@@ -1,7 +1,7 @@
 indicator,type,risk,stamp_updated,stamp_seen,city,country,countrycode,org,reference
-ns2.sinkhole.ch,domain,high,"2021-11-30 20:16:54","2021-11-30 20:16:54",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=22167
+ns2.sinkhole.ch,domain,high,"2021-12-14 00:03:14","2021-12-14 00:03:13",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=22167
 sinkhole.ch,domain,critical,"2021-11-30 20:16:51","2021-11-30 20:16:51",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=22169
-ns1.sinkhole.ch,domain,critical,"2021-11-30 20:16:56","2021-11-30 20:16:56",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=22175
+ns1.sinkhole.ch,domain,critical,"2021-12-14 00:03:14","2021-12-14 00:03:14",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=22175
 64.myxmr.pw,domain,critical,"2021-12-07 23:26:45","2021-11-03 22:45:43",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=1767316
 www.64.myxmr.pw,domain,medium,"2021-12-08 06:28:23","2021-11-03 22:45:45",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=2209243
 myxmr.pw,domain,critical,"2021-12-08 04:16:00","2021-11-03 22:45:42",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=2308013
@@ -50,3 +50,4 @@ cfgxnjfvlmexhhicqccydxdfr.me,domain,high,"2021-10-25 21:12:44","2021-10-06 02:18
 verboliatsiaeeees.com,domain,critical,"2021-11-30 20:16:54","2021-11-30 20:16:54",Zurich,Switzerland,CH,,https://pulsedive.com/indicator/?iid=29978195
 bubushkalioua.com,domain,critical,"2021-11-30 20:16:57","2021-11-30 20:16:57",Zurich,Switzerland,CH,,https://pulsedive.com/indicator/?iid=29978196
 brutuilionust.com,domain,critical,"2021-11-30 20:16:54","2021-11-30 20:16:54",Zurich,Switzerland,CH,,https://pulsedive.com/indicator/?iid=29978197
+apacheorg.xyz,domain,critical,"2021-12-14 00:03:15","2021-12-14 00:03:15",,,,,https://pulsedive.com/indicator/?iid=30397546
