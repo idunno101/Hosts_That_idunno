@@ -33,3 +33,5 @@
 0.0.0.0  t.shoeonlineblog.com
 0.0.0.0  bcxgs45dg.shoeonlineblog.com
 0.0.0.0  huugbbvuay4.gjghvga7ffgb.xyz
+0.0.0.0  www.imap.torpig-sinkhole.org
+0.0.0.0  imap.torpig-sinkhole.org
