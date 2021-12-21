@@ -99,5 +99,7 @@
 0.0.0.0  ua-shop.biz
 0.0.0.0  rtsakwc.ua-shop.biz
 0.0.0.0  nsl.timechk24.com
+0.0.0.0  verble.rocks
+0.0.0.0  test.verble.rocks
 0.0.0.0  mail.virtualdataserver.com
 0.0.0.0  virtualdataserver.com
