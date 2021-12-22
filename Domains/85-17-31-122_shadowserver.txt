@@ -10,6 +10,9 @@
 0.0.0.0  jobsmarc.com
 0.0.0.0  ns2.jobsmarc.com
 0.0.0.0  firstaholic.com
+0.0.0.0  ns1.firstaholic.com
+0.0.0.0  mail.firstaholic.com
+0.0.0.0  ns2.firstaholic.com
 0.0.0.0  p.estonine.com
 0.0.0.0  estonine.com
 0.0.0.0  cash-ddt.net
