@@ -8,7 +8,6 @@
 0.0.0.0  ns1.boostetits.com
 0.0.0.0  ns2.boostetits.com
 0.0.0.0  jobsmarc.com
-0.0.0.0  ns2.jobsmarc.com
 0.0.0.0  firstaholic.com
 0.0.0.0  ns1.firstaholic.com
 0.0.0.0  mail.firstaholic.com
@@ -23,12 +22,8 @@
 0.0.0.0  timechk24.com
 0.0.0.0  alkian.pw
 0.0.0.0  cobblingnurtures.pw
-0.0.0.0  unmovedcruet.pw
 0.0.0.0  schiltzree.pw
 0.0.0.0  btrn-cash.net
-0.0.0.0  ww1.unmovedcruet.pw
-0.0.0.0  warebride.pw
-0.0.0.0  jcx.hkukud123ncs.info
 0.0.0.0  ns2.srfnetwork.org
 0.0.0.0  ns1.srfnetwork.org
 0.0.0.0  mail.srfnetwork.org
