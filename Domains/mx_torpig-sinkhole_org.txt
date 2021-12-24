@@ -35,3 +35,4 @@
 0.0.0.0  huugbbvuay4.gjghvga7ffgb.xyz
 0.0.0.0  www.imap.torpig-sinkhole.org
 0.0.0.0  imap.torpig-sinkhole.org
+0.0.0.0  deny-mx2.torpig-sinkhole.org
