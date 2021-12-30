@@ -10,7 +10,6 @@
 0.0.0.0  www.myxmr.pw
 0.0.0.0  xmr.myxmr.pw
 0.0.0.0  cpf-th.com
-0.0.0.0  winqits.com
 0.0.0.0  brascase-br.com
 0.0.0.0  escalivrouter.net
 0.0.0.0  nick22doom4.net
