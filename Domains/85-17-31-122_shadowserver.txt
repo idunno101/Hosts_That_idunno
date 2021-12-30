@@ -19,18 +19,8 @@
 0.0.0.0  theyardservice.com
 0.0.0.0  worldhomeoutlet.com
 0.0.0.0  timechk24.com
-0.0.0.0  alkian.pw
-0.0.0.0  cobblingnurtures.pw
 0.0.0.0  schiltzree.pw
 0.0.0.0  btrn-cash.net
-0.0.0.0  ftp.worldhomeoutlet.com
-0.0.0.0  tiihyyxacjuyvhr.ru
-0.0.0.0  whm.worldhomeoutlet.com
-0.0.0.0  www.ggjdty.info
-0.0.0.0  ggjdty.info
-0.0.0.0  ww.cobblingnurtures.pw
-0.0.0.0  www.newsgroupupdate.com
-0.0.0.0  newsgroupupdate.com
 0.0.0.0  kktljmupbnpjrnb.ru
 0.0.0.0  idjtehxygfvdtnx.com
 0.0.0.0  wlcojmmrksuyxko.ru
@@ -94,3 +84,5 @@
 0.0.0.0  test.verble.rocks
 0.0.0.0  mail.virtualdataserver.com
 0.0.0.0  virtualdataserver.com
+0.0.0.0  dkrd.exposedbotnets.ru
+0.0.0.0  exposedbotnets.ru
