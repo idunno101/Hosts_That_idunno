@@ -86,4 +86,5 @@ test.verble.rocks,domain,low,"2021-12-21 04:21:40","2021-12-21 04:21:40",[privac
 mail.virtualdataserver.com,domain,low,"2021-12-20 01:06:56","2021-12-20 01:06:56",Bellevue,"United States of America",US,,https://pulsedive.com/indicator/?iid=30543385
 virtualdataserver.com,domain,unknown,"2021-12-20 01:06:40","2021-12-20 01:06:40",Bellevue,"United States of America",US,,https://pulsedive.com/indicator/?iid=30543386
 dkrd.exposedbotnets.ru,domain,low,"2021-12-29 21:26:28","2021-12-29 21:26:28",,,,,https://pulsedive.com/indicator/?iid=30768339
-exposedbotnets.ru,domain,medium,"2021-12-29 21:26:18","2021-12-29 21:26:18",,,,,https://pulsedive.com/indicator/?iid=30768340
+exposedbotnets.ru,domain,unknown,"2021-12-31 20:49:28","2021-12-31 20:49:28",,,,,https://pulsedive.com/indicator/?iid=30768340
+log.exposedbotnets.ru,domain,low,"2021-12-31 20:49:43","2021-12-31 20:49:43",,,,,https://pulsedive.com/indicator/?iid=30839229
