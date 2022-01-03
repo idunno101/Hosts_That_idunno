@@ -14,6 +14,7 @@
 0.0.0.0  cd2.gaploop.at
 0.0.0.0  arsis.at
 0.0.0.0  cdn.arsis.at
+0.0.0.0  rettmail.com
 0.0.0.0  comcasj.com
 0.0.0.0  believesex.com
 0.0.0.0  bustinghuge.com
@@ -36,3 +37,4 @@
 0.0.0.0  www.imap.torpig-sinkhole.org
 0.0.0.0  imap.torpig-sinkhole.org
 0.0.0.0  deny-mx2.torpig-sinkhole.org
+0.0.0.0  dmarc.rettmail.com
