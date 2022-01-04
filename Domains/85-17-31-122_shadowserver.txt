@@ -87,3 +87,5 @@
 0.0.0.0  dkrd.exposedbotnets.ru
 0.0.0.0  exposedbotnets.ru
 0.0.0.0  log.exposedbotnets.ru
+0.0.0.0  www.smtp2.theyardservice.com
+0.0.0.0  smtp2.theyardservice.com
