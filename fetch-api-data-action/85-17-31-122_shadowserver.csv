@@ -1,5 +1,4 @@
 indicator,type,risk,stamp_updated,stamp_seen,city,country,countrycode,org,reference
-freeguard.biz,domain,medium,"2021-10-05 01:12:24","2021-10-05 01:12:24","REDACTED FOR PRIVACY","United States of America",US,,https://pulsedive.com/indicator/?iid=122544
 deftsecurity.com,domain,critical,"2021-11-10 02:54:57","2021-11-10 02:54:57",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=19390799
 highdatabase.com,domain,critical,"2021-12-01 21:18:20","2021-12-01 21:18:20",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=19390930
 websitetheme.com,domain,critical,"2021-11-25 23:10:31","2021-11-25 23:10:31",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=19390936
@@ -22,10 +21,6 @@ worldhomeoutlet.com,domain,low,"2021-11-25 23:14:43","2021-11-25 23:14:43",[priv
 timechk24.com,domain,medium,"2021-12-14 01:34:28","2021-12-14 01:34:28","GDPR Masked",France,FR,,https://pulsedive.com/indicator/?iid=25515620
 schiltzree.pw,domain,medium,"2021-12-05 21:54:51","2021-12-05 21:54:51",,,,,https://pulsedive.com/indicator/?iid=25938745
 btrn-cash.net,domain,medium,"2021-11-28 23:27:04","2021-11-28 23:27:04","REDACTED FOR PRIVACY","United States of America",US,,https://pulsedive.com/indicator/?iid=26161670
-kktljmupbnpjrnb.ru,domain,low,"2021-10-25 19:35:23","2021-10-03 00:14:06",,,,,https://pulsedive.com/indicator/?iid=28419103
-idjtehxygfvdtnx.com,domain,low,"2021-10-03 00:14:18","2021-10-03 00:14:18",,,,,https://pulsedive.com/indicator/?iid=28419105
-wlcojmmrksuyxko.ru,domain,low,"2021-10-25 19:35:24","2021-10-03 00:14:53",,,,,https://pulsedive.com/indicator/?iid=28419106
-20www.freeguard.biz,domain,low,"2021-10-05 01:12:26","2021-10-05 01:12:26","REDACTED FOR PRIVACY","United States of America",US,,https://pulsedive.com/indicator/?iid=28461157
 yasoauduljkehoh.com,domain,low,"2021-10-25 22:32:59","2021-10-06 21:52:55",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=28550922
 vhcdbfshnfvauwv.com,domain,low,"2021-10-06 21:55:48","2021-10-06 21:55:48",,,,,https://pulsedive.com/indicator/?iid=28550937
 trykdtqwhttwvga.com,domain,low,"2021-10-06 21:55:51","2021-10-06 21:55:50",,,,,https://pulsedive.com/indicator/?iid=28550938
@@ -86,7 +81,12 @@ test.verble.rocks,domain,low,"2021-12-21 04:21:40","2021-12-21 04:21:40",[privac
 mail.virtualdataserver.com,domain,low,"2021-12-20 01:06:56","2021-12-20 01:06:56",Bellevue,"United States of America",US,,https://pulsedive.com/indicator/?iid=30543385
 virtualdataserver.com,domain,unknown,"2021-12-20 01:06:40","2021-12-20 01:06:40",Bellevue,"United States of America",US,,https://pulsedive.com/indicator/?iid=30543386
 dkrd.exposedbotnets.ru,domain,low,"2021-12-29 21:26:28","2021-12-29 21:26:28",,,,,https://pulsedive.com/indicator/?iid=30768339
-exposedbotnets.ru,domain,unknown,"2021-12-31 20:49:28","2021-12-31 20:49:28",,,,,https://pulsedive.com/indicator/?iid=30768340
+exposedbotnets.ru,domain,medium,"2022-01-06 01:11:43","2022-01-06 01:11:43",,,,,https://pulsedive.com/indicator/?iid=30768340
 log.exposedbotnets.ru,domain,low,"2021-12-31 20:49:43","2021-12-31 20:49:43",,,,,https://pulsedive.com/indicator/?iid=30839229
 www.smtp2.theyardservice.com,domain,low,"2022-01-03 22:55:38","2022-01-03 22:55:37",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=30885173
 smtp2.theyardservice.com,domain,unknown,"2022-01-03 22:55:36","2022-01-03 22:55:36",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=30885174
+proxy.exposedbotnets.ru,domain,low,"2022-01-06 01:11:27","2022-01-06 01:11:27",,,,,https://pulsedive.com/indicator/?iid=30930356
+test.exposedbotnets.ru,domain,low,"2022-01-06 01:11:38","2022-01-06 01:11:37",,,,,https://pulsedive.com/indicator/?iid=30930361
+app.exposedbotnets.ru,domain,low,"2022-01-06 01:11:38","2022-01-06 01:11:38",,,,,https://pulsedive.com/indicator/?iid=30930369
+email.exposedbotnets.ru,domain,low,"2022-01-06 01:11:40","2022-01-06 01:11:39",,,,,https://pulsedive.com/indicator/?iid=30930373
+staging.exposedbotnets.ru,domain,low,"2022-01-06 01:11:46","2022-01-06 01:11:46",,,,,https://pulsedive.com/indicator/?iid=30930375

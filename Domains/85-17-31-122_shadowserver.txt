@@ -1,4 +1,3 @@
-0.0.0.0  freeguard.biz
 0.0.0.0  deftsecurity.com
 0.0.0.0  highdatabase.com
 0.0.0.0  websitetheme.com
@@ -21,10 +20,6 @@
 0.0.0.0  timechk24.com
 0.0.0.0  schiltzree.pw
 0.0.0.0  btrn-cash.net
-0.0.0.0  kktljmupbnpjrnb.ru
-0.0.0.0  idjtehxygfvdtnx.com
-0.0.0.0  wlcojmmrksuyxko.ru
-0.0.0.0  20www.freeguard.biz
 0.0.0.0  yasoauduljkehoh.com
 0.0.0.0  vhcdbfshnfvauwv.com
 0.0.0.0  trykdtqwhttwvga.com
@@ -89,3 +84,8 @@
 0.0.0.0  log.exposedbotnets.ru
 0.0.0.0  www.smtp2.theyardservice.com
 0.0.0.0  smtp2.theyardservice.com
+0.0.0.0  proxy.exposedbotnets.ru
+0.0.0.0  test.exposedbotnets.ru
+0.0.0.0  app.exposedbotnets.ru
+0.0.0.0  email.exposedbotnets.ru
+0.0.0.0  staging.exposedbotnets.ru
