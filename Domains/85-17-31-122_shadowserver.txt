@@ -89,3 +89,4 @@
 0.0.0.0  app.exposedbotnets.ru
 0.0.0.0  email.exposedbotnets.ru
 0.0.0.0  staging.exposedbotnets.ru
+0.0.0.0  nazi.uy
