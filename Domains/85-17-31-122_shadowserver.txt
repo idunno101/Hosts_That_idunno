@@ -90,3 +90,5 @@
 0.0.0.0  email.exposedbotnets.ru
 0.0.0.0  staging.exposedbotnets.ru
 0.0.0.0  nazi.uy
+0.0.0.0  business.yolkish.com
+0.0.0.0  yolkish.com
