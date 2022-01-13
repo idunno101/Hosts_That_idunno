@@ -2,7 +2,9 @@ indicator,type,risk,stamp_updated,stamp_seen,city,country,countrycode,org,refere
 deftsecurity.com,domain,critical,"2021-11-10 02:54:57","2021-11-10 02:54:57",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=19390799
 highdatabase.com,domain,critical,"2021-12-01 21:18:20","2021-12-01 21:18:20",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=19390930
 websitetheme.com,domain,critical,"2021-11-25 23:10:31","2021-11-25 23:10:31",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=19390936
-topservicebin.com,domain,medium,"2021-12-31 04:52:48","2021-12-31 04:52:48",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=21123479
+topservicebin.com,domain,medium,"2022-01-12 15:11:14","2022-01-12 15:11:13",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=21123479
+ns2.topservicebin.com,domain,low,"2022-01-12 15:11:29","2022-01-12 15:11:29",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=21142689
+ns1.topservicebin.com,domain,low,"2022-01-12 15:11:36","2022-01-12 15:11:36",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=21142703
 boostetits.com,domain,high,"2021-12-30 11:12:47","2021-12-30 11:12:47",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=21315049
 mail.boostetits.com,domain,medium,"2021-12-05 21:53:20","2021-12-05 21:53:20",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=21315054
 ns1.boostetits.com,domain,medium,"2021-12-05 21:53:40","2021-12-05 21:53:40",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=21315055
@@ -16,7 +18,7 @@ p.estonine.com,domain,low,"2021-12-15 10:38:52","2021-12-15 10:38:52",[privacy],
 estonine.com,domain,low,"2021-12-15 10:38:40","2021-12-15 10:38:40",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=22599806
 cash-ddt.net,domain,medium,"2021-11-28 23:26:35","2021-11-28 23:26:35","REDACTED FOR PRIVACY","United States of America",US,,https://pulsedive.com/indicator/?iid=25195725
 hkukud123ncs.info,domain,low,"2021-11-25 23:12:23","2021-11-25 23:12:23",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=25195743
-theyardservice.com,domain,low,"2022-01-03 22:55:34","2022-01-03 22:55:34",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=25232498
+theyardservice.com,domain,low,"2022-01-12 15:11:24","2022-01-12 15:11:24",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=25232498
 worldhomeoutlet.com,domain,low,"2021-11-25 23:14:43","2021-11-25 23:14:43",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=25232504
 timechk24.com,domain,medium,"2021-12-14 01:34:28","2021-12-14 01:34:28","GDPR Masked",France,FR,,https://pulsedive.com/indicator/?iid=25515620
 schiltzree.pw,domain,medium,"2021-12-05 21:54:51","2021-12-05 21:54:51",,,,,https://pulsedive.com/indicator/?iid=25938745
@@ -91,3 +93,6 @@ nazi.uy,domain,low,"2022-01-06 22:08:49","2022-01-06 22:08:49",,,,,https://pulse
 business.yolkish.com,domain,low,"2022-01-07 21:41:07","2022-01-07 21:41:06",,,,,https://pulsedive.com/indicator/?iid=30952672
 yolkish.com,domain,unknown,"2022-01-07 21:40:45","2022-01-07 21:40:44",,,,,https://pulsedive.com/indicator/?iid=30952673
 stream.verble.rocks,domain,low,"2022-01-09 22:58:00","2022-01-09 22:58:00",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=30997882
+ndataplane.theyardservice.com,domain,low,"2022-01-12 15:11:24","2022-01-12 15:11:24",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=31055858
+nstatic.theyardservice.com,domain,low,"2022-01-12 15:11:32","2022-01-12 15:11:32",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=31055859
+ncdn.theyardservice.com,domain,low,"2022-01-12 15:11:36","2022-01-12 15:11:36",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=31055860
