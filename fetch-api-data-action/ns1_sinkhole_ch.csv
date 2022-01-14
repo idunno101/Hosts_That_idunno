@@ -1,7 +1,7 @@
 indicator,type,risk,stamp_updated,stamp_seen,city,country,countrycode,org,reference
-ns2.sinkhole.ch,domain,high,"2022-01-08 23:41:54","2022-01-08 23:41:54",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=22167
-sinkhole.ch,domain,critical,"2021-12-29 04:12:08","2021-12-29 04:12:08",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=22169
-ns1.sinkhole.ch,domain,critical,"2022-01-08 23:41:56","2022-01-08 23:41:56",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=22175
+ns2.sinkhole.ch,domain,high,"2022-01-14 02:12:56","2022-01-14 02:12:55",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=22167
+sinkhole.ch,domain,critical,"2022-01-14 02:12:43","2022-01-14 02:12:43",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=22169
+ns1.sinkhole.ch,domain,critical,"2022-01-14 02:12:53","2022-01-14 02:12:53",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=22175
 64.myxmr.pw,domain,critical,"2022-01-08 23:42:15","2022-01-08 23:42:15",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=1767316
 www.64.myxmr.pw,domain,medium,"2022-01-03 18:16:10","2022-01-03 18:16:10",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=2209243
 myxmr.pw,domain,critical,"2022-01-08 23:42:06","2022-01-08 23:42:06",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=2308013
@@ -20,3 +20,4 @@ bubushkalioua.com,domain,high,"2022-01-02 16:59:11","2021-11-30 20:16:57",Zurich
 brutuilionust.com,domain,high,"2022-01-02 16:59:11","2021-11-30 20:16:54",Zurich,Switzerland,CH,,https://pulsedive.com/indicator/?iid=29978197
 apacheorg.xyz,domain,critical,"2021-12-14 00:03:15","2021-12-14 00:03:15",,,,,https://pulsedive.com/indicator/?iid=30397546
 apacheorg.top,domain,critical,"2021-12-29 04:12:16","2021-12-29 04:12:16",,,,,https://pulsedive.com/indicator/?iid=30744376
+trendmrcio.com,domain,high,"2022-01-14 02:12:58","2022-01-14 02:12:58",,,,,https://pulsedive.com/indicator/?iid=31089494

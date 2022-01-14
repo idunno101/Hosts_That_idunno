@@ -19,3 +19,4 @@
 0.0.0.0  brutuilionust.com
 0.0.0.0  apacheorg.xyz
 0.0.0.0  apacheorg.top
+0.0.0.0  trendmrcio.com
