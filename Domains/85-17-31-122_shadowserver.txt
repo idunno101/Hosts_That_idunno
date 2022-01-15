@@ -95,3 +95,7 @@
 0.0.0.0  ndataplane.theyardservice.com
 0.0.0.0  nstatic.theyardservice.com
 0.0.0.0  ncdn.theyardservice.com
+0.0.0.0  ns8.safehostonline.com
+0.0.0.0  ns9.safehostonline.com
+0.0.0.0  ftp.safehostonline.com
+0.0.0.0  safehostonline.com
