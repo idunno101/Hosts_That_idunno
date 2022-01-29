@@ -1,7 +1,7 @@
 indicator,type,risk,stamp_updated,stamp_seen,city,country,countrycode,org,reference
-ns2.sinkhole.ch,domain,high,"2022-01-27 07:20:25","2022-01-27 07:20:25",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=22167
-sinkhole.ch,domain,critical,"2022-01-14 02:12:43","2022-01-14 02:12:43",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=22169
-ns1.sinkhole.ch,domain,critical,"2022-01-27 07:20:25","2022-01-27 07:20:24",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=22175
+ns2.sinkhole.ch,domain,high,"2022-01-28 18:48:04","2022-01-28 18:48:04",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=22167
+sinkhole.ch,domain,critical,"2022-01-28 18:47:36","2022-01-28 18:47:36",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=22169
+ns1.sinkhole.ch,domain,critical,"2022-01-28 18:47:59","2022-01-28 18:47:59",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=22175
 64.myxmr.pw,domain,critical,"2022-01-08 23:42:15","2022-01-08 23:42:15",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=1767316
 www.64.myxmr.pw,domain,medium,"2022-01-03 18:16:10","2022-01-03 18:16:10",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=2209243
 myxmr.pw,domain,critical,"2022-01-08 23:42:06","2022-01-08 23:42:06",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=2308013
@@ -12,6 +12,7 @@ www.myxmr.pw,domain,medium,"2022-01-03 18:31:41","2022-01-03 18:31:41",[privacy]
 xmr.myxmr.pw,domain,critical,"2022-01-03 18:47:49","2022-01-03 18:47:49",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=6680606
 cpf-th.com,domain,critical,"2021-12-21 07:21:00","2021-12-21 07:21:00","Los Angeles","United States of America",US,,https://pulsedive.com/indicator/?iid=10152752
 brascase-br.com,domain,none,"2021-12-20 17:07:18","2021-12-20 17:07:18",Central-Mid-Levels,"Hong Kong",HK,,https://pulsedive.com/indicator/?iid=14720702
+ujoshui.top,domain,critical,"2022-01-28 18:48:10","2022-01-28 18:48:10",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=24786697
 escalivrouter.net,domain,high,"2021-11-29 04:48:08","2021-10-27 05:28:18",{domainData.adminContact.address.city},{domainData.technicalContact.address.country},,,https://pulsedive.com/indicator/?iid=26610616
 nick22doom4.net,domain,high,"2021-10-27 05:27:50","2021-10-27 05:27:49",,,,,https://pulsedive.com/indicator/?iid=26610617
 palisotoliso.net,domain,high,"2021-10-27 05:27:26","2021-10-27 05:27:23",,,,,https://pulsedive.com/indicator/?iid=26610627
