@@ -1,11 +1,11 @@
 indicator,type,risk,stamp_updated,stamp_seen,city,country,countrycode,org,reference
-ns2.sinkhole.ch,domain,high,"2022-01-28 18:48:04","2022-01-28 18:48:04",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=22167
+ns2.sinkhole.ch,domain,high,"2022-01-30 02:01:06","2022-01-30 02:01:06",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=22167
 sinkhole.ch,domain,critical,"2022-01-28 18:47:36","2022-01-28 18:47:36",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=22169
-ns1.sinkhole.ch,domain,critical,"2022-01-28 18:47:59","2022-01-28 18:47:59",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=22175
+ns1.sinkhole.ch,domain,critical,"2022-01-30 02:01:06","2022-01-30 02:01:06",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=22175
 64.myxmr.pw,domain,critical,"2022-01-08 23:42:15","2022-01-08 23:42:15",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=1767316
 www.64.myxmr.pw,domain,medium,"2022-01-03 18:16:10","2022-01-03 18:16:10",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=2209243
-myxmr.pw,domain,critical,"2022-01-08 23:42:06","2022-01-08 23:42:06",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=2308013
-hostmaster.myxmr.pw,domain,critical,"2022-01-03 15:51:06","2022-01-03 15:51:06",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=6678023
+myxmr.pw,domain,critical,"2022-01-30 02:01:09","2022-01-30 02:01:09",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=2308013
+hostmaster.myxmr.pw,domain,critical,"2022-01-30 02:01:11","2022-01-30 02:01:11",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=6678023
 txmra.myxmr.pw,domain,critical,"2022-01-03 17:49:46","2022-01-03 17:49:46",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=6679859
 w64.myxmr.pw,domain,critical,"2022-01-03 18:05:28","2022-01-03 18:05:28",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=6680016
 www.myxmr.pw,domain,medium,"2022-01-03 18:31:41","2022-01-03 18:31:41",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=6680425
