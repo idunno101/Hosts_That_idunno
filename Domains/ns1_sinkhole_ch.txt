@@ -11,9 +11,6 @@
 0.0.0.0  xmr.myxmr.pw
 0.0.0.0  cpf-th.com
 0.0.0.0  brascase-br.com
-0.0.0.0  escalivrouter.net
-0.0.0.0  nick22doom4.net
-0.0.0.0  palisotoliso.net
 0.0.0.0  verboliatsiaeeees.com
 0.0.0.0  bubushkalioua.com
 0.0.0.0  brutuilionust.com
