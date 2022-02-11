@@ -1,16 +1,16 @@
 indicator,type,risk,stamp_updated,stamp_seen,city,country,countrycode,org,reference
-ns1.torpig-sinkhole.org,domain,none,"2022-01-20 22:16:50","2022-01-20 22:16:50",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=157724
+ns1.torpig-sinkhole.org,domain,none,"2022-02-10 21:54:46","2022-02-10 21:54:46",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=157724
 torpig-sinkhole.org,domain,unknown,"2022-01-20 22:16:20","2022-01-20 22:16:20",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=157725
-ns2.torpig-sinkhole.org,domain,none,"2022-01-20 22:16:46","2022-01-20 22:16:46",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=157726
-mx1.torpig-sinkhole.org,domain,unknown,"2022-01-20 22:16:39","2022-01-20 22:16:39",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=6941121
-mx.torpig-sinkhole.org,domain,unknown,"2022-01-20 22:16:36","2022-01-20 22:16:36",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=6941123
-mx2.torpig-sinkhole.org,domain,unknown,"2022-01-20 22:16:33","2022-01-20 22:16:33",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=6941124
-ali-express1.at,domain,none,"2021-12-19 21:19:42","2021-12-19 21:19:42",Salzburg,Austria,,,https://pulsedive.com/indicator/?iid=10779904
+ns2.torpig-sinkhole.org,domain,none,"2022-02-10 21:54:47","2022-02-10 21:54:47",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=157726
+mx1.torpig-sinkhole.org,domain,unknown,"2022-02-10 21:54:47","2022-02-10 21:54:47",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=6941121
+mx.torpig-sinkhole.org,domain,unknown,"2022-02-10 21:54:47","2022-02-10 21:54:46",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=6941123
+mx2.torpig-sinkhole.org,domain,unknown,"2022-02-10 21:54:47","2022-02-10 21:54:47",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=6941124
+ali-express1.at,domain,none,"2022-02-10 21:19:06","2022-02-10 21:19:06",Salzburg,Austria,,,https://pulsedive.com/indicator/?iid=10779904
 shoeonlineblog.com,domain,unknown,"2021-11-27 22:48:36","2021-11-27 22:48:36",Zurich,Switzerland,CH,,https://pulsedive.com/indicator/?iid=11529510
-lepini.at,domain,none,"2021-12-20 02:41:56","2021-12-20 02:41:56",Salzburg,Austria,,,https://pulsedive.com/indicator/?iid=18662448
-api3.lepini.at,domain,none,"2021-12-20 02:42:00","2021-12-20 02:42:00",Salzburg,Austria,,,https://pulsedive.com/indicator/?iid=18662450
-gaploop.at,domain,low,"2021-12-21 02:23:29","2021-12-21 02:23:29",Salzburg,Austria,,,https://pulsedive.com/indicator/?iid=18686690
-cd2.gaploop.at,domain,low,"2021-12-21 02:23:49","2021-12-21 02:23:48",Salzburg,Austria,,,https://pulsedive.com/indicator/?iid=18686697
+lepini.at,domain,none,"2022-02-10 21:54:48","2022-02-10 21:54:48",Salzburg,Austria,,,https://pulsedive.com/indicator/?iid=18662448
+api3.lepini.at,domain,none,"2022-02-10 21:54:50","2022-02-10 21:54:50",Salzburg,Austria,,,https://pulsedive.com/indicator/?iid=18662450
+gaploop.at,domain,low,"2022-02-11 01:02:32","2022-02-11 01:02:32",Salzburg,Austria,,,https://pulsedive.com/indicator/?iid=18686690
+cd2.gaploop.at,domain,low,"2022-02-11 01:02:34","2022-02-11 01:02:34",Salzburg,Austria,,,https://pulsedive.com/indicator/?iid=18686697
 arsis.at,domain,none,"2021-12-21 02:28:58","2021-12-21 02:28:58",Salzburg,Austria,,,https://pulsedive.com/indicator/?iid=18686923
 cdn.arsis.at,domain,low,"2021-12-21 02:29:02","2021-12-21 02:29:02",Salzburg,Austria,,,https://pulsedive.com/indicator/?iid=18686926
 rettmail.com,domain,unknown,"2022-01-03 02:25:12","2022-01-03 02:25:12",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=25232762
