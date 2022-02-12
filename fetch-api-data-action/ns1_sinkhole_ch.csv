@@ -1,7 +1,7 @@
 indicator,type,risk,stamp_updated,stamp_seen,city,country,countrycode,org,reference
-ns2.sinkhole.ch,domain,high,"2022-02-08 06:49:15","2022-02-08 06:49:15",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=22167
+ns2.sinkhole.ch,domain,high,"2022-02-11 13:21:38","2022-02-11 13:21:38",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=22167
 sinkhole.ch,domain,critical,"2022-02-02 21:23:27","2022-02-02 21:23:27",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=22169
-ns1.sinkhole.ch,domain,critical,"2022-02-08 06:49:15","2022-02-08 06:49:15",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=22175
+ns1.sinkhole.ch,domain,critical,"2022-02-11 13:21:38","2022-02-11 13:21:38",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=22175
 64.myxmr.pw,domain,critical,"2022-02-07 01:08:06","2022-02-07 01:08:06",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=1767316
 www.64.myxmr.pw,domain,medium,"2022-02-07 01:08:10","2022-02-07 01:08:10",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=2209243
 myxmr.pw,domain,critical,"2022-02-08 06:49:24","2022-02-08 06:49:24",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=2308013
