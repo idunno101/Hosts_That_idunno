@@ -1,4 +1,3 @@
-0.0.0.0  deftsecurity.com
 0.0.0.0  highdatabase.com
 0.0.0.0  websitetheme.com
 0.0.0.0  topservicebin.com
@@ -23,14 +22,6 @@
 0.0.0.0  timechk24.com
 0.0.0.0  schiltzree.pw
 0.0.0.0  btrn-cash.net
-0.0.0.0  eafueudzefverrgt.to
-0.0.0.0  seuufhehfueughet.to
-0.0.0.0  fheuhdwdzwgzdggt.to
-0.0.0.0  wduufbaueeubffgt.to
-0.0.0.0  gil.hkukud123ncs.info
-0.0.0.0  tica.theyardservice.com
-0.0.0.0  okdoekeoehghaoet.to
-0.0.0.0  www.deftsecurity.com
 0.0.0.0  wp.websitetheme.com
 0.0.0.0  ns1.websitetheme.com
 0.0.0.0  xnhy.hkukud123ncs.info
@@ -119,3 +110,4 @@
 0.0.0.0  xaug.lukki6nd2kdnc.info
 0.0.0.0  b3m6ulnruxmtvruq.0roptbgg23.com
 0.0.0.0  46e6ioqs0.0roptbgg23.com
+0.0.0.0  o8eaep5zfsh7m8zy.0roptbgg23.com
