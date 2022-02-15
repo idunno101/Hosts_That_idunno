@@ -1,10 +1,10 @@
 indicator,type,risk,stamp_updated,stamp_seen,city,country,countrycode,org,reference
-ns1.torpig-sinkhole.org,domain,none,"2022-02-13 16:54:03","2022-02-13 16:54:03",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=157724
+ns1.torpig-sinkhole.org,domain,none,"2022-02-14 09:12:05","2022-02-14 09:12:05",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=157724
 torpig-sinkhole.org,domain,unknown,"2022-01-20 22:16:20","2022-01-20 22:16:20",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=157725
-ns2.torpig-sinkhole.org,domain,none,"2022-02-13 16:54:03","2022-02-13 16:54:03",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=157726
-mx1.torpig-sinkhole.org,domain,unknown,"2022-02-13 16:54:03","2022-02-13 16:54:03",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=6941121
-mx.torpig-sinkhole.org,domain,unknown,"2022-02-13 16:54:03","2022-02-13 16:54:03",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=6941123
-mx2.torpig-sinkhole.org,domain,unknown,"2022-02-13 16:54:04","2022-02-13 16:54:03",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=6941124
+ns2.torpig-sinkhole.org,domain,none,"2022-02-14 09:12:05","2022-02-14 09:12:05",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=157726
+mx1.torpig-sinkhole.org,domain,unknown,"2022-02-14 09:12:04","2022-02-14 09:12:04",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=6941121
+mx.torpig-sinkhole.org,domain,unknown,"2022-02-14 09:12:05","2022-02-14 09:12:05",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=6941123
+mx2.torpig-sinkhole.org,domain,unknown,"2022-02-14 09:12:05","2022-02-14 09:12:05",[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=6941124
 ali-express1.at,domain,none,"2022-02-13 14:57:42","2022-02-13 14:57:42",Salzburg,Austria,,,https://pulsedive.com/indicator/?iid=10779904
 shoeonlineblog.com,domain,unknown,"2021-11-27 22:48:36","2021-11-27 22:48:36",Zurich,Switzerland,CH,,https://pulsedive.com/indicator/?iid=11529510
 lepini.at,domain,none,"2022-02-13 15:17:56","2022-02-13 15:17:56",Salzburg,Austria,,,https://pulsedive.com/indicator/?iid=18662448
