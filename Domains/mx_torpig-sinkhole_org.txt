@@ -17,10 +17,7 @@
 0.0.0.0  m.shoeonlineblog.com
 0.0.0.0  d.shoeonlineblog.com
 0.0.0.0  h.shoeonlineblog.com
-0.0.0.0  gjghvga7ffgb.xyz
 0.0.0.0  ddbbvt.eu
-0.0.0.0  bcxgs45dg.shoeonlineblog.com
-0.0.0.0  huugbbvuay4.gjghvga7ffgb.xyz
 0.0.0.0  www.imap.torpig-sinkhole.org
 0.0.0.0  imap.torpig-sinkhole.org
 0.0.0.0  deny-mx2.torpig-sinkhole.org
