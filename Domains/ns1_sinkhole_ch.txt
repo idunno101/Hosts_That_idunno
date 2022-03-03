@@ -11,9 +11,6 @@
 0.0.0.0  xmr.myxmr.pw
 0.0.0.0  cpf-th.com
 0.0.0.0  brascase-br.com
-0.0.0.0  verboliatsiaeeees.com
-0.0.0.0  bubushkalioua.com
-0.0.0.0  brutuilionust.com
 0.0.0.0  apacheorg.xyz
 0.0.0.0  apacheorg.top
 0.0.0.0  trendmrcio.com
