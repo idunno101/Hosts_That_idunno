@@ -1,4 +1,3 @@
-0.0.0.0  highdatabase.com
 0.0.0.0  websitetheme.com
 0.0.0.0  topservicebin.com
 0.0.0.0  ns2.topservicebin.com
@@ -14,22 +13,12 @@
 0.0.0.0  ns2.firstaholic.com
 0.0.0.0  p.estonine.com
 0.0.0.0  estonine.com
-0.0.0.0  cash-ddt.net
 0.0.0.0  lukki6nd2kdnc.info
 0.0.0.0  theyardservice.com
 0.0.0.0  worldhomeoutlet.com
 0.0.0.0  timechk24.com
 0.0.0.0  milohallock.pw
 0.0.0.0  schiltzree.pw
-0.0.0.0  btrn-cash.net
-0.0.0.0  ww3.schiltzree.pw
-0.0.0.0  38705cf1.cash-ddt.net
-0.0.0.0  51d017.btrn-cash.net
-0.0.0.0  brjptdtxjqldaiw.ru
-0.0.0.0  mx.highdatabase.com
-0.0.0.0  www.highdatabase.com
-0.0.0.0  www.redhatupdater.com
-0.0.0.0  redhatupdater.com
 0.0.0.0  ww.schiltzree.pw
 0.0.0.0  www.rtsakwc.ua-shop.biz
 0.0.0.0  ua-shop.biz
