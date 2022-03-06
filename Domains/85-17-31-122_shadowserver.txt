@@ -3,9 +3,6 @@
 0.0.0.0  ns2.topservicebin.com
 0.0.0.0  ns1.topservicebin.com
 0.0.0.0  boostetits.com
-0.0.0.0  mail.boostetits.com
-0.0.0.0  ns1.boostetits.com
-0.0.0.0  ns2.boostetits.com
 0.0.0.0  jobsmarc.com
 0.0.0.0  firstaholic.com
 0.0.0.0  ns1.firstaholic.com
@@ -18,8 +15,6 @@
 0.0.0.0  worldhomeoutlet.com
 0.0.0.0  timechk24.com
 0.0.0.0  milohallock.pw
-0.0.0.0  schiltzree.pw
-0.0.0.0  ww.schiltzree.pw
 0.0.0.0  www.rtsakwc.ua-shop.biz
 0.0.0.0  ua-shop.biz
 0.0.0.0  rtsakwc.ua-shop.biz
