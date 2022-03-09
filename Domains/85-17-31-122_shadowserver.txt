@@ -15,9 +15,6 @@
 0.0.0.0  worldhomeoutlet.com
 0.0.0.0  timechk24.com
 0.0.0.0  milohallock.pw
-0.0.0.0  www.rtsakwc.ua-shop.biz
-0.0.0.0  ua-shop.biz
-0.0.0.0  rtsakwc.ua-shop.biz
 0.0.0.0  nsl.timechk24.com
 0.0.0.0  verble.rocks
 0.0.0.0  test.verble.rocks
