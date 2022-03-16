@@ -43,3 +43,5 @@
 0.0.0.0  mail.c.shoeonlineblog.com
 0.0.0.0  mail2.a.shoeonlineblog.com
 0.0.0.0  www.torpig-sinkhole.org
+0.0.0.0  zimbra.f.shoeonlineblog.com
+0.0.0.0  f.shoeonlineblog.com
