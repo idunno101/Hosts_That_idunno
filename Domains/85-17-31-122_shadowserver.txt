@@ -13,9 +13,6 @@
 0.0.0.0  boostetits.com
 0.0.0.0  jobsmarc.com
 0.0.0.0  firstaholic.com
-0.0.0.0  ns1.firstaholic.com
-0.0.0.0  mail.firstaholic.com
-0.0.0.0  ns2.firstaholic.com
 0.0.0.0  kubecloud.com
 0.0.0.0  virtualwebdata.com
 0.0.0.0  seobundlekit.com
@@ -28,12 +25,7 @@
 0.0.0.0  digitalcollege.org
 0.0.0.0  ns1.websitetheme.com
 0.0.0.0  verble.rocks
-0.0.0.0  test.verble.rocks
-0.0.0.0  mail.virtualdataserver.com
-0.0.0.0  virtualdataserver.com
-0.0.0.0  dkrd.exposedbotnets.ru
 0.0.0.0  exposedbotnets.ru
-0.0.0.0  log.exposedbotnets.ru
 0.0.0.0  www.smtp2.theyardservice.com
 0.0.0.0  smtp2.theyardservice.com
 0.0.0.0  proxy.exposedbotnets.ru
