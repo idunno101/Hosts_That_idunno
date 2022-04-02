@@ -19,9 +19,6 @@
 0.0.0.0  h.shoeonlineblog.com
 0.0.0.0  finaljudgesite.com
 0.0.0.0  ddbbvt.eu
-0.0.0.0  www.imap.torpig-sinkhole.org
-0.0.0.0  imap.torpig-sinkhole.org
-0.0.0.0  deny-mx2.torpig-sinkhole.org
 0.0.0.0  dmarc.rettmail.com
 0.0.0.0  linstcp.ddbbvt.eu
 0.0.0.0  mlinstcp.ddbbvt.eu
