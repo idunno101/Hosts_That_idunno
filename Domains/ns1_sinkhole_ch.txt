@@ -13,5 +13,4 @@
 0.0.0.0  brascase-br.com
 0.0.0.0  removertillo.top
 0.0.0.0  dastingreenol.top
-0.0.0.0  apacheorg.top
 0.0.0.0  trendmrcio.com
