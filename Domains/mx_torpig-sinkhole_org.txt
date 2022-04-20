@@ -19,7 +19,6 @@
 0.0.0.0  h.shoeonlineblog.com
 0.0.0.0  finaljudgesite.com
 0.0.0.0  ddbbvt.eu
-0.0.0.0  dmarc.rettmail.com
 0.0.0.0  linstcp.ddbbvt.eu
 0.0.0.0  mlinstcp.ddbbvt.eu
 0.0.0.0  ionanuur.rettmail.com
