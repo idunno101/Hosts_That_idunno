@@ -239,3 +239,7 @@
 0.0.0.0  box.virtualwebdata.com
 0.0.0.0  mx20.websitetheme.com
 0.0.0.0  0hmte6mvjgoif7rght.0roptbgg23.com
+0.0.0.0  dhrr.lukki6nd2kdnc.info
+0.0.0.0  pi.rogerscorp.org
+0.0.0.0  www.h00k.info
+0.0.0.0  h00k.info
