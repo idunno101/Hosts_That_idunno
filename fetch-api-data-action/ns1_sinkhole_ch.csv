@@ -1,15 +1,15 @@
 indicator,type,risk,stamp_added,stamp_updated,stamp_seen,stamp_retired,city,country,countrycode,org,reference
-ns2.sinkhole.ch,domain,high,,"2022-05-03 02:56:38","2022-05-03 02:56:38",,[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=22167
+ns2.sinkhole.ch,domain,high,,"2022-05-03 12:10:03","2022-05-03 12:10:02",,[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=22167
 sinkhole.ch,domain,critical,,"2022-05-02 20:39:55","2022-05-02 20:39:55",,[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=22169
-ns1.sinkhole.ch,domain,critical,,"2022-05-03 02:56:38","2022-05-03 02:56:38",,[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=22175
+ns1.sinkhole.ch,domain,critical,,"2022-05-03 12:10:02","2022-05-03 12:10:02",,[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=22175
 64.myxmr.pw,domain,critical,,"2022-05-02 15:01:09","2022-05-02 15:01:09",,[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=1767316
 www.64.myxmr.pw,domain,medium,,"2022-05-02 15:01:12","2022-05-02 15:01:12",,[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=2209243
-myxmr.pw,domain,critical,,"2022-05-03 02:21:48","2022-05-03 02:21:47",,[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=2308013
+myxmr.pw,domain,critical,,"2022-05-03 12:10:11","2022-05-03 12:10:11",,[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=2308013
 hostmaster.myxmr.pw,domain,critical,,"2022-04-29 07:46:09","2022-04-29 07:46:09",,[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=6678023
 txmra.myxmr.pw,domain,critical,,"2022-05-01 23:50:15","2022-05-01 23:50:15",,[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=6679859
 w64.myxmr.pw,domain,critical,,"2022-05-02 05:59:57","2022-05-02 05:59:57",,[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=6680016
 www.myxmr.pw,domain,medium,,"2022-05-03 02:21:54","2022-05-03 02:21:54",,[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=6680425
-xmr.myxmr.pw,domain,critical,,"2022-04-09 13:39:28","2022-04-09 13:39:28",,[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=6680606
+xmr.myxmr.pw,domain,critical,,"2022-05-03 12:10:18","2022-05-03 12:10:18",,[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=6680606
 cpf-th.com,domain,critical,,"2022-03-07 23:01:47","2022-03-07 23:01:47",,"Los Angeles","United States of America",US,,https://pulsedive.com/indicator/?iid=10152752
 brascase-br.com,domain,none,,"2022-03-07 21:27:28","2022-03-07 21:27:28",,Central-Mid-Levels,"Hong Kong",HK,,https://pulsedive.com/indicator/?iid=14720702
 removertillo.top,domain,critical,,"2022-03-26 19:28:41","2022-03-26 19:28:41",,[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=24762751
