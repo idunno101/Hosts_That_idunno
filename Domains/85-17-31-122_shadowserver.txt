@@ -25,9 +25,6 @@
 0.0.0.0  api.rogerscorp.org
 0.0.0.0  rogerscorp.org
 0.0.0.0  0roptbgg23.com
-0.0.0.0  fxm1i0l0ps9a6sk01d.0roptbgg23.com
-0.0.0.0  u2mreigeygfz008v2.0roptbgg23.com
-0.0.0.0  kkqam0v.0roptbgg23.com
 0.0.0.0  41uom3g9bc93f.0roptbgg23.com
 0.0.0.0  xaug.lukki6nd2kdnc.info
 0.0.0.0  b3m6ulnruxmtvruq.0roptbgg23.com
