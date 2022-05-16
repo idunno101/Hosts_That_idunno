@@ -1,7 +1,7 @@
 indicator,type,risk,stamp_added,stamp_updated,stamp_seen,stamp_retired,city,country,countrycode,org,reference
-ns2.sinkhole.ch,domain,high,,"2022-05-03 12:10:03","2022-05-03 12:10:02",,[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=22167
-sinkhole.ch,domain,critical,,"2022-05-02 20:39:55","2022-05-02 20:39:55",,[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=22169
-ns1.sinkhole.ch,domain,critical,,"2022-05-03 12:10:02","2022-05-03 12:10:02",,[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=22175
+ns2.sinkhole.ch,domain,high,,"2022-05-15 20:35:29","2022-05-15 20:35:29",,[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=22167
+sinkhole.ch,domain,critical,,"2022-05-15 20:35:27","2022-05-15 20:35:27",,[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=22169
+ns1.sinkhole.ch,domain,critical,,"2022-05-15 20:35:32","2022-05-15 20:35:32",,[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=22175
 64.myxmr.pw,domain,critical,,"2022-05-02 15:01:09","2022-05-02 15:01:09",,[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=1767316
 www.64.myxmr.pw,domain,medium,,"2022-05-02 15:01:12","2022-05-02 15:01:12",,[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=2209243
 myxmr.pw,domain,critical,,"2022-05-03 12:10:11","2022-05-03 12:10:11",,[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=2308013
@@ -16,3 +16,4 @@ removertillo.top,domain,critical,,"2022-03-26 19:28:41","2022-03-26 19:28:41",,[
 dastingreenol.top,domain,critical,,"2022-03-26 19:28:45","2022-03-26 19:28:45",,[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=24786657
 fbhaptadelrgcnmeqnmbbh.me,domain,high,,"2022-05-02 20:39:53","2022-05-02 20:39:53",,,Ireland,IE,,https://pulsedive.com/indicator/?iid=34536808
 elixjrvamvbnhxdfde.me,domain,high,,"2022-05-02 20:39:58","2022-05-02 20:39:58",,,Ireland,IE,,https://pulsedive.com/indicator/?iid=34536809
+vkyrctnnppvjpvovlossvxulc.me,domain,high,,"2022-05-15 20:35:35","2022-05-15 20:35:35",,,Ireland,IE,,https://pulsedive.com/indicator/?iid=35064159
