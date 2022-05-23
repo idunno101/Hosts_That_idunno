@@ -24,7 +24,6 @@
 0.0.0.0  api.rogerscorp.org
 0.0.0.0  rogerscorp.org
 0.0.0.0  0roptbgg23.com
-0.0.0.0  2hq5ivjiuj.0roptbgg23.com
 0.0.0.0  dvi8bj3vu16dh.0roptbgg23.com
 0.0.0.0  smtps.serve3.websitetheme.com
 0.0.0.0  mail01.4t3an36bo4kit.com
