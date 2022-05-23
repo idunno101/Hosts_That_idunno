@@ -12,13 +12,11 @@
 0.0.0.0  cd2.gaploop.at
 0.0.0.0  arsis.at
 0.0.0.0  cdn.arsis.at
-0.0.0.0  rettmail.com
 0.0.0.0  o.shoeonlineblog.com
 0.0.0.0  m.shoeonlineblog.com
 0.0.0.0  d.shoeonlineblog.com
 0.0.0.0  h.shoeonlineblog.com
 0.0.0.0  finaljudgesite.com
-0.0.0.0  ionanuur.rettmail.com
 0.0.0.0  smtpseguro.shoeonlineblog.com
 0.0.0.0  server1.a.shoeonlineblog.com
 0.0.0.0  pop3.mail.secretfashionstore.com
