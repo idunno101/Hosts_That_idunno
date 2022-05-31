@@ -272,3 +272,5 @@
 0.0.0.0  echqjv.piterfm1.ru
 0.0.0.0  piterfm1.ru
 0.0.0.0  vizlmi.piterfm1.ru
+0.0.0.0  vrrxze.piterfm1.ru
+0.0.0.0  ccbuoo.rusradio1.ru
