@@ -24,10 +24,6 @@
 0.0.0.0  api.rogerscorp.org
 0.0.0.0  rogerscorp.org
 0.0.0.0  0roptbgg23.com
-0.0.0.0  smtps.serve3.websitetheme.com
-0.0.0.0  mail01.4t3an36bo4kit.com
-0.0.0.0  serve3.websitetheme.com
-0.0.0.0  4t3an36bo4kit.com
 0.0.0.0  tigpg.lukki6nd2kdnc.info
 0.0.0.0  www.ww1.milohallock.pw
 0.0.0.0  ww1.milohallock.pw
