@@ -17,7 +17,6 @@
 0.0.0.0  solartrackingsystem.net
 0.0.0.0  lukki6nd2kdnc.info
 0.0.0.0  h7smcnrwlsdn34fgv.info
-0.0.0.0  milohallock.pw
 0.0.0.0  www.digitalcollege.org
 0.0.0.0  digitalcollege.org
 0.0.0.0  ns1.websitetheme.com
@@ -25,9 +24,6 @@
 0.0.0.0  api.rogerscorp.org
 0.0.0.0  rogerscorp.org
 0.0.0.0  0roptbgg23.com
-0.0.0.0  tigpg.lukki6nd2kdnc.info
-0.0.0.0  www.ww1.milohallock.pw
-0.0.0.0  ww1.milohallock.pw
 0.0.0.0  ecfnoptvtgaqhkm.com
 0.0.0.0  nahcgurktfpgaab.ru
 0.0.0.0  bbmnmkqr9.0roptbgg23.com
