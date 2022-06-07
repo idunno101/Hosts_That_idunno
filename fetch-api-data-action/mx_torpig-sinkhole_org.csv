@@ -1,10 +1,10 @@
 indicator,type,risk,stamp_added,stamp_updated,stamp_seen,stamp_retired,city,country,countrycode,org,reference
-ns1.torpig-sinkhole.org,domain,none,,"2022-05-27 17:48:02","2022-05-27 17:48:02",,[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=157724
-torpig-sinkhole.org,domain,unknown,,"2022-03-19 22:22:57","2022-03-19 22:22:57",,[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=157725
-ns2.torpig-sinkhole.org,domain,none,,"2022-05-27 17:48:03","2022-05-27 17:48:03",,[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=157726
-mx1.torpig-sinkhole.org,domain,unknown,,"2022-05-27 17:48:03","2022-05-27 17:48:03",,[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=6941121
-mx.torpig-sinkhole.org,domain,unknown,,"2022-05-27 17:48:02","2022-05-27 17:48:02",,[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=6941123
-mx2.torpig-sinkhole.org,domain,unknown,,"2022-05-27 17:48:03","2022-05-27 17:48:03",,[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=6941124
+ns1.torpig-sinkhole.org,domain,none,,"2022-06-06 19:26:59","2022-06-06 19:26:59",,[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=157724
+torpig-sinkhole.org,domain,unknown,,"2022-06-06 19:26:59","2022-06-06 19:26:59",,[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=157725
+ns2.torpig-sinkhole.org,domain,none,,"2022-06-06 19:26:59","2022-06-06 19:26:59",,[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=157726
+mx1.torpig-sinkhole.org,domain,unknown,,"2022-06-06 19:27:00","2022-06-06 19:26:59",,[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=6941121
+mx.torpig-sinkhole.org,domain,unknown,,"2022-06-06 19:26:58","2022-06-06 19:26:58",,[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=6941123
+mx2.torpig-sinkhole.org,domain,unknown,,"2022-06-06 19:26:59","2022-06-06 19:26:59",,[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=6941124
 ali-express1.at,domain,none,,"2022-03-07 19:16:11","2022-03-07 19:16:11",,Salzburg,Austria,,,https://pulsedive.com/indicator/?iid=10779904
 shoeonlineblog.com,domain,unknown,,"2022-03-15 21:03:40","2022-03-15 21:03:40",,Zurich,Switzerland,CH,,https://pulsedive.com/indicator/?iid=11529510
 lepini.at,domain,none,,"2022-03-07 19:41:37","2022-03-07 19:41:37",,Salzburg,Austria,,,https://pulsedive.com/indicator/?iid=18662448
@@ -18,3 +18,4 @@ www.torpig-sinkhole.org,domain,unknown,,"2022-03-10 09:31:13","2022-03-10 09:31:
 zimbra.f.shoeonlineblog.com,domain,unknown,,"2022-03-15 21:03:46","2022-03-15 21:03:46",,Zurich,Switzerland,CH,,https://pulsedive.com/indicator/?iid=32820262
 f.shoeonlineblog.com,domain,unknown,,"2022-03-15 21:03:29","2022-03-15 21:03:29",,Zurich,Switzerland,CH,,https://pulsedive.com/indicator/?iid=32820263
 applemail.finaljudgesite.com,domain,unknown,,"2022-03-19 22:22:59","2022-03-19 22:22:59",,[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=33050466
+_.torpig-sinkhole.org,domain,unknown,,"2022-06-06 19:27:00","2022-06-06 19:27:00",,[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=35638381
