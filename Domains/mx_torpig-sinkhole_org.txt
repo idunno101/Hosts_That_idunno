@@ -4,14 +4,7 @@
 0.0.0.0  mx1.torpig-sinkhole.org
 0.0.0.0  mx.torpig-sinkhole.org
 0.0.0.0  mx2.torpig-sinkhole.org
-0.0.0.0  ali-express1.at
 0.0.0.0  shoeonlineblog.com
-0.0.0.0  lepini.at
-0.0.0.0  api3.lepini.at
-0.0.0.0  gaploop.at
-0.0.0.0  cd2.gaploop.at
-0.0.0.0  arsis.at
-0.0.0.0  cdn.arsis.at
 0.0.0.0  finaljudgesite.com
 0.0.0.0  www.torpig-sinkhole.org
 0.0.0.0  zimbra.f.shoeonlineblog.com
