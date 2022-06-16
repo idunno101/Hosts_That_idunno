@@ -4,9 +4,6 @@
 0.0.0.0  mx1.torpig-sinkhole.org
 0.0.0.0  mx.torpig-sinkhole.org
 0.0.0.0  mx2.torpig-sinkhole.org
-0.0.0.0  shoeonlineblog.com
 0.0.0.0  finaljudgesite.com
-0.0.0.0  zimbra.f.shoeonlineblog.com
-0.0.0.0  f.shoeonlineblog.com
 0.0.0.0  applemail.finaljudgesite.com
 0.0.0.0  _.torpig-sinkhole.org
