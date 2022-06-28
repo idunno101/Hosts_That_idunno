@@ -10,8 +10,6 @@
 0.0.0.0  www.myxmr.pw
 0.0.0.0  xmr.myxmr.pw
 0.0.0.0  brascase-br.com
-0.0.0.0  removertillo.top
-0.0.0.0  dastingreenol.top
 0.0.0.0  fbhaptadelrgcnmeqnmbbh.me
 0.0.0.0  elixjrvamvbnhxdfde.me
 0.0.0.0  vkyrctnnppvjpvovlossvxulc.me
@@ -19,3 +17,4 @@
 0.0.0.0  vficwclydkdpfvupysrux.me
 0.0.0.0  ruqcngnjxcygyvka.me
 0.0.0.0  hotowmulbhk.me
+0.0.0.0  ofpwqmhemcwbhf.me
