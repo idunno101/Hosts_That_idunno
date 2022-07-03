@@ -66,3 +66,8 @@
 0.0.0.0  udrwcs.rusradio1.ru
 0.0.0.0  ggdo.h7smcnrwlsdn34fgv.info
 0.0.0.0  47uluzb7i4w5i.0roptbgg23.com
+0.0.0.0  dfnecb.bingoforus.ru
+0.0.0.0  qmsrif.piterfm1.ru
+0.0.0.0  cbdlpk.piterfm1.ru
+0.0.0.0  mrmzco.piterfm1.ru
+0.0.0.0  wchtte.piterfm1.ru
