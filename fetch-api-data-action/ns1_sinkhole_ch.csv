@@ -1,7 +1,7 @@
 indicator,type,risk,stamp_added,stamp_updated,stamp_seen,stamp_retired,city,country,countrycode,org,reference
-ns2.sinkhole.ch,domain,high,,"2022-07-01 21:04:06","2022-07-01 21:04:06",,[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=22167
-sinkhole.ch,domain,critical,,"2022-07-01 21:04:03","2022-07-01 21:04:03",,[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=22169
-ns1.sinkhole.ch,domain,critical,,"2022-07-01 21:04:05","2022-07-01 21:04:05",,[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=22175
+ns2.sinkhole.ch,domain,high,,"2022-07-02 23:12:32","2022-07-02 23:12:32",,[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=22167
+sinkhole.ch,domain,critical,,"2022-07-02 23:12:31","2022-07-02 23:12:31",,[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=22169
+ns1.sinkhole.ch,domain,critical,,"2022-07-02 23:12:33","2022-07-02 23:12:33",,[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=22175
 64.myxmr.pw,domain,critical,,"2022-06-26 18:18:58","2022-06-26 18:18:58",,[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=1767316
 www.64.myxmr.pw,domain,medium,,"2022-06-25 07:40:08","2022-05-02 15:01:12",,[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=2209243
 myxmr.pw,domain,critical,,"2022-07-01 10:26:54","2022-07-01 10:26:54",,[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=2308013
@@ -19,3 +19,4 @@ vficwclydkdpfvupysrux.me,domain,high,,"2022-05-27 09:54:28","2022-05-27 09:54:28
 ruqcngnjxcygyvka.me,domain,high,,"2022-06-06 19:26:17","2022-06-06 19:26:17",,,Ireland,IE,,https://pulsedive.com/indicator/?iid=35638380
 hotowmulbhk.me,domain,high,,"2022-06-12 19:59:42","2022-06-12 19:59:42",,,,,,https://pulsedive.com/indicator/?iid=35787049
 ofpwqmhemcwbhf.me,domain,high,,"2022-06-28 01:15:55","2022-06-28 01:15:55",,,,,,https://pulsedive.com/indicator/?iid=36565431
+hgrxjvxcwcrwrpe.me,domain,high,,"2022-07-02 23:12:34","2022-07-02 23:12:34",,,Ireland,IE,,https://pulsedive.com/indicator/?iid=36783483
