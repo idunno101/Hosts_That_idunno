@@ -5,3 +5,10 @@
 0.0.0.0  mx.torpig-sinkhole.org
 0.0.0.0  mx2.torpig-sinkhole.org
 0.0.0.0  _.torpig-sinkhole.org
+0.0.0.0  hostmaster.hostmaster.hostmaster.hostmaster.hostmaster.hostmaster.spread-system.info
+0.0.0.0  hostmaster.hostmaster.hostmaster.hostmaster.spread-system.info
+0.0.0.0  hostmaster.hostmaster.hostmaster.hostmaster.hostmaster.spread-system.info
+0.0.0.0  spread-system.info
+0.0.0.0  hostmaster.hostmaster.spread-system.info
+0.0.0.0  hostmaster.spread-system.info
+0.0.0.0  hostmaster.hostmaster.hostmaster.spread-system.info

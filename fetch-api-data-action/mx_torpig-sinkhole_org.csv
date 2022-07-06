@@ -1,8 +1,15 @@
 indicator,type,risk,stamp_added,stamp_updated,stamp_seen,stamp_retired,city,country,countrycode,org,reference
-ns1.torpig-sinkhole.org,domain,none,,"2022-06-06 19:26:59","2022-06-06 19:26:59",,[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=157724
-torpig-sinkhole.org,domain,unknown,,"2022-06-06 19:26:59","2022-06-06 19:26:59",,[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=157725
-ns2.torpig-sinkhole.org,domain,none,,"2022-06-06 19:26:59","2022-06-06 19:26:59",,[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=157726
-mx1.torpig-sinkhole.org,domain,unknown,,"2022-06-06 19:27:00","2022-06-06 19:26:59",,[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=6941121
-mx.torpig-sinkhole.org,domain,unknown,,"2022-06-06 19:26:58","2022-06-06 19:26:58",,[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=6941123
-mx2.torpig-sinkhole.org,domain,unknown,,"2022-06-06 19:26:59","2022-06-06 19:26:59",,[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=6941124
+ns1.torpig-sinkhole.org,domain,none,,"2022-07-05 18:10:04","2022-07-05 18:10:04",,[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=157724
+torpig-sinkhole.org,domain,unknown,,"2022-07-05 18:09:58","2022-07-05 18:09:58",,[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=157725
+ns2.torpig-sinkhole.org,domain,none,,"2022-07-05 18:10:00","2022-07-05 18:10:00",,[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=157726
+mx1.torpig-sinkhole.org,domain,unknown,,"2022-07-05 18:09:57","2022-07-05 18:09:57",,[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=6941121
+mx.torpig-sinkhole.org,domain,unknown,,"2022-07-05 18:09:59","2022-07-05 18:09:59",,[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=6941123
+mx2.torpig-sinkhole.org,domain,unknown,,"2022-07-05 18:09:59","2022-07-05 18:09:59",,[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=6941124
 _.torpig-sinkhole.org,domain,unknown,,"2022-06-06 19:27:00","2022-06-06 19:27:00",,[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=35638381
+hostmaster.hostmaster.hostmaster.hostmaster.hostmaster.hostmaster.spread-system.info,domain,unknown,,"2022-07-05 18:10:03","2022-07-05 18:10:02",,[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=36864625
+hostmaster.hostmaster.hostmaster.hostmaster.spread-system.info,domain,unknown,,"2022-07-05 18:10:05","2022-07-05 18:10:05",,[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=36864628
+hostmaster.hostmaster.hostmaster.hostmaster.hostmaster.spread-system.info,domain,unknown,,"2022-07-05 18:10:08","2022-07-05 18:10:08",,[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=36864631
+spread-system.info,domain,unknown,,"2022-07-05 18:09:57","2022-07-05 18:09:57",,[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=36864635
+hostmaster.hostmaster.spread-system.info,domain,unknown,,"2022-07-05 18:09:56","2022-07-05 18:09:56",,"REDACTED FOR PRIVACY","United States of America",US,,https://pulsedive.com/indicator/?iid=36864638
+hostmaster.spread-system.info,domain,unknown,,"2022-07-05 18:10:00","2022-07-05 18:10:00",,[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=36864640
+hostmaster.hostmaster.hostmaster.spread-system.info,domain,unknown,,"2022-07-05 18:10:04","2022-07-05 18:10:04",,[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=36864641
