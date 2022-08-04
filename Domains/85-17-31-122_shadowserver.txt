@@ -1,14 +1,8 @@
 0.0.0.0  panhardware.com
 0.0.0.0  firstaholic.com
-0.0.0.0  lukki6nd2kdnc.info
 0.0.0.0  h7smcnrwlsdn34fgv.info
 0.0.0.0  verble.rocks
-0.0.0.0  rogerscorp.org
 0.0.0.0  0roptbgg23.com
-0.0.0.0  dhrr.lukki6nd2kdnc.info
-0.0.0.0  pi.rogerscorp.org
-0.0.0.0  www.h00k.info
-0.0.0.0  h00k.info
 0.0.0.0  rkzsrr.jackpotmsk.ru
 0.0.0.0  jackpotmsk.ru
 0.0.0.0  bsurfu.jackpotmsk.ru
