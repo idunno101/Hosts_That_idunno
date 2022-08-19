@@ -3,11 +3,7 @@
 0.0.0.0  h7smcnrwlsdn34fgv.info
 0.0.0.0  verble.rocks
 0.0.0.0  0roptbgg23.com
-0.0.0.0  rkzsrr.jackpotmsk.ru
 0.0.0.0  jackpotmsk.ru
-0.0.0.0  bsurfu.jackpotmsk.ru
-0.0.0.0  snfncz.jackpotmsk.ru
-0.0.0.0  jbegqo.jackpotmsk.ru
 0.0.0.0  xonriz.jackpotmsk.ru
 0.0.0.0  qcczca.jackpotmsk.ru
 0.0.0.0  zljbeq.jackpotmsk.ru
