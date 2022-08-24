@@ -55,7 +55,7 @@ jobs:
       
       - name: Generate hosts file
         env:
-          OUTPUT_FILE: '${{ matrx.manifest }}_shadowserver.txt'
+          OUTPUT_FILE: '${{ matrix.manifest }}_shadowserver.txt'
           SUPPLIED_FILE: 'parsed-${{ matrix.manifest }}_shadowserver.txt'
         run: |
           python make_hosts.py
