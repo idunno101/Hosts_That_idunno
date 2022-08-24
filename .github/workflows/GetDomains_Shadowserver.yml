@@ -22,8 +22,8 @@ jobs:
           INDICATOR: 'sinkhole.shadowserver.org'
         run: |
            echo "" > addresses.txt; while read line; do echo -n $line >> addresses.txt; done < "./Sinkholes/"${INDICATOR}"/IP Addresses"
-           echo '"["$(cat addresses.txt)"]"'
-           echo '::set-output name=addresses::"["$(cat addresses.txt)"]"'
+           echo '['$(cat addresses.txt)']'
+           echo '::set-output name=addresses::['$(cat addresses.txt)']'
 
   Get_domains_and_generate_hosts_file:
     # The type of runner that the job will run on
