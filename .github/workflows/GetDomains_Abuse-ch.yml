@@ -1,9 +1,9 @@
-name: For shadowserver
+name: For abuse.ch
 
 # Controls when the action will run.
 on:
   schedule:
-    - cron: '46 4 * * *'
+    - cron: '44 4 * * *'
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -18,7 +18,7 @@ jobs:
 
       - id: create-matrix
         env:
-          INDICATOR: 'sinkhole.shadowserver.org'
+          INDICATOR: 'this-domain-is-sinkholed-by.abuse.ch'
         run: |
           echo "::set-output name=addresses::$(cat "./Sinkholes/"${INDICATOR}"/IP Addresses" | jq -scR 'split("\n")')"
 
@@ -40,11 +40,11 @@ jobs:
 
       - name: Fetch API Data
         run: |
-          wget --output-document=./fetch-api-data-action/${{ matrix.manifest }}_shadowserver.csv "https://pulsedive.com/api/search.php?type[]=all&risk[]=all&retired=false&property[0][key]=property&property[0][type]=dns&property[0][value]=${{ matrix.manifest }}&lastseen=all&search=indicators&pretty=true&export=1&key=${{ secrets.PULSEDIVE_API }}"
+          wget --output-document=./fetch-api-data-action/${{ matrix.manifest }}_abuse-ch.csv "https://pulsedive.com/api/search.php?type[]=all&risk[]=all&retired=false&property[0][key]=property&property[0][type]=dns&property[0][value]=${{ matrix.manifest }}&lastseen=all&search=indicators&pretty=true&export=1&key=${{ secrets.PULSEDIVE_API }}"
 
       - name: Parse
         run: |
-          cut -d , -f 1 ./fetch-api-data-action/${{ matrix.manifest }}_shadowserver.csv > ./parsed-${{ matrix.manifest }}_shadowserver.txt
+          cut -d , -f 1 ./fetch-api-data-action/${{ matrix.manifest }}_abuse-ch.csv > ./parsed-${{ matrix.manifest }}_abuse-ch.txt
 
       - name: Set up Python 3.x
         uses: actions/setup-python@v2
@@ -53,8 +53,8 @@ jobs:
 
       - name: Generate hosts file
         env:
-          OUTPUT_FILE: '${{ matrix.manifest }}_shadowserver.txt'
-          SUPPLIED_FILE: 'parsed-${{ matrix.manifest }}_shadowserver.txt'
+          OUTPUT_FILE: '${{ matrix.manifest }}_abuse-ch.txt'
+          SUPPLIED_FILE: 'parsed-${{ matrix.manifest }}_abuse-ch.txt'
         run: |
           python make_hosts.py
 
@@ -65,5 +65,5 @@ jobs:
           git pull
           git add fetch-api-data-action/
           git add Domains/
-          git commit -m "Update domains related to ${{ matrix.manifest }} (shadowserver)"
+          git commit -m "Update domains related to ${{ matrix.manifest }} (abuse.ch)"
           git push
