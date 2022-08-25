@@ -21,7 +21,7 @@ jobs:
         env:
           INDICATOR: 'sinkhole.shadowserver.org'
         run: |
-          echo "::set-output name=addresses::$(cat "./Sinkholes/"${INDICATOR}"/IP Addresses" | jq -scR 'split("\n")')"
+          echo "::set-output name=addresses::$(cat "./Sinkholes/"${INDICATOR}"/IP Addresses" | jq -scR 'split("\n") | tojson')"
 
   Get_domains_and_generate_hosts_file:
     # The type of runner that the job will run on
@@ -31,7 +31,7 @@ jobs:
 
     strategy:
       matrix: 
-        manifest: ${{ needs.Get_IP_addresses.outputs.matrix }}
+        manifest: ${{ fromJson(needs.Get_IP_addresses.outputs.matrix) }}
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
