@@ -21,8 +21,7 @@ jobs:
         env:
           INDICATOR: 'sinkhole.shadowserver.org'
         run: |
-           while read line; do echo -n $line' ' >> addresses.txt; done < "./Sinkholes/"${INDICATOR}"/IP Addresses"
-           echo "::set-output name=addresses::$(cat addresses.txt | jq -sR 'split("\n") | tojson)'"
+           echo ::set-output name=addresses::$(cat "./Sinkholes/"${INDICATOR}"/IP Addresses" | jq -sR 'split("\n") | tojson)'
 
   Get_domains_and_generate_hosts_file:
     # The type of runner that the job will run on
