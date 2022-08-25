@@ -1,0 +1,2 @@
+0.0.0.0  bestmanta.net
+0.0.0.0  mail.bestmanta.net
