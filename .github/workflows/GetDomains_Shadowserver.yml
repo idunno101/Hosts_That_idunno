@@ -30,8 +30,8 @@ jobs:
     needs: Get_IP_addresses
 
     strategy:
-      matrix:
-        manifest: ${{needs.Get_IP_addresses.outputs.addresses}}
+      matrix: 
+        manifest: ${{ jobs.Get_IP_addresses.outputs.matrix }}
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
