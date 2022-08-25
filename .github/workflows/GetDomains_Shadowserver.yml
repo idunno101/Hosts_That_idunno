@@ -21,7 +21,7 @@ jobs:
         env:
           INDICATOR: 'sinkhole.shadowserver.org'
         run: |
-           echo "" > addresses.txt; while read line; do echo -n $line >> addresses.txt; done < "./Sinkholes/"${INDICATOR}"/IP Addresses"
+           while read line; do echo -n $line' ' >> addresses.txt; done < "./Sinkholes/"${INDICATOR}"/IP Addresses"
            echo '['$(cat addresses.txt)']'
            echo '::set-output name=addresses::['$(cat addresses.txt)']'
 
