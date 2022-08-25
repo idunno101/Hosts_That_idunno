@@ -31,7 +31,7 @@ jobs:
 
     strategy:
       matrix:
-        manifest: ${{ fromJson(needs.Get_IP_addresses.outputs.addresses) }}
+        manifest: ${{needs.Get_IP_addresses.outputs.addresses}}
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
