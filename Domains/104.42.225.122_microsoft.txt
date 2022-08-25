@@ -1,0 +1,4 @@
+0.0.0.0  produkktc.com
+0.0.0.0  mail.produkktc.com
+0.0.0.0  mgrsdfkprogerg.com
+0.0.0.0  mail.mgrsdfkprogerg.com
