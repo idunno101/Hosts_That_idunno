@@ -1,2 +1,7 @@
 0.0.0.0  bestmanta.net
 0.0.0.0  mail.bestmanta.net
+0.0.0.0  3192533085368318572.bestmanta.net
+0.0.0.0  mx02.slac.cc
+0.0.0.0  ns.slac.cc
+0.0.0.0  mail.slac.cc
+0.0.0.0  slac.cc

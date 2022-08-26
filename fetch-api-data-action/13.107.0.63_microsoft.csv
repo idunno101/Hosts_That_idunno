@@ -1,3 +1,8 @@
 indicator,type,risk,stamp_added,stamp_updated,stamp_seen,stamp_retired,city,country,countrycode,org,reference
-bestmanta.net,domain,none,,"2022-08-23 08:49:38","2022-08-23 08:49:38",,Redmond,"United States of America",US,,https://pulsedive.com/indicator/?iid=38301379
-mail.bestmanta.net,domain,unknown,,"2022-08-23 08:49:34","2022-08-23 08:49:34",,,,,,https://pulsedive.com/indicator/?iid=38301382
+bestmanta.net,domain,none,,"2022-08-25 20:57:25","2022-08-25 20:57:25",,Redmond,"United States of America",US,,https://pulsedive.com/indicator/?iid=38301379
+mail.bestmanta.net,domain,unknown,,"2022-08-25 20:57:26","2022-08-25 20:57:25",,Redmond,"United States of America",US,,https://pulsedive.com/indicator/?iid=38301382
+3192533085368318572.bestmanta.net,domain,none,,"2022-08-25 20:57:26","2022-08-25 20:57:26",,Redmond,"United States of America",US,,https://pulsedive.com/indicator/?iid=38376048
+mx02.slac.cc,domain,none,,"2022-08-25 20:57:30","2022-08-25 20:57:30",,Redmond,"United States of America",US,,https://pulsedive.com/indicator/?iid=38376049
+ns.slac.cc,domain,none,,"2022-08-25 20:57:33","2022-08-25 20:57:33",,Redmond,"United States of America",US,,https://pulsedive.com/indicator/?iid=38376050
+mail.slac.cc,domain,unknown,,"2022-08-25 20:57:32","2022-08-25 20:57:32",,Redmond,"United States of America",US,,https://pulsedive.com/indicator/?iid=38376051
+slac.cc,domain,unknown,,"2022-08-25 20:57:33","2022-08-25 20:57:33",,Redmond,"United States of America",US,,https://pulsedive.com/indicator/?iid=38376052
