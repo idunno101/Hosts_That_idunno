@@ -78,3 +78,7 @@
 0.0.0.0  wwwg1-ssl-mail.g1-ssl-mail.com
 0.0.0.0  mail.ceip-alert.com
 0.0.0.0  ceip-alert.com
+0.0.0.0  mail.loqin-microsoftonline.com
+0.0.0.0  loqin-microsoftonline.com
+0.0.0.0  mail.windowofficeupdate.com
+0.0.0.0  windowofficeupdate.com
