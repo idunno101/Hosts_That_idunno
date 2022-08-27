@@ -1,2 +1,23 @@
 indicator,type,risk,stamp_added,stamp_updated,stamp_seen,stamp_retired,city,country,countrycode,org,reference
-avsvmcloud.com,domain,none,,"2022-08-23 07:27:32","2022-08-23 07:27:32",,[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=19401792
+avsvmcloud.com,domain,none,,"2022-08-25 21:10:52","2022-08-25 21:10:52",,[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=19401792
+eu-west-1.avsvmcloud.com,domain,unknown,,"2022-08-25 21:06:04","2022-08-25 21:06:04",,[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=19408493
+us-west-2.avsvmcloud.com,domain,none,,"2022-08-25 21:10:53","2022-08-25 21:10:53",,[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=19408494
+us-east-2.avsvmcloud.com,domain,unknown,,"2022-08-25 21:10:45","2022-08-25 21:10:45",,[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=19408495
+appsync-api.eu-west-1.avsvmcloud.com,domain,unknown,,"2022-08-25 21:06:04","2022-08-25 21:06:04",,[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=19408496
+appsync-api.us-east-2.avsvmcloud.com,domain,unknown,,"2022-08-25 21:10:48","2022-08-25 21:10:48",,[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=19408497
+appsync-api.us-west-2.avsvmcloud.com,domain,none,,"2022-08-25 21:05:50","2022-08-25 21:05:50",,[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=19408499
+netgq1h856599gqh538acqn.appsync-api.us-west-2.avsvmcloud.com,domain,unknown,,"2022-08-25 21:05:51","2022-08-25 21:05:51",,[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=38376089
+west-1.avsvmcloud.com,domain,unknown,,"2022-08-25 21:04:41","2022-08-25 21:04:41",,[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=38376092
+dew.avsvmcloud.com,domain,unknown,,"2022-08-25 21:06:13","2022-08-25 21:06:12",,[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=38376103
+8225c.avsvmcloud.com,domain,unknown,,"2022-08-25 21:06:33","2022-08-25 21:06:33",,[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=38376104
+358f8.avsvmcloud.com,domain,unknown,,"2022-08-25 21:06:36","2022-08-25 21:06:35",,[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=38376106
+cpd.avsvmcloud.com,domain,unknown,,"2022-08-25 21:06:41","2022-08-25 21:06:41",,[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=38376112
+avsvmcloud.com.appsync-api.us-west-2.avsvmcloud.com.appsync-api.us-east-1.avsvmcloud.com.appsync-api.us-east-2.avsvmcloud.com,domain,unknown,,"2022-08-25 21:10:22","2022-08-25 21:10:22",,[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=38376117
+com.appsync-api.us-east-1.avsvmcloud.com.appsync-api.us-east-2.avsvmcloud.com,domain,unknown,,"2022-08-25 21:10:29","2022-08-25 21:10:29",,[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=38376119
+com.appsync-api.us-east-2.avsvmcloud.com,domain,unknown,,"2022-08-25 21:10:48","2022-08-25 21:10:48",,[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=38376121
+us-east-1.avsvmcloud.com.appsync-api.us-east-2.avsvmcloud.com,domain,unknown,,"2022-08-25 21:10:44","2022-08-25 21:10:44",,[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=38376122
+avsvmcloud.com.appsync-api.us-east-2.avsvmcloud.com,domain,unknown,,"2022-08-25 21:10:48","2022-08-25 21:10:48",,[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=38376123
+avsvmcloud.com.appsync-api.us-east-1.avsvmcloud.com.appsync-api.us-east-2.avsvmcloud.com,domain,unknown,,"2022-08-25 21:10:26","2022-08-25 21:10:26",,[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=38376124
+eu-west-1.avsvmcloud.com.appsync-api.us-west-2.avsvmcloud.com.appsync-api.us-east-1.avsvmcloud.com.appsync-api.us-east-2.avsvmcloud.com,domain,unknown,,"2022-08-25 21:10:19","2022-08-25 21:10:19",,[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=38376125
+appsync-api.us-west-2.avsvmcloud.com.appsync-api.us-east-1.avsvmcloud.com.appsync-api.us-east-2.avsvmcloud.com,domain,unknown,,"2022-08-25 21:10:21","2022-08-25 21:10:20",,[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=38376128
+www.us-west-2.avsvmcloud.com,domain,unknown,,"2022-08-25 21:10:53","2022-08-25 21:10:53",,[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=38376134
