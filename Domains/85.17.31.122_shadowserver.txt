@@ -1,8 +1,8 @@
 0.0.0.0  panhardware.com
-0.0.0.0  firstaholic.com
 0.0.0.0  h7smcnrwlsdn34fgv.info
 0.0.0.0  verble.rocks
 0.0.0.0  0roptbgg23.com
+0.0.0.0  jackpotmsk.ru
 0.0.0.0  mxp2356.com
 0.0.0.0  mxp628.com
 0.0.0.0  mxp2323.com
@@ -37,3 +37,9 @@
 0.0.0.0  wchtte.piterfm1.ru
 0.0.0.0  nie2bjma6m7dptvf8m.zpti3tyb7h.com
 0.0.0.0  zpti3tyb7h.com
+0.0.0.0  mrqzuv.jackpotmsk.ru
+0.0.0.0  5zeyioegx3m.mxp2323.com
+0.0.0.0  hcqcu7chav5sfc5crf.mxp2323.com
+0.0.0.0  unuleh6.0roptbgg23.com
+0.0.0.0  8kqfqtexvhb7.zpti3tyb7h.com
+0.0.0.0  cholgs.bingoforus.ru
