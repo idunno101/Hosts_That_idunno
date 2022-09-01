@@ -71,3 +71,4 @@
 0.0.0.0  ifrnjblmr.ru
 0.0.0.0  ilkqm.in
 0.0.0.0  kckstt.in
+0.0.0.0  updates-1.com
