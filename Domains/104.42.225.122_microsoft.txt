@@ -35,3 +35,5 @@
 0.0.0.0  mail.yeh7292ahyssozananan.com
 0.0.0.0  yeh7292ahyssozananan.com
 0.0.0.0  dom.yeh7292ahyssozananan.com
+0.0.0.0  bat99-11611.co
+0.0.0.0  mail.bat99-11611.co
