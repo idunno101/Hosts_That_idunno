@@ -72,3 +72,6 @@
 0.0.0.0  ilkqm.in
 0.0.0.0  kckstt.in
 0.0.0.0  updates-1.com
+0.0.0.0  paparoach.in
+0.0.0.0  ww17.andall.servicesql.info
+0.0.0.0  andall.servicesql.info
