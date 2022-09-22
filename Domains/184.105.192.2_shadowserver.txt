@@ -75,3 +75,5 @@
 0.0.0.0  paparoach.in
 0.0.0.0  ww17.andall.servicesql.info
 0.0.0.0  andall.servicesql.info
+0.0.0.0  vtuts.in
+0.0.0.0  thanhvl.vtuts.in
