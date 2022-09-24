@@ -77,3 +77,5 @@
 0.0.0.0  andall.servicesql.info
 0.0.0.0  vtuts.in
 0.0.0.0  thanhvl.vtuts.in
+0.0.0.0  mbnet.pw
+0.0.0.0  vuimntwss.in
