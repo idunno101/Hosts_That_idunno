@@ -17,3 +17,6 @@
 0.0.0.0  dmarc.momalls.com
 0.0.0.0  spyeye-sinkhole.org
 0.0.0.0  mail.spyeye-sinkhole.org
+0.0.0.0  aisviua77s.xyz
+0.0.0.0  iiavsvviaeu8e44nc.xyz
+0.0.0.0  aghbh73ehefiv787ywe8ads.com
