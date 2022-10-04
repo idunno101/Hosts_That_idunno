@@ -5,11 +5,6 @@
 0.0.0.0  bingoforus.ru
 0.0.0.0  rusradio1.ru
 0.0.0.0  piterfm1.ru
-0.0.0.0  dfnecb.bingoforus.ru
-0.0.0.0  qmsrif.piterfm1.ru
-0.0.0.0  cbdlpk.piterfm1.ru
-0.0.0.0  mrmzco.piterfm1.ru
-0.0.0.0  wchtte.piterfm1.ru
 0.0.0.0  nie2bjma6m7dptvf8m.zpti3tyb7h.com
 0.0.0.0  zpti3tyb7h.com
 0.0.0.0  mrqzuv.jackpotmsk.ru
