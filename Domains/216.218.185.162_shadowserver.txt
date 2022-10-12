@@ -1,4 +1,5 @@
 0.0.0.0  216-218-185-162.sinkhole.shadowserver.org
+0.0.0.0  freetesteer.ru
 0.0.0.0  roqcsrryxqwgfd.me
 0.0.0.0  kycirnewlecomq.pw
 0.0.0.0  mtrxldwoernefaqtr.in
