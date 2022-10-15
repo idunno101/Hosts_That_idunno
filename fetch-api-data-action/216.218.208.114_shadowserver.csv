@@ -1,5 +1,5 @@
 indicator,type,risk,stamp_added,stamp_updated,stamp_seen,stamp_retired,city,country,countrycode,org,reference
-216-218-208-114.sinkhole.shadowserver.org,domain,unknown,,"2022-08-26 02:01:23","2022-08-26 02:01:23",,"Statutory Masking Enabled","United States of America",US,,https://pulsedive.com/indicator/?iid=17444689
+216-218-208-114.sinkhole.shadowserver.org,domain,unknown,,"2022-10-14 21:10:19","2022-10-14 21:10:19",,"Statutory Masking Enabled","United States of America",US,,https://pulsedive.com/indicator/?iid=17444689
 mysql09.safemodhrtoer.com,domain,none,,"2022-08-23 00:51:25","2022-08-23 00:51:25",,,,,,https://pulsedive.com/indicator/?iid=38297745
 safemodhrtoer.com,domain,unknown,,"2022-08-23 00:51:24","2022-08-23 00:51:24",,,,,,https://pulsedive.com/indicator/?iid=38297747
 www.trumfteenlid.com,domain,none,,"2022-08-26 01:59:54","2022-08-26 01:59:54",,,,,,https://pulsedive.com/indicator/?iid=38377100
@@ -7,3 +7,7 @@ trumfteenlid.com,domain,unknown,,"2022-08-26 01:59:53","2022-08-26 01:59:53",,,,
 badbigbearr.com,domain,none,,"2022-08-26 02:01:21","2022-08-26 02:01:21",,,,,,https://pulsedive.com/indicator/?iid=38377105
 www.abreme9.win,domain,low,,"2022-08-26 02:01:25","2022-08-26 02:01:25",,,,,,https://pulsedive.com/indicator/?iid=38377106
 abreme9.win,domain,medium,,"2022-08-26 02:01:23","2022-08-26 02:01:23",,,,,,https://pulsedive.com/indicator/?iid=38377109
+www.kratique.com,domain,none,,"2022-10-14 21:09:57","2022-10-14 21:09:57",,,,,,https://pulsedive.com/indicator/?iid=40001171
+www.excitingstop.top,domain,low,,"2022-10-14 21:10:03","2022-10-14 21:10:03",,,,,,https://pulsedive.com/indicator/?iid=40001172
+kratique.com,domain,none,,"2022-10-14 21:10:21","2022-10-14 21:10:21",,,,,,https://pulsedive.com/indicator/?iid=40001173
+excitingstop.top,domain,medium,,"2022-10-14 21:10:03","2022-10-14 21:10:03",,,,,,https://pulsedive.com/indicator/?iid=40001174

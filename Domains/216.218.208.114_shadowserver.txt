@@ -6,3 +6,7 @@
 0.0.0.0  badbigbearr.com
 0.0.0.0  www.abreme9.win
 0.0.0.0  abreme9.win
+0.0.0.0  www.kratique.com
+0.0.0.0  www.excitingstop.top
+0.0.0.0  kratique.com
+0.0.0.0  excitingstop.top
