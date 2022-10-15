@@ -8,3 +8,4 @@
 0.0.0.0  bq9tjyebqvl5qma.zapto.org
 0.0.0.0  ewo1wvq0dceouxv.serveminecraft.net
 0.0.0.0  aanlndhara.myddns.me
+0.0.0.0  5yezwbmuwr2vaann7b.serveirc.com
