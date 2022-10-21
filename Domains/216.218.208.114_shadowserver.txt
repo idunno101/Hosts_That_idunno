@@ -10,3 +10,5 @@
 0.0.0.0  www.excitingstop.top
 0.0.0.0  kratique.com
 0.0.0.0  excitingstop.top
+0.0.0.0  www.labarnor.com
+0.0.0.0  labarnor.com
