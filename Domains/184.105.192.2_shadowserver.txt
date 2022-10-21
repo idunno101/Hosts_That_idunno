@@ -106,3 +106,9 @@
 0.0.0.0  adobe.com.session-d2eec06373252d0e4066e87554c8e913.intuit.security.updates-1.com
 0.0.0.0  com.session-d2eec06373252d0e4066e87554c8e913.intuit.security.updates-1.com
 0.0.0.0  session-d2eec06373252d0e4066e87554c8e913.intuit.security.updates-1.com
+0.0.0.0  get.adobe.com.session-5cdf6dcb7e44164904292eab52156d2c.intuit.security-center1.com
+0.0.0.0  security-center1.com
+0.0.0.0  intuit.security-center1.com
+0.0.0.0  session-5cdf6dcb7e44164904292eab52156d2c.intuit.security-center1.com
+0.0.0.0  com.session-5cdf6dcb7e44164904292eab52156d2c.intuit.security-center1.com
+0.0.0.0  adobe.com.session-5cdf6dcb7e44164904292eab52156d2c.intuit.security-center1.com
