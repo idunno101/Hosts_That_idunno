@@ -41,3 +41,8 @@
 0.0.0.0  uxwsqfapcicm.candle-warn.ru
 0.0.0.0  mxp2343.com
 0.0.0.0  candle-warn.ru
+0.0.0.0  yeah-book-assignment.ru
+0.0.0.0  wxi6uzzres.zpti3tyb7h.com
+0.0.0.0  tradespace.org
+0.0.0.0  therepherpe.ru
+0.0.0.0  ratautomatic.ru
