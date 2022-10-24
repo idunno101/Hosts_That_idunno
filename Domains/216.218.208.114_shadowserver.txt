@@ -12,3 +12,5 @@
 0.0.0.0  excitingstop.top
 0.0.0.0  www.labarnor.com
 0.0.0.0  labarnor.com
+0.0.0.0  www.mootwould.com
+0.0.0.0  mootwould.com
