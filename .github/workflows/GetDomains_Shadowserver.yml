@@ -20,7 +20,7 @@ jobs:
         env:
           INDICATOR: 'sinkhole.shadowserver.org'
         run: |
-          echo "addresses= $(cat "./Sinkholes/"${INDICATOR}"/IP Addresses" | jq -scR 'split("\n")')" >> GITHUB_OUTPUT
+          echo "::set-output name=addresses::$(cat "./Sinkholes/"${INDICATOR}"/IP Addresses" | jq -scR 'split("\n")')"
 
   Get_domains_and_generate_hosts_file:
     # The type of runner that the job will run on
