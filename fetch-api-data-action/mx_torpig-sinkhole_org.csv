@@ -1,11 +1,11 @@
 indicator,type,risk,stamp_added,stamp_updated,stamp_seen,stamp_retired,city,country,countrycode,org,reference
-ns1.torpig-sinkhole.org,domain,none,,"2022-10-14 21:47:48","2022-10-14 21:47:48",,[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=157724
-torpig-sinkhole.org,domain,unknown,,"2022-10-14 21:47:46","2022-10-14 21:47:46",,[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=157725
-ns2.torpig-sinkhole.org,domain,none,,"2022-10-14 21:47:48","2022-10-14 21:47:48",,[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=157726
+ns1.torpig-sinkhole.org,domain,none,,"2022-10-25 20:57:12","2022-10-25 20:57:12",,[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=157724
+torpig-sinkhole.org,domain,unknown,,"2022-10-25 20:57:11","2022-10-25 20:57:11",,[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=157725
+ns2.torpig-sinkhole.org,domain,none,,"2022-10-25 20:57:13","2022-10-25 20:57:13",,[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=157726
 momalls.com,domain,unknown,,"2022-09-01 04:32:37","2022-09-01 04:32:37",,Zurich,Netherlands,NL,,https://pulsedive.com/indicator/?iid=5597086
-mx1.torpig-sinkhole.org,domain,unknown,,"2022-10-14 21:47:47","2022-10-14 21:47:47",,[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=6941121
-mx.torpig-sinkhole.org,domain,unknown,,"2022-10-14 21:47:47","2022-10-14 21:47:47",,[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=6941123
-mx2.torpig-sinkhole.org,domain,unknown,,"2022-10-14 21:47:48","2022-10-14 21:47:48",,[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=6941124
+mx1.torpig-sinkhole.org,domain,unknown,,"2022-10-25 20:57:12","2022-10-25 20:57:12",,[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=6941121
+mx.torpig-sinkhole.org,domain,unknown,,"2022-10-25 20:57:11","2022-10-25 20:57:11",,[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=6941123
+mx2.torpig-sinkhole.org,domain,unknown,,"2022-10-25 20:57:12","2022-10-25 20:57:12",,[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=6941124
 popemailwe.com,domain,unknown,,"2022-08-02 23:21:47","2022-08-02 23:21:47",,[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=25232769
 onapuqavo.popemailwe.com,domain,unknown,,"2022-08-02 23:21:48","2022-08-02 23:21:48",,[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=37752842
 dmarc.momalls.com,domain,unknown,,"2022-09-01 04:32:37","2022-09-01 04:32:37",,Zurich,Netherlands,NL,,https://pulsedive.com/indicator/?iid=38593501
@@ -18,4 +18,5 @@ _udp.torpig-sinkhole.org,domain,unknown,,"2022-10-14 21:47:29","2022-10-14 21:47
 _sip._udp.torpig-sinkhole.org,domain,unknown,,"2022-10-14 21:47:36","2022-10-14 21:47:36",,[privacy],[privacy],,[privacy],https://pulsedive.com/indicator/?iid=40001239
 www.aghbh73ehefiv787ywe8ads.com,domain,unknown,,"2022-10-14 21:47:39","2022-10-14 21:47:39",,,,,,https://pulsedive.com/indicator/?iid=40001240
 www.aisviua77s.xyz,domain,low,,"2022-10-14 21:47:43","2022-10-14 21:47:43",,,Switzerland,CH,,https://pulsedive.com/indicator/?iid=40001241
-aosuyiybiube897yehi78.xyz,domain,high,,"2022-10-14 21:47:49","2022-10-14 21:47:49",,,Switzerland,CH,,https://pulsedive.com/indicator/?iid=40001242
+aosuyiybiube897yehi78.xyz,domain,medium,,"2022-10-25 20:57:12","2022-10-25 20:57:12",,,Switzerland,CH,,https://pulsedive.com/indicator/?iid=40001242
+www.aosuyiybiube897yehi78.xyz,domain,low,,"2022-10-25 20:57:14","2022-10-25 20:57:14",,,Switzerland,CH,,https://pulsedive.com/indicator/?iid=40475951
