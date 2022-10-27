@@ -82,3 +82,7 @@
 0.0.0.0  loqin-microsoftonline.com
 0.0.0.0  mail.windowofficeupdate.com
 0.0.0.0  windowofficeupdate.com
+0.0.0.0  _domainkey.my-iri.org
+0.0.0.0  mail.my-iri.org
+0.0.0.0  google._domainkey.my-iri.org
+0.0.0.0  my-iri.org
