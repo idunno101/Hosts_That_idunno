@@ -1,8 +1,6 @@
 0.0.0.0  ringbalor.com
 0.0.0.0  zatcurr.com
 0.0.0.0  signin-rogers.com
-0.0.0.0  www.iappleblog.org
-0.0.0.0  iappleblog.org
 0.0.0.0  czgku.in
 0.0.0.0  ns2.hakimdiver.com
 0.0.0.0  hakimdiver.com
