@@ -3,10 +3,6 @@
 0.0.0.0  mail.zoom-wilsoncenter.org
 0.0.0.0  office365-microsoft.com
 0.0.0.0  mail.office365-microsoft.com
-0.0.0.0  microsoftdriver.com
-0.0.0.0  mail.microsoftdriver.com
-0.0.0.0  microsoftonlihe.com
-0.0.0.0  mail.microsoftonlihe.com
 0.0.0.0  onedrive365.com
 0.0.0.0  mail.onedrive365.com
 0.0.0.0  vnet.qov.info
