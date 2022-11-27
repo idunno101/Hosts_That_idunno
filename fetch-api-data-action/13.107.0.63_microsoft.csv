@@ -1,8 +1,1 @@
-indicator,type,risk,stamp_added,stamp_updated,stamp_seen,stamp_retired,reference,geo_city,geo_country,geo_countrycode,geo_org,dns_ptr
-bestmanta.net,domain,none,,"2022-08-25 20:57:25","2022-08-25 20:57:25",,https://pulsedive.com/indicator/?iid=38301379,Redmond,"United States of America",US,,
-mail.bestmanta.net,domain,unknown,,"2022-08-25 20:57:26","2022-08-25 20:57:25",,https://pulsedive.com/indicator/?iid=38301382,Redmond,"United States of America",US,,
-3192533085368318572.bestmanta.net,domain,none,,"2022-08-25 20:57:26","2022-08-25 20:57:26",,https://pulsedive.com/indicator/?iid=38376048,Redmond,"United States of America",US,,
-mx02.slac.cc,domain,none,,"2022-08-25 20:57:30","2022-08-25 20:57:30",,https://pulsedive.com/indicator/?iid=38376049,Redmond,"United States of America",US,,
-ns.slac.cc,domain,none,,"2022-08-25 20:57:33","2022-08-25 20:57:33",,https://pulsedive.com/indicator/?iid=38376050,Redmond,"United States of America",US,,
-mail.slac.cc,domain,unknown,,"2022-08-25 20:57:32","2022-08-25 20:57:32",,https://pulsedive.com/indicator/?iid=38376051,Redmond,"United States of America",US,,
-slac.cc,domain,unknown,,"2022-08-25 20:57:33","2022-08-25 20:57:33",,https://pulsedive.com/indicator/?iid=38376052,Redmond,"United States of America",US,,
+
