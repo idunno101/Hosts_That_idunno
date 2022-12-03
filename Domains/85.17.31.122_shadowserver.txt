@@ -4,11 +4,6 @@
 0.0.0.0  rusradio1.ru
 0.0.0.0  piterfm1.ru
 0.0.0.0  zpti3tyb7h.com
-0.0.0.0  mduzuv.rusradio1.ru
-0.0.0.0  delivery.a.sonificaton.com
-0.0.0.0  sonificaton.com
-0.0.0.0  a.sonificaton.com
-0.0.0.0  zrymif.rusradio1.ru
 0.0.0.0  6yisez1xjhj5r7toh8.imjdgzh0.com
 0.0.0.0  trerix.piterfm1.ru
 0.0.0.0  imjdgzh0.com
