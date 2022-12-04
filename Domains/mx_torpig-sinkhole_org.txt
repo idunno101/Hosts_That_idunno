@@ -1,11 +1,9 @@
 0.0.0.0  ns1.torpig-sinkhole.org
 0.0.0.0  torpig-sinkhole.org
 0.0.0.0  ns2.torpig-sinkhole.org
-0.0.0.0  momalls.com
 0.0.0.0  mx1.torpig-sinkhole.org
 0.0.0.0  mx.torpig-sinkhole.org
 0.0.0.0  mx2.torpig-sinkhole.org
-0.0.0.0  dmarc.momalls.com
 0.0.0.0  spyeye-sinkhole.org
 0.0.0.0  mail.spyeye-sinkhole.org
 0.0.0.0  aisviua77s.xyz
