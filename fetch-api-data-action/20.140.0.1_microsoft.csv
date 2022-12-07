@@ -1,4 +1,4 @@
 indicator,type,risk,stamp_added,stamp_updated,stamp_seen,stamp_retired,reference,geo_city,geo_country,geo_countrycode,geo_org,dns_ptr
-avsvmcloud.com,domain,none,,"2022-11-30 13:11:09","2022-11-30 12:09:00",,https://pulsedive.com/indicator/?iid=19401792,[privacy],[privacy],,[privacy],
+avsvmcloud.com,domain,none,,"2022-12-06 21:32:16","2022-12-06 21:08:00",,https://pulsedive.com/indicator/?iid=19401792,[privacy],[privacy],,[privacy],
 eu-west-1.avsvmcloud.com,domain,unknown,,"2022-10-14 20:52:17","2022-10-14 20:52:17",,https://pulsedive.com/indicator/?iid=19408493,[privacy],[privacy],,[privacy],
 appsync-api.eu-west-1.avsvmcloud.com,domain,unknown,,"2022-10-14 20:52:19","2022-10-14 20:52:19",,https://pulsedive.com/indicator/?iid=19408496,[privacy],[privacy],,[privacy],
