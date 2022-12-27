@@ -1,6 +1,4 @@
 0.0.0.0  updates-1.com
-0.0.0.0  mbnet.pw
-0.0.0.0  vuimntwss.in
 0.0.0.0  get.adobe.com.session-1758bf4fbbe7e40f4580b1fbe7bae448.intut.securitycentral-1.com
 0.0.0.0  securitycentral-1.com
 0.0.0.0  session-1758bf4fbbe7e40f4580b1fbe7bae448.intut.securitycentral-1.com

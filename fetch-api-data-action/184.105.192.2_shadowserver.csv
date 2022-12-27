@@ -1,7 +1,5 @@
 indicator,type,risk,stamp_added,stamp_updated,stamp_seen,stamp_retired,reference,geo_city,geo_country,geo_countrycode,geo_org,dns_ptr
 updates-1.com,domain,none,,"2022-10-14 21:08:30","2022-10-14 21:08:30",,https://pulsedive.com/indicator/?iid=38593538,,,,,
-mbnet.pw,domain,low,,"2022-09-24 01:55:24","2022-09-24 01:55:24",,https://pulsedive.com/indicator/?iid=39286015,,,,,
-vuimntwss.in,domain,none,,"2022-09-24 01:55:38","2022-09-24 01:55:38",,https://pulsedive.com/indicator/?iid=39286016,,,,,
 get.adobe.com.session-1758bf4fbbe7e40f4580b1fbe7bae448.intut.securitycentral-1.com,domain,none,,"2022-09-30 00:11:59","2022-09-30 00:11:59",,https://pulsedive.com/indicator/?iid=39405950,[privacy],[privacy],,[privacy],
 securitycentral-1.com,domain,none,,"2022-09-30 00:11:59","2022-09-30 00:11:59",,https://pulsedive.com/indicator/?iid=39405951,[privacy],[privacy],,[privacy],
 session-1758bf4fbbe7e40f4580b1fbe7bae448.intut.securitycentral-1.com,domain,unknown,,"2022-09-30 00:11:59","2022-09-30 00:11:59",,https://pulsedive.com/indicator/?iid=39405953,[privacy],[privacy],,[privacy],
