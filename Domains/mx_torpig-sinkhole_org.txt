@@ -5,7 +5,6 @@
 0.0.0.0  mx.torpig-sinkhole.org
 0.0.0.0  mx2.torpig-sinkhole.org
 0.0.0.0  aisviua77s.xyz
-0.0.0.0  iiavsvviaeu8e44nc.xyz
 0.0.0.0  aghbh73ehefiv787ywe8ads.com
 0.0.0.0  _udp.torpig-sinkhole.org
 0.0.0.0  _sip._udp.torpig-sinkhole.org
