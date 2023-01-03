@@ -1,10 +1,4 @@
 0.0.0.0  updates-1.com
-0.0.0.0  get.adobe.com.session-1758bf4fbbe7e40f4580b1fbe7bae448.intut.securitycentral-1.com
-0.0.0.0  securitycentral-1.com
-0.0.0.0  session-1758bf4fbbe7e40f4580b1fbe7bae448.intut.securitycentral-1.com
-0.0.0.0  intut.securitycentral-1.com
-0.0.0.0  com.session-1758bf4fbbe7e40f4580b1fbe7bae448.intut.securitycentral-1.com
-0.0.0.0  adobe.com.session-1758bf4fbbe7e40f4580b1fbe7bae448.intut.securitycentral-1.com
 0.0.0.0  zlusruoxret.in
 0.0.0.0  get.adobe.com.session-f77b62f0c0afe085c5d355662a8f2fe7.intuit.securitycentral1.com
 0.0.0.0  intuit.securitycentral1.com

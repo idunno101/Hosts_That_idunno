@@ -1,11 +1,5 @@
 indicator,type,risk,stamp_added,stamp_updated,stamp_seen,stamp_retired,reference,geo_city,geo_country,geo_countrycode,geo_org,dns_ptr
 updates-1.com,domain,none,,"2022-10-14 21:08:30","2022-10-14 21:08:30",,https://pulsedive.com/indicator/?iid=38593538,,,,,
-get.adobe.com.session-1758bf4fbbe7e40f4580b1fbe7bae448.intut.securitycentral-1.com,domain,none,,"2022-09-30 00:11:59","2022-09-30 00:11:59",,https://pulsedive.com/indicator/?iid=39405950,[privacy],[privacy],,[privacy],
-securitycentral-1.com,domain,none,,"2022-09-30 00:11:59","2022-09-30 00:11:59",,https://pulsedive.com/indicator/?iid=39405951,[privacy],[privacy],,[privacy],
-session-1758bf4fbbe7e40f4580b1fbe7bae448.intut.securitycentral-1.com,domain,unknown,,"2022-09-30 00:11:59","2022-09-30 00:11:59",,https://pulsedive.com/indicator/?iid=39405953,[privacy],[privacy],,[privacy],
-intut.securitycentral-1.com,domain,unknown,,"2022-09-30 00:11:59","2022-09-30 00:11:59",,https://pulsedive.com/indicator/?iid=39405954,[privacy],[privacy],,[privacy],
-com.session-1758bf4fbbe7e40f4580b1fbe7bae448.intut.securitycentral-1.com,domain,unknown,,"2022-09-30 00:11:59","2022-09-30 00:11:59",,https://pulsedive.com/indicator/?iid=39405955,[privacy],[privacy],,[privacy],
-adobe.com.session-1758bf4fbbe7e40f4580b1fbe7bae448.intut.securitycentral-1.com,domain,unknown,,"2022-09-30 00:11:59","2022-09-30 00:11:59",,https://pulsedive.com/indicator/?iid=39405956,[privacy],[privacy],,[privacy],
 zlusruoxret.in,domain,high,,"2022-10-14 21:07:01","2022-10-14 21:07:01",,https://pulsedive.com/indicator/?iid=40001147,[privacy],[privacy],,[privacy],
 get.adobe.com.session-f77b62f0c0afe085c5d355662a8f2fe7.intuit.securitycentral1.com,domain,none,,"2022-10-14 21:07:26","2022-10-14 21:07:26",,https://pulsedive.com/indicator/?iid=40001149,,,,,
 intuit.securitycentral1.com,domain,unknown,,"2022-10-14 21:08:22","2022-10-14 21:08:22",,https://pulsedive.com/indicator/?iid=40001151,,,,,
