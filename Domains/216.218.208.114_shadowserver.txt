@@ -9,3 +9,9 @@
 0.0.0.0  mootwould.com
 0.0.0.0  www.franklinseverino.com
 0.0.0.0  franklinseverino.com
+0.0.0.0  www.sarlncha.com
+0.0.0.0  www.storesidi.net
+0.0.0.0  www.ranesken.com
+0.0.0.0  sarlncha.com
+0.0.0.0  storesidi.net
+0.0.0.0  ranesken.com
