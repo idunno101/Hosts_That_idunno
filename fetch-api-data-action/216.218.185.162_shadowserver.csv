@@ -1,5 +1,5 @@
 indicator,type,risk,stamp_added,stamp_updated,stamp_seen,stamp_retired,reference,geo_city,geo_country,geo_countrycode,geo_org,dns_ptr
-216-218-185-162.sinkhole.shadowserver.org,domain,unknown,,"2022-11-02 09:36:06","2022-11-02 09:36:06",,https://pulsedive.com/indicator/?iid=18982833,"Statutory Masking Enabled","United States of America",US,,
+216-218-185-162.sinkhole.shadowserver.org,domain,unknown,,"2023-01-13 03:55:54","2023-01-13 03:55:54",,https://pulsedive.com/indicator/?iid=18982833,"Statutory Masking Enabled","United States of America",US,,
 blackresoldoola.ru,domain,low,,"2023-01-02 21:19:34","2023-01-02 21:19:34",,https://pulsedive.com/indicator/?iid=19016276,,,,,
 freetesteer.ru,domain,low,,"2022-12-28 01:21:34","2022-12-28 01:21:34",,https://pulsedive.com/indicator/?iid=19035793,,,,,
 knmbbjypnhpg.ru,domain,low,,"2022-12-28 01:21:35","2022-12-28 01:21:35",,https://pulsedive.com/indicator/?iid=19035799,,,,,
@@ -66,3 +66,10 @@ acnieru.net,domain,none,,"2022-11-02 09:34:47","2022-11-02 09:34:47",,https://pu
 rgfoeu.com,domain,high,,"2022-11-02 09:35:13","2022-11-02 09:35:13",,https://pulsedive.com/indicator/?iid=40784372,,,,,
 rgsfqwcm.com,domain,none,,"2022-11-02 09:35:49","2022-11-02 09:35:48",,https://pulsedive.com/indicator/?iid=40784373,,,,,
 rhtwxdjsxy.info,domain,none,,"2022-11-02 09:36:11","2022-11-02 09:36:11",,https://pulsedive.com/indicator/?iid=40784374,,,,,
+forum.vayvmldjaldowhwoe.org,domain,none,,"2023-01-13 03:55:44","2023-01-13 03:55:44",,https://pulsedive.com/indicator/?iid=43619779,,,,,
+gumtvvncb.com,domain,none,,"2023-01-13 03:55:43","2023-01-13 03:55:43",,https://pulsedive.com/indicator/?iid=43619780,,,,,
+admin.ekjwqubnkrvwnfeil.org,domain,none,,"2023-01-13 03:55:52","2023-01-13 03:55:52",,https://pulsedive.com/indicator/?iid=43619781,,,,,
+vayvmldjaldowhwoe.org,domain,unknown,,"2023-01-13 03:55:43","2023-01-13 03:55:43",,https://pulsedive.com/indicator/?iid=43619782,,,,,
+88.nmycve.com,domain,none,,"2023-01-13 03:55:55","2023-01-13 03:55:55",,https://pulsedive.com/indicator/?iid=43619783,,,,,
+ekjwqubnkrvwnfeil.org,domain,unknown,,"2023-01-13 03:55:51","2023-01-13 03:55:51",,https://pulsedive.com/indicator/?iid=43619784,,,,,
+nmycve.com,domain,unknown,,"2023-01-13 03:55:55","2023-01-13 03:55:55",,https://pulsedive.com/indicator/?iid=43619785,,,,,
