@@ -1,5 +1,12 @@
 indicator,type,risk,stamp_added,stamp_updated,stamp_seen,stamp_retired,reference,geo_city,geo_country,geo_countrycode,geo_org,dns_ptr
+mail.aw3bg.com,domain,unknown,,"2023-01-14 02:17:22","2023-01-14 02:17:22",,https://pulsedive.com/indicator/?iid=38376533,Redmond,"United States of America",US,,
+aw3bg.com,domain,unknown,,"2023-01-14 02:17:23","2023-01-14 02:17:23",,https://pulsedive.com/indicator/?iid=38376534,Redmond,"United States of America",US,,
 _domainkey.my-iri.org,domain,unknown,,"2022-10-25 20:53:48","2022-10-25 20:53:48",,https://pulsedive.com/indicator/?iid=40475924,Redmond,"United States of America",US,,
 mail.my-iri.org,domain,unknown,,"2022-10-25 20:53:51","2022-10-25 20:53:51",,https://pulsedive.com/indicator/?iid=40475925,Redmond,"United States of America",US,,
 google._domainkey.my-iri.org,domain,unknown,,"2022-10-25 20:53:53","2022-10-25 20:53:53",,https://pulsedive.com/indicator/?iid=40475926,Redmond,"United States of America",US,,
 my-iri.org,domain,unknown,,"2022-10-25 20:53:48","2022-10-25 20:53:48",,https://pulsedive.com/indicator/?iid=40475927,Redmond,"United States of America",US,,
+google.aw3bg.com,domain,unknown,,"2023-01-14 02:17:16","2023-01-14 02:17:16",,https://pulsedive.com/indicator/?iid=43660289,Redmond,"United States of America",US,,
+autologonmicrosoftazuread-sso.aw3bg.com,domain,unknown,,"2023-01-14 02:17:23","2023-01-14 02:17:23",,https://pulsedive.com/indicator/?iid=43660290,Redmond,"United States of America",US,,
+www.irf.services,domain,unknown,,"2023-01-14 02:17:31","2023-01-14 02:17:31",,https://pulsedive.com/indicator/?iid=43660293,,,,,
+irf.services,domain,unknown,,"2023-01-14 02:17:29","2023-01-14 02:17:29",,https://pulsedive.com/indicator/?iid=43660298,,,,,
+mail.irf.services,domain,unknown,,"2023-01-14 02:17:29","2023-01-14 02:17:29",,https://pulsedive.com/indicator/?iid=43660299,,,,,
