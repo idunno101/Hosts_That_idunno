@@ -4,6 +4,11 @@
 0.0.0.0  mx1.torpig-sinkhole.org
 0.0.0.0  mx.torpig-sinkhole.org
 0.0.0.0  mx2.torpig-sinkhole.org
+0.0.0.0  wesmailer.com
+0.0.0.0  manga-kensei.com
+0.0.0.0  toptechny.com
+0.0.0.0  finaljudgedomain.com
+0.0.0.0  retrmailse.com
 0.0.0.0  aisviua77s.xyz
 0.0.0.0  aghbh73ehefiv787ywe8ads.com
 0.0.0.0  _udp.torpig-sinkhole.org
@@ -12,3 +17,14 @@
 0.0.0.0  www.aisviua77s.xyz
 0.0.0.0  aosuyiybiube897yehi78.xyz
 0.0.0.0  www.aosuyiybiube897yehi78.xyz
+0.0.0.0  autoconfig.wesmailer.com
+0.0.0.0  hostmaster.alkoftenicocukadam.com
+0.0.0.0  alkoftenicocukadam.com
+0.0.0.0  hostmaster.finaljudgedomain.com
+0.0.0.0  hostmaster.hostmaster.manga-kensei.com
+0.0.0.0  hostmaster.hostmaster.exchange.toptechny.com
+0.0.0.0  hostmaster.manga-kensei.com
+0.0.0.0  hostmaster.hostmaster.hostmaster.exchange.toptechny.com
+0.0.0.0  exchange.toptechny.com
+0.0.0.0  hostmaster.exchange.toptechny.com
+0.0.0.0  correio.retrmailse.com
