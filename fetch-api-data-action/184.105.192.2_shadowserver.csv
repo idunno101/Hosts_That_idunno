@@ -1,11 +1,7 @@
 indicator,type,risk,stamp_added,stamp_updated,stamp_seen,stamp_retired,reference,geo_city,geo_country,geo_countrycode,geo_org,dns_ptr
 amnsreiuojy.ru,domain,none,,"2023-01-13 23:43:54","2023-01-13 23:43:54",,https://pulsedive.com/indicator/?iid=4083648,,,,,
-get.adobe.com.session-5cdf6dcb7e44164904292eab52156d2c.intuit.security-center1.com,domain,none,,"2022-10-21 02:09:27","2022-10-21 02:09:27",,https://pulsedive.com/indicator/?iid=40229290,,,,,
 security-center1.com,domain,unknown,,"2022-10-25 20:55:26","2022-10-25 20:55:26",,https://pulsedive.com/indicator/?iid=40229314,,,,,
 intuit.security-center1.com,domain,unknown,,"2022-10-25 20:55:26","2022-10-25 20:55:25",,https://pulsedive.com/indicator/?iid=40229315,,,,,
-session-5cdf6dcb7e44164904292eab52156d2c.intuit.security-center1.com,domain,unknown,,"2022-10-21 02:09:18","2022-10-21 02:09:18",,https://pulsedive.com/indicator/?iid=40229316,,,,,
-com.session-5cdf6dcb7e44164904292eab52156d2c.intuit.security-center1.com,domain,unknown,,"2022-10-21 02:09:24","2022-10-21 02:09:23",,https://pulsedive.com/indicator/?iid=40229318,,,,,
-adobe.com.session-5cdf6dcb7e44164904292eab52156d2c.intuit.security-center1.com,domain,unknown,,"2022-10-21 02:09:26","2022-10-21 02:09:26",,https://pulsedive.com/indicator/?iid=40229319,,,,,
 www.mozilla.org.session-63c04703d5d61138f8e2166693c1c4c0.intuit.security-center1.com,domain,none,,"2022-10-25 20:55:17","2022-10-25 20:55:17",,https://pulsedive.com/indicator/?iid=40475930,,,,,
 get.adobe.com.session-ed5fcf8d28965aff53700369c38feb9f.intuit.security-center1.com,domain,none,,"2022-10-25 20:55:20","2022-10-25 20:55:20",,https://pulsedive.com/indicator/?iid=40475931,,,,,
 org.session-63c04703d5d61138f8e2166693c1c4c0.intuit.security-center1.com,domain,unknown,,"2022-10-25 20:55:14","2022-10-25 20:55:14",,https://pulsedive.com/indicator/?iid=40475932,,,,,

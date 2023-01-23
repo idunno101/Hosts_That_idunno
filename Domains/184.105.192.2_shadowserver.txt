@@ -1,10 +1,6 @@
 0.0.0.0  amnsreiuojy.ru
-0.0.0.0  get.adobe.com.session-5cdf6dcb7e44164904292eab52156d2c.intuit.security-center1.com
 0.0.0.0  security-center1.com
 0.0.0.0  intuit.security-center1.com
-0.0.0.0  session-5cdf6dcb7e44164904292eab52156d2c.intuit.security-center1.com
-0.0.0.0  com.session-5cdf6dcb7e44164904292eab52156d2c.intuit.security-center1.com
-0.0.0.0  adobe.com.session-5cdf6dcb7e44164904292eab52156d2c.intuit.security-center1.com
 0.0.0.0  www.mozilla.org.session-63c04703d5d61138f8e2166693c1c4c0.intuit.security-center1.com
 0.0.0.0  get.adobe.com.session-ed5fcf8d28965aff53700369c38feb9f.intuit.security-center1.com
 0.0.0.0  org.session-63c04703d5d61138f8e2166693c1c4c0.intuit.security-center1.com
