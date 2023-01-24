@@ -7,10 +7,6 @@
 0.0.0.0  aircraft-splash.ru
 0.0.0.0  candle-warn.ru
 0.0.0.0  yeah-book-assignment.ru
-0.0.0.0  wxi6uzzres.zpti3tyb7h.com
-0.0.0.0  tradespace.org
-0.0.0.0  therepherpe.ru
-0.0.0.0  ratautomatic.ru
 0.0.0.0  vhm9meor.zpti3tyb7h.com
 0.0.0.0  asmobk.piterfm1.ru
 0.0.0.0  nbafxcuqeya.instsync.eu
