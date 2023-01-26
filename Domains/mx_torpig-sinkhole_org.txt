@@ -9,8 +9,6 @@
 0.0.0.0  toptechny.com
 0.0.0.0  finaljudgedomain.com
 0.0.0.0  retrmailse.com
-0.0.0.0  aosuyiybiube897yehi78.xyz
-0.0.0.0  www.aosuyiybiube897yehi78.xyz
 0.0.0.0  autoconfig.wesmailer.com
 0.0.0.0  hostmaster.alkoftenicocukadam.com
 0.0.0.0  alkoftenicocukadam.com
