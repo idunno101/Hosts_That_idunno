@@ -1,9 +1,5 @@
 0.0.0.0  mail.aw3bg.com
 0.0.0.0  aw3bg.com
-0.0.0.0  _domainkey.my-iri.org
-0.0.0.0  mail.my-iri.org
-0.0.0.0  google._domainkey.my-iri.org
-0.0.0.0  my-iri.org
 0.0.0.0  google.aw3bg.com
 0.0.0.0  autologonmicrosoftazuread-sso.aw3bg.com
 0.0.0.0  www.irf.services
