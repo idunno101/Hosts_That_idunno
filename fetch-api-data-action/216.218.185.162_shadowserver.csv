@@ -1,9 +1,9 @@
 indicator,type,risk,stamp_added,stamp_updated,stamp_seen,stamp_retired,reference,geo_city,geo_country,geo_countrycode,geo_org,dns_ptr
 216-218-185-162.sinkhole.shadowserver.org,domain,unknown,,"2023-01-19 23:03:26","2023-01-19 23:03:26",,https://pulsedive.com/indicator/?iid=18982833,"Statutory Masking Enabled","United States of America",US,,
-blackresoldoola.ru,domain,low,,"2023-01-02 21:19:34","2023-01-02 21:19:34",,https://pulsedive.com/indicator/?iid=19016276,,,,,
-freetesteer.ru,domain,low,,"2022-12-28 01:21:34","2022-12-28 01:21:34",,https://pulsedive.com/indicator/?iid=19035793,,,,,
-knmbbjypnhpg.ru,domain,low,,"2022-12-28 01:21:35","2022-12-28 01:21:35",,https://pulsedive.com/indicator/?iid=19035799,,,,,
-spasgofive.ru,domain,low,,"2022-12-28 05:44:24","2022-12-28 05:44:24",,https://pulsedive.com/indicator/?iid=19035801,,,,,
+blackresoldoola.ru,domain,none,,"2023-01-28 17:45:07","2023-01-02 21:19:34",,https://pulsedive.com/indicator/?iid=19016276,,,,,
+freetesteer.ru,domain,none,,"2023-01-28 17:45:22","2022-12-28 01:21:34",,https://pulsedive.com/indicator/?iid=19035793,,,,,
+knmbbjypnhpg.ru,domain,none,,"2023-01-28 17:45:22","2022-12-28 01:21:35",,https://pulsedive.com/indicator/?iid=19035799,,,,,
+spasgofive.ru,domain,none,,"2023-01-28 17:45:22","2022-12-28 05:44:24",,https://pulsedive.com/indicator/?iid=19035801,,,,,
 bbomii.pw,domain,low,,"2022-11-02 09:13:28","2022-11-02 09:13:28",,https://pulsedive.com/indicator/?iid=40784216,,,,,
 bboaprwoybpyhuord.me,domain,none,,"2022-11-02 09:13:32","2022-11-02 09:13:32",,https://pulsedive.com/indicator/?iid=40784217,,,,,
 spsrs4ahifwlchy854u.ws,domain,none,,"2022-11-02 09:13:43","2022-11-02 09:13:43",,https://pulsedive.com/indicator/?iid=40784218,,,,,
