@@ -1,5 +1,3 @@
-0.0.0.0  verble.rocks
-0.0.0.0  test.verble.rocks
 0.0.0.0  zpti3tyb7h.com
 0.0.0.0  imjdgzh0.com
 0.0.0.0  xuuu091d80.com
