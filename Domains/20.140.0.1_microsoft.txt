@@ -1,4 +1,1 @@
 0.0.0.0  avsvmcloud.com
-0.0.0.0  us-west-2.avsvmcloud.com
-0.0.0.0  us-east-2.avsvmcloud.com
-0.0.0.0  appsync-api.us-east-2.avsvmcloud.com
