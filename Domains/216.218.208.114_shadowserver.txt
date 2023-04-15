@@ -1,7 +1,1 @@
-0.0.0.0  216-218-208-114.sinkhole.shadowserver.org
-0.0.0.0  www.sarlncha.com
-0.0.0.0  www.storesidi.net
-0.0.0.0  www.ranesken.com
-0.0.0.0  sarlncha.com
-0.0.0.0  storesidi.net
-0.0.0.0  ranesken.com
+0.0.0.0  
