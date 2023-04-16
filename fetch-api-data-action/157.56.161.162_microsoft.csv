@@ -1,8 +1,1 @@
-indicator,type,risk,stamp_added,stamp_updated,stamp_seen,stamp_retired,reference,geo_city,geo_country,geo_countrycode,geo_org,dns_ptr
-mail.aw3bg.com,domain,unknown,,"2023-01-14 02:17:22","2023-01-14 02:17:22",,https://pulsedive.com/indicator/?iid=38376533,Redmond,"United States of America",US,,
-aw3bg.com,domain,unknown,,"2023-01-14 02:17:23","2023-01-14 02:17:23",,https://pulsedive.com/indicator/?iid=38376534,Redmond,"United States of America",US,,
-google.aw3bg.com,domain,unknown,,"2023-01-14 02:17:16","2023-01-14 02:17:16",,https://pulsedive.com/indicator/?iid=43660289,Redmond,"United States of America",US,,
-autologonmicrosoftazuread-sso.aw3bg.com,domain,unknown,,"2023-01-14 02:17:23","2023-01-14 02:17:23",,https://pulsedive.com/indicator/?iid=43660290,Redmond,"United States of America",US,,
-www.irf.services,domain,unknown,,"2023-01-14 02:17:31","2023-01-14 02:17:31",,https://pulsedive.com/indicator/?iid=43660293,,,,,
-irf.services,domain,unknown,,"2023-01-14 02:17:29","2023-01-14 02:17:29",,https://pulsedive.com/indicator/?iid=43660298,,,,,
-mail.irf.services,domain,unknown,,"2023-01-14 02:17:29","2023-01-14 02:17:29",,https://pulsedive.com/indicator/?iid=43660299,,,,,
+
