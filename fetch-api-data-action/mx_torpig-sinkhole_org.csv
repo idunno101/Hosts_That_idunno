@@ -1,6 +1,2 @@
 indicator,type,risk,stamp_added,stamp_updated,stamp_seen,stamp_retired,reference,geo_city,geo_country,geo_countrycode,geo_org,dns_ptr
-ns1.torpig-sinkhole.org,domain,unknown,,"2023-05-13 03:23:58","2023-03-30 01:58:03",,https://pulsedive.com/indicator/?iid=157724,[privacy],[privacy],,[privacy],
-ns2.torpig-sinkhole.org,domain,unknown,,"2023-05-13 03:23:58","2023-03-30 01:58:03",,https://pulsedive.com/indicator/?iid=157726,[privacy],[privacy],,[privacy],
-mx1.torpig-sinkhole.org,domain,unknown,,"2023-03-30 01:58:02","2023-03-30 01:58:02",,https://pulsedive.com/indicator/?iid=6941121,[privacy],[privacy],,[privacy],
 mx.torpig-sinkhole.org,domain,unknown,,"2023-04-04 20:48:18","2023-04-04 20:48:18",,https://pulsedive.com/indicator/?iid=6941123,[privacy],[privacy],,[privacy],
-mx2.torpig-sinkhole.org,domain,unknown,,"2023-03-30 01:58:02","2023-03-30 01:58:02",,https://pulsedive.com/indicator/?iid=6941124,[privacy],[privacy],,[privacy],
