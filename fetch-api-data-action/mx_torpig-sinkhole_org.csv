@@ -2,5 +2,5 @@ indicator,type,risk,stamp_added,stamp_updated,stamp_seen,stamp_retired,reference
 ns1.torpig-sinkhole.org,domain,unknown,,"2023-07-12 22:01:08","2023-07-12 22:01:08",,https://pulsedive.com/indicator/?iid=157724,[privacy],[privacy],,[privacy],
 ns2.torpig-sinkhole.org,domain,unknown,,"2023-07-12 22:01:08","2023-07-12 22:01:08",,https://pulsedive.com/indicator/?iid=157726,[privacy],[privacy],,[privacy],
 mx1.torpig-sinkhole.org,domain,unknown,,"2023-07-12 22:01:07","2023-07-12 22:01:07",,https://pulsedive.com/indicator/?iid=6941121,[privacy],[privacy],,[privacy],
-mx.torpig-sinkhole.org,domain,unknown,,"2023-07-12 22:01:07","2023-07-12 22:01:07",,https://pulsedive.com/indicator/?iid=6941123,[privacy],[privacy],,[privacy],
+mx.torpig-sinkhole.org,domain,unknown,,"2023-09-02 11:44:37","2023-09-02 11:44:37",,https://pulsedive.com/indicator/?iid=6941123,[privacy],[privacy],,[privacy],
 mx2.torpig-sinkhole.org,domain,unknown,,"2023-07-12 22:01:09","2023-07-12 22:01:09",,https://pulsedive.com/indicator/?iid=6941124,[privacy],[privacy],,[privacy],
