@@ -1,8 +1,8 @@
 indicator,type,risk,stamp_added,stamp_updated,stamp_seen,stamp_retired,reference,geo_city,geo_country,geo_countrycode,geo_org,dns_ptr
-blackresoldoola.ru,domain,none,,"2023-09-23 06:52:05","2023-09-23 06:52:05",,https://pulsedive.com/indicator/?iid=19016276,,,,,
-iipsuoqfbrwx.ru,domain,none,,"2023-09-23 22:08:16","2023-09-23 22:08:16",,https://pulsedive.com/indicator/?iid=19035788,,,,,
-freetesteer.ru,domain,none,,"2023-09-23 22:08:17","2023-09-23 22:08:17",,https://pulsedive.com/indicator/?iid=19035793,,,,,
-knmbbjypnhpg.ru,domain,none,,"2023-09-23 06:52:06","2023-09-23 06:52:06",,https://pulsedive.com/indicator/?iid=19035799,,,,,
+blackresoldoola.ru,domain,medium,,"2023-09-27 15:41:00","2023-09-27 15:41:00",,https://pulsedive.com/indicator/?iid=19016276,,,,,
+iipsuoqfbrwx.ru,domain,high,,"2023-09-27 11:50:50","2023-09-27 11:50:50",,https://pulsedive.com/indicator/?iid=19035788,,,,,
+freetesteer.ru,domain,none,,"2023-09-27 15:40:59","2023-09-27 15:40:59",,https://pulsedive.com/indicator/?iid=19035793,,,,,
+knmbbjypnhpg.ru,domain,none,,"2023-09-27 11:50:50","2023-09-27 11:50:50",,https://pulsedive.com/indicator/?iid=19035799,,,,,
 spasgofive.ru,domain,none,,"2023-09-22 11:17:48","2023-09-22 11:17:48",,https://pulsedive.com/indicator/?iid=19035801,,,,,
 ehiiebclpvfu.ru,domain,medium,,"2023-09-23 22:08:18","2023-09-23 22:08:18",,https://pulsedive.com/indicator/?iid=19035829,,,,,
-emrswwjrbehx.ru,domain,none,,"2023-09-23 06:52:04","2023-09-23 06:52:04",,https://pulsedive.com/indicator/?iid=19059530,,,,,
+emrswwjrbehx.ru,domain,low,,"2023-09-27 11:50:50","2023-09-27 11:50:50",,https://pulsedive.com/indicator/?iid=19059530,,,,,
