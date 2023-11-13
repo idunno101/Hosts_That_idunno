@@ -1,7 +1,7 @@
 indicator,type,risk,stamp_added,stamp_updated,stamp_seen,stamp_retired,reference,geo_city,geo_country,geo_countrycode,geo_org,dns_ptr
-logroom.top,domain,critical,,"2023-11-11 15:47:23","2023-11-11 15:47:23",,https://pulsedive.com/indicator/?iid=10015352,Owerri,Nigeria,NG,,
-cpf-th.com,domain,critical,,"2023-11-11 15:46:16","2023-11-11 15:46:16",,https://pulsedive.com/indicator/?iid=10152752,"Los Angeles","United States of America",US,,
-winqits.com,domain,none,,"2023-11-11 16:07:48","2023-11-11 16:07:48",,https://pulsedive.com/indicator/?iid=11355657,[privacy],[privacy],,[privacy],
-brascase-br.com,domain,unknown,,"2023-11-11 16:10:52","2023-11-11 16:10:52",,https://pulsedive.com/indicator/?iid=14720702,Central-Mid-Levels,"Hong Kong",HK,,
-pmw-ch.com,domain,critical,,"2023-11-11 15:46:40","2023-11-11 15:46:40",,https://pulsedive.com/indicator/?iid=18791259,"Los Angeles","United States of America",US,,
-hgmatal.com,domain,critical,,"2023-11-11 15:47:21","2023-11-11 15:47:21",,https://pulsedive.com/indicator/?iid=20017781,,,,,
+logroom.top,domain,critical,,"2023-11-12 14:31:10","2023-11-12 14:31:10",,https://pulsedive.com/indicator/?iid=10015352,Owerri,Nigeria,NG,,
+cpf-th.com,domain,critical,,"2023-11-12 14:30:18","2023-11-12 14:30:18",,https://pulsedive.com/indicator/?iid=10152752,"Los Angeles","United States of America",US,,
+winqits.com,domain,none,,"2023-11-12 14:44:42","2023-11-12 14:44:42",,https://pulsedive.com/indicator/?iid=11355657,[privacy],[privacy],,[privacy],
+brascase-br.com,domain,unknown,,"2023-11-12 14:45:09","2023-11-12 14:45:09",,https://pulsedive.com/indicator/?iid=14720702,Central-Mid-Levels,"Hong Kong",HK,,
+pmw-ch.com,domain,critical,,"2023-11-12 14:30:43","2023-11-12 14:30:43",,https://pulsedive.com/indicator/?iid=18791259,"Los Angeles","United States of America",US,,
+hgmatal.com,domain,critical,,"2023-11-12 14:31:08","2023-11-12 14:31:08",,https://pulsedive.com/indicator/?iid=20017781,,,,,
