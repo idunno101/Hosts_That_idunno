@@ -1,7 +1,7 @@
 indicator,type,risk,stamp_added,stamp_updated,stamp_seen,stamp_retired,reference,geo_city,geo_country,geo_countrycode,geo_org,dns_ptr
 logroom.top,domain,critical,,"2024-01-12 20:45:48","2024-01-12 20:45:48",,https://pulsedive.com/indicator/?iid=10015352,Owerri,Nigeria,NG,,
 cpf-th.com,domain,low,,"2024-01-12 20:41:48","2024-01-12 20:41:48",,https://pulsedive.com/indicator/?iid=10152752,[privacy],[privacy],,[privacy],
-uyhgqunqkxnx.pw,domain,critical,,"2024-01-16 22:41:47","2024-01-16 22:16:00",,https://pulsedive.com/indicator/?iid=10900958,,,,,
+uyhgqunqkxnx.pw,domain,critical,,"2024-01-17 23:19:51","2024-01-17 22:16:00",,https://pulsedive.com/indicator/?iid=10900958,,,,,
 winqits.com,domain,none,,"2024-01-12 20:59:57","2024-01-12 20:59:57",,https://pulsedive.com/indicator/?iid=11355657,[privacy],[privacy],,[privacy],
 brascase-br.com,domain,unknown,,"2024-01-12 21:04:07","2024-01-12 21:04:07",,https://pulsedive.com/indicator/?iid=14720702,Central-Mid-Levels,"Hong Kong",HK,,
 pmw-ch.com,domain,critical,,"2024-01-12 20:42:05","2024-01-12 20:42:05",,https://pulsedive.com/indicator/?iid=18791259,"Los Angeles","United States of America",US,,
