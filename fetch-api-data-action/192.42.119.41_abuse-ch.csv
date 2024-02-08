@@ -1,2 +1,2 @@
 indicator,type,risk,stamp_added,stamp_updated,stamp_seen,stamp_retired,reference,geo_city,geo_country,geo_countrycode,geo_org,dns_ptr
-logroom.top,domain,critical,,"2024-02-01 07:29:15","2024-02-01 07:29:15",,https://pulsedive.com/indicator/?iid=10015352,Owerri,Nigeria,NG,,
+logroom.top,domain,critical,,"2024-02-06 10:49:59","2024-02-06 10:49:59",,https://pulsedive.com/indicator/?iid=10015352,Owerri,Nigeria,NG,,
