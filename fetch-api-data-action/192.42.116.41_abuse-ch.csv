@@ -1,7 +1,7 @@
 indicator,type,risk,stamp_added,stamp_updated,stamp_seen,stamp_retired,reference,geo_city,geo_country,geo_countrycode,geo_org,dns_ptr
 logroom.top,domain,critical,,"2024-03-10 19:48:30","2024-03-10 19:48:30",,https://pulsedive.com/indicator/?iid=10015352,Owerri,Nigeria,NG,,
 cpf-th.com,domain,low,,"2024-03-10 19:48:07","2024-03-10 19:48:07",,https://pulsedive.com/indicator/?iid=10152752,[privacy],[privacy],,[privacy],
-uyhgqunqkxnx.pw,domain,critical,,"2024-03-13 11:08:45","2024-03-13 10:15:00",,https://pulsedive.com/indicator/?iid=10900958,,,,,
+uyhgqunqkxnx.pw,domain,critical,,"2024-03-15 21:14:22","2024-03-15 20:15:00",,https://pulsedive.com/indicator/?iid=10900958,,,,,
 winqits.com,domain,none,,"2024-03-10 19:57:30","2024-03-10 19:57:30",,https://pulsedive.com/indicator/?iid=11355657,[privacy],[privacy],,[privacy],
 brascase-br.com,domain,unknown,,"2024-03-10 19:57:39","2024-03-10 19:57:39",,https://pulsedive.com/indicator/?iid=14720702,Central-Mid-Levels,"Hong Kong",HK,,
 pmw-ch.com,domain,high,,"2024-03-10 19:48:18","2024-03-10 19:48:18",,https://pulsedive.com/indicator/?iid=18791259,Benin,Nigeria,NG,,
