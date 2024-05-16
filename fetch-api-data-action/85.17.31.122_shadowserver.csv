@@ -1,1 +1,3 @@
-
+indicator,type,risk,stamp_added,stamp_updated,stamp_seen,stamp_retired,reference,geo_city,geo_country,geo_countrycode,geo_org,dns_ptr
+checklicence.net,domain,low,,"2024-05-15 23:04:26","2024-05-15 23:04:26",,https://pulsedive.com/indicator/?iid=59360975,[privacy],[privacy],,[privacy],
+pbarsec.com,domain,low,,"2024-05-15 23:04:27","2024-05-15 23:04:26",,https://pulsedive.com/indicator/?iid=59360980,[privacy],[privacy],,[privacy],
