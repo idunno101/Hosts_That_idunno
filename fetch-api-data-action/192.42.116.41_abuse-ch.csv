@@ -1,8 +1,8 @@
 indicator,type,risk,stamp_added,stamp_updated,stamp_seen,stamp_retired,reference,geo_city,geo_country,geo_countrycode,geo_org,dns_ptr
-logroom.top,domain,critical,,"2025-06-14 23:48:23","2025-06-14 23:48:23",,https://pulsedive.com/indicator/?iid=10015352,Owerri,Nigeria,NG,,
-cpf-th.com,domain,low,,"2025-06-14 23:47:58","2025-06-14 23:47:58",,https://pulsedive.com/indicator/?iid=10152752,"San Mateo","United States of America",US,,
-uyhgqunqkxnx.pw,domain,critical,,"2025-06-15 00:39:18","2025-06-15 00:39:18",,https://pulsedive.com/indicator/?iid=10900958,,,,,
+logroom.top,domain,critical,,"2025-06-16 04:52:28","2025-06-16 04:52:28",,https://pulsedive.com/indicator/?iid=10015352,Owerri,Nigeria,NG,,
+cpf-th.com,domain,low,,"2025-06-16 04:52:01","2025-06-16 04:52:01",,https://pulsedive.com/indicator/?iid=10152752,"San Mateo","United States of America",US,,
+uyhgqunqkxnx.pw,domain,critical,,"2025-06-15 12:51:33","2025-06-15 12:51:33",,https://pulsedive.com/indicator/?iid=10900958,,,,,
 winqits.com,domain,none,,"2025-06-14 23:57:05","2025-06-14 23:57:05",,https://pulsedive.com/indicator/?iid=11355657,"Panama City",Panama,PA,,
 brascase-br.com,domain,unknown,,"2025-06-14 23:57:16","2025-06-14 23:57:16",,https://pulsedive.com/indicator/?iid=14720702,Central-Mid-Levels,"Hong Kong",HK,,
-pmw-ch.com,domain,low,,"2025-06-14 23:48:03","2025-06-14 23:48:03",,https://pulsedive.com/indicator/?iid=18791259,Benin,Nigeria,NG,,
-hgmatal.com,domain,critical,,"2025-06-14 23:48:21","2025-06-14 23:48:21",,https://pulsedive.com/indicator/?iid=20017781,,,,,
+pmw-ch.com,domain,low,,"2025-06-16 04:51:58","2025-06-16 04:51:58",,https://pulsedive.com/indicator/?iid=18791259,Benin,Nigeria,NG,,
+hgmatal.com,domain,critical,,"2025-06-16 04:52:27","2025-06-16 04:52:27",,https://pulsedive.com/indicator/?iid=20017781,,,,,
