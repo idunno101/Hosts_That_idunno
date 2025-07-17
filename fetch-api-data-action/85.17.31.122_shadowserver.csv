@@ -1,6 +1,6 @@
 indicator,type,risk,stamp_added,stamp_updated,stamp_seen,stamp_retired,reference,geo_city,geo_country,geo_countrycode,geo_org,dns_ptr
-ropmibwbwfkevluntsfv.com,domain,low,,"2025-07-14 17:23:22","2025-07-14 17:23:22",,https://pulsedive.com/indicator/?iid=19801609,"REDACTED FOR PRIVACY",Netherlands,NL,,
-digitalcollege.org,domain,low,,"2025-07-14 17:55:34","2025-07-14 17:55:34",,https://pulsedive.com/indicator/?iid=27786118,,"United States of America",US,,
+ropmibwbwfkevluntsfv.com,domain,high,,"2025-07-16 14:30:13","2025-07-16 14:30:13",,https://pulsedive.com/indicator/?iid=19801609,"REDACTED FOR PRIVACY",Netherlands,NL,,
+digitalcollege.org,domain,low,,"2025-07-16 15:04:02","2025-07-16 15:04:02",,https://pulsedive.com/indicator/?iid=27786118,,"United States of America",US,,
 yige.googlevipmail.net,domain,unknown,,"2025-06-14 00:53:01","2025-04-27 06:31:25",,https://pulsedive.com/indicator/?iid=29861848,,"United States of America",US,,
 100ulife.com,domain,medium,,"2025-06-16 02:35:24","2025-06-16 02:35:24",,https://pulsedive.com/indicator/?iid=70634991,,,,,
 catmos99.com,domain,medium,,"2025-06-16 02:48:12","2025-06-16 02:48:12",,https://pulsedive.com/indicator/?iid=70635677,,,,,
