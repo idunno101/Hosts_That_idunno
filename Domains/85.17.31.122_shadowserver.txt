@@ -1,6 +1,5 @@
 0.0.0.0  ropmibwbwfkevluntsfv.com
 0.0.0.0  digitalcollege.org
-0.0.0.0  yige.googlevipmail.net
 0.0.0.0  100ulife.com
 0.0.0.0  catmos99.com
 0.0.0.0  cbphe.com
