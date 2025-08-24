@@ -8,7 +8,6 @@
 0.0.0.0  dnschopnewload.ru
 0.0.0.0  newstatinru.ru
 0.0.0.0  newvetcveterdns.ru
-0.0.0.0  testfreelanceany.ru
 0.0.0.0  insarezerverinsa.ru
 0.0.0.0  fehcppkcdevv.ru
 0.0.0.0  textlianeone.ru
