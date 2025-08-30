@@ -1,6 +1,6 @@
 indicator,type,risk,stamp_added,stamp_updated,stamp_seen,stamp_retired,reference,geo_city,geo_country,geo_countrycode,geo_org,dns_ptr
-ropmibwbwfkevluntsfv.com,domain,high,,"2025-08-25 08:32:46","2025-08-25 08:32:46",,https://pulsedive.com/indicator/?iid=19801609,"San Mateo","United States",US,,
-digitalcollege.org,domain,high,,"2025-08-25 08:41:53","2025-08-25 08:41:53",,https://pulsedive.com/indicator/?iid=27786118,,"United States of America",US,,
+ropmibwbwfkevluntsfv.com,domain,medium,,"2025-08-29 15:43:59","2025-08-29 15:43:59",,https://pulsedive.com/indicator/?iid=19801609,"San Mateo","United States",US,,
+digitalcollege.org,domain,high,,"2025-08-29 16:24:42","2025-08-29 16:24:42",,https://pulsedive.com/indicator/?iid=27786118,,"United States of America",US,,
 100ulife.com,domain,low,,"2025-07-19 00:49:02","2025-06-16 02:35:24",,https://pulsedive.com/indicator/?iid=70634991,,,,,
 catmos99.com,domain,low,,"2025-07-19 00:49:02","2025-06-16 02:48:12",,https://pulsedive.com/indicator/?iid=70635677,,,,,
 cbphe.com,domain,low,,"2025-07-19 00:49:02","2025-06-16 02:48:37",,https://pulsedive.com/indicator/?iid=70635678,,,,,
