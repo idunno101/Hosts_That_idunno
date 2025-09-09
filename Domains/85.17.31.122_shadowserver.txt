@@ -10,3 +10,4 @@
 0.0.0.0  meiboot.com
 0.0.0.0  okamiboss.com
 0.0.0.0  ycxrl.com
+0.0.0.0  str-master.pw
