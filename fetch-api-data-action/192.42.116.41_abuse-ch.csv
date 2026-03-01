@@ -1,7 +1,7 @@
 indicator,type,risk,stamp_added,stamp_updated,stamp_seen,stamp_retired,reference,geo_city,geo_country,geo_countrycode,geo_org,dns_ptr
 logroom.top,domain,critical,,"2026-02-25 18:14:47","2026-02-25 18:14:47",,https://pulsedive.com/indicator/?iid=10015352,Owerri,Nigeria,NG,,
 cpf-th.com,domain,low,,"2026-02-25 18:14:22","2026-02-25 18:14:22",,https://pulsedive.com/indicator/?iid=10152752,"San Mateo","United States of America",US,,
-uyhgqunqkxnx.pw,domain,critical,,"2026-02-25 18:59:20","2026-02-25 18:59:20",,https://pulsedive.com/indicator/?iid=10900958,,,,,
+uyhgqunqkxnx.pw,domain,critical,,"2026-02-28 17:29:02","2026-02-28 17:29:02",,https://pulsedive.com/indicator/?iid=10900958,,,,,
 winqits.com,domain,none,,"2026-02-25 18:23:25","2026-02-25 18:23:25",,https://pulsedive.com/indicator/?iid=11355657,"Panama City",Panama,PA,,
 brascase-br.com,domain,unknown,,"2026-02-25 18:23:32","2026-02-25 18:23:32",,https://pulsedive.com/indicator/?iid=14720702,Central-Mid-Levels,"Hong Kong",HK,,
 pmw-ch.com,domain,low,,"2026-02-25 18:14:24","2026-02-25 18:14:24",,https://pulsedive.com/indicator/?iid=18791259,Benin,Nigeria,NG,,
